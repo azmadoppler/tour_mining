@@ -1,0 +1,15 @@
+{
+  "name": "test_mining",
+  "version": "1.0.0",
+  "description": "Testing Twitter API",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "twit": "^2.2.5"
+  }
+}

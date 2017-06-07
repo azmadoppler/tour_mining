@@ -1,0 +1,792 @@
+TokyoTower , User ID : 194782782 , Longitude : 139.74110484, Latitude : 35.67390984
+
+TokyoTower , User ID : 117237000 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 17123286 , Longitude : 139.6909754, Latitude : 35.68574829
+
+TokyoTower , User ID : 222523859 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 16414118 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 78486286 , Longitude : 139.74830925, Latitude : 35.6573965
+
+TokyoTower , User ID : 17648481 , Longitude : 139.69082085, Latitude : 35.68617834
+
+TokyoTower , User ID : 133564078 , Longitude : 139.73025887, Latitude : 35.6192471
+
+TokyoTower , User ID : 103524114 , Longitude : 139.75627005, Latitude : 35.6403021
+
+TokyoTower , User ID : 4743111974 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 131133214 , Longitude : 139.745594, Latitude : 35.658847
+
+TokyoTower , User ID : 131133214 , Longitude : 139.745594, Latitude : 35.658847
+
+TokyoTower , User ID : 131133214 , Longitude : 139.745594, Latitude : 35.658847
+
+TokyoTower , User ID : 3107076992 , Longitude : 139.52297151, Latitude : 35.73510881
+
+TokyoTower , User ID : 148020161 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 169903581 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 95666402 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 70329172 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 107712554 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 223016942 , Longitude : 139.76940865, Latitude : 35.68301656
+
+TokyoTower , User ID : 85238731 , Longitude : 139.73931916, Latitude : 35.66491826
+
+TokyoTower , User ID : 4527911412 , Longitude : 139.71321471, Latitude : 35.64235714
+
+TokyoTower , User ID : 194782782 , Longitude : 139.74110484, Latitude : 35.67390984
+
+TokyoTower , User ID : 117237000 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 17123286 , Longitude : 139.6909754, Latitude : 35.68574829
+
+TokyoTower , User ID : 222523859 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 16414118 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 78486286 , Longitude : 139.74830925, Latitude : 35.6573965
+
+TokyoTower , User ID : 17648481 , Longitude : 139.69082085, Latitude : 35.68617834
+
+TokyoTower , User ID : 133564078 , Longitude : 139.73025887, Latitude : 35.6192471
+
+TokyoTower , User ID : 103524114 , Longitude : 139.75627005, Latitude : 35.6403021
+
+TokyoTower , User ID : 4743111974 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 74405316 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 200264636 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 1400028474 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 200264636 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 108809607 , Longitude : 139.76219057, Latitude : 35.65394742
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 114746645 , Longitude : 136.88373689, Latitude : 35.17187837
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 426472066 , Longitude : 139.75043147, Latitude : 35.63744017
+
+TokyoTower , User ID : 1400028474 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 727844172997132289 , Longitude : 139.73, Latitude : 35.66
+
+TokyoTower , User ID : 21818791 , Longitude : 139.78022862, Latitude : 35.69648119
+
+TokyoTower , User ID : 2864814035 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 3316355388 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 477648808 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 98408204 , Longitude : 139.70536019, Latitude : 35.7317733
+
+TokyoTower , User ID : 581024325 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 310581040 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 403186218 , Longitude : 139.73618031, Latitude : 35.67295112
+
+TokyoTower , User ID : 4882146885 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 2878423380 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 267587621 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 774776069672964098 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 310581040 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 731102355026890753 , Longitude : 139.73648608, Latitude : 35.6728596
+
+TokyoTower , User ID : 3377241 , Longitude : 139.68974899, Latitude : 35.69638072
+
+TokyoTower , User ID : 45284903 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 2451643429 , Longitude : 139.7488296, Latitude : 35.66205579
+
+TokyoTower , User ID : 161989257 , Longitude : 139.76771636, Latitude : 35.67883605
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 99272731 , Longitude : 139.74553076, Latitude : 35.65857886
+
+TokyoTower , User ID : 83108212 , Longitude : 139.73648608, Latitude : 35.6728596
+
+TokyoTower , User ID : 3377241 , Longitude : 139.68766987, Latitude : 35.69414262
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74056156, Latitude : 35.67276723
+
+TokyoTower , User ID : 60528711 , Longitude : 139.732862, Latitude : 35.684931
+
+TokyoTower , User ID : 16062927 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 305660688 , Longitude : 139.74475392, Latitude : 35.65268943
+
+TokyoTower , User ID : 98016012 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 183586154 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 223016942 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 425744590 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 164759742 , Longitude : 139.76771636, Latitude : 35.67883605
+
+TokyoTower , User ID : 223016942 , Longitude : 139.75954771, Latitude : 35.67193138
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 25647016 , Longitude : 139.68924547, Latitude : 35.69618384
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 136660806 , Longitude : 139.76759656, Latitude : 35.66955198
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 46393552 , Longitude : 139.73671468, Latitude : 35.62263858
+
+TokyoTower , User ID : 99103564 , Longitude : 139.73640561, Latitude : 35.67319516
+
+TokyoTower , User ID : 99103564 , Longitude : 139.73688432, Latitude : 35.67281231
+
+TokyoTower , User ID : 99103564 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 106967720 , Longitude : 139.74055556, Latitude : 35.6475
+
+TokyoTower , User ID : 566318564 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 786222064596156418 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 152746692 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 101147023 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 71485317 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 1538943714 , Longitude : 136.90835499, Latitude : 35.1719842
+
+TokyoTower , User ID : 456776371 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 76606449 , Longitude : 139.52297151, Latitude : 35.73510881
+
+TokyoTower , User ID : 108919847 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 2931708631 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 64619524 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 333989391 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 2595995118 , Longitude : 139.76421713, Latitude : 35.67179315
+
+TokyoTower , User ID : 139115175 , Longitude : 139.739612, Latitude : 35.664426
+
+TokyoTower , User ID : 99518839 , Longitude : 139.70153055, Latitude : 35.68978894
+
+TokyoTower , User ID : 71485317 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 715965630118113282 , Longitude : 139.73688432, Latitude : 35.67281231
+
+TokyoTower , User ID : 577190968 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 2354793704 , Longitude : 139.70153055, Latitude : 35.68978894
+
+TokyoTower , User ID : 154578193 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 423748196 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 877936963 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 98016012 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 6593982 , Longitude : 139.7643978, Latitude : 35.6699522
+
+TokyoTower , User ID : 919134061 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 253497953 , Longitude : 139.76026805, Latitude : 35.63780211
+
+TokyoTower , User ID : 139429899 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 118306854 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 2375293376 , Longitude : 139.71859741, Latitude : 35.64696884
+
+TokyoTower , User ID : 848614824 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 1525235203 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 486597929 , Longitude : 139.7363466, Latitude : 35.62858477
+
+TokyoTower , User ID : 107573628 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 737464044869668869 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 129230154 , Longitude : 139.73212481, Latitude : 35.6185294
+
+TokyoTower , User ID : 2376893503 , Longitude : 139.74094391, Latitude : 35.67410158
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 230369365 , Longitude : 139.74554814, Latitude : 35.65854944
+
+TokyoTower , User ID : 281297103 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 941569758 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 118369395 , Longitude : 139.75049289, Latitude : 35.66394787
+
+TokyoTower , User ID : 20596452 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 790132957679726594 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 114200837 , Longitude : 139.74564314, Latitude : 35.65846437
+
+TokyoTower , User ID : 994568430 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 514674318 , Longitude : 139.72935071, Latitude : 35.66036423
+
+TokyoTower , User ID : 2781046033 , Longitude : 139.69793551, Latitude : 35.69215237
+
+TokyoTower , User ID : 509114088 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 93360549 , Longitude : 139.76386005, Latitude : 35.6697328
+
+TokyoTower , User ID : 268156131 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 59789204 , Longitude : 139.7643978, Latitude : 35.6699522
+
+TokyoTower , User ID : 308851183 , Longitude : 139.73797202, Latitude : 35.66476233
+
+TokyoTower , User ID : 119374586 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 129230154 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 141224037 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 141224037 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 15531381 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 171038125 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 129230154 , Longitude : 139.72566938, Latitude : 35.67279077
+
+TokyoTower , User ID : 172774182 , Longitude : 139.76005926, Latitude : 35.66478432
+
+TokyoTower , User ID : 3857201 , Longitude : 139.72925966, Latitude : 35.660431
+
+TokyoTower , User ID : 480525180 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 183617231 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 112533959 , Longitude : 139.74830925, Latitude : 35.6573965
+
+TokyoTower , User ID : 2787725574 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 229768556 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 522889463 , Longitude : 139.76025796, Latitude : 35.66307453
+
+TokyoTower , User ID : 563605738 , Longitude : 139.74824288, Latitude : 35.65892266
+
+TokyoTower , User ID : 126566900 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 119374586 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 129230154 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 2831273178 , Longitude : 139.76361111, Latitude : 35.63638889
+
+TokyoTower , User ID : 359397237 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 126893878 , Longitude : 139.7470467, Latitude : 35.6554372
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 2456419716 , Longitude : 139.70084157, Latitude : 35.66177837
+
+TokyoTower , User ID : 122298761 , Longitude : 139.739612, Latitude : 35.664426
+
+TokyoTower , User ID : 2594659374 , Longitude : 139.6931428, Latitude : 35.6931319
+
+TokyoTower , User ID : 871776210 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 3236106570 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 120688786 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 3232183453 , Longitude : 139.74198523, Latitude : 35.66199371
+
+TokyoTower , User ID : 3232183453 , Longitude : 139.74196846, Latitude : 35.66207789
+
+TokyoTower , User ID : 87449913 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 82063349 , Longitude : 139.75627005, Latitude : 35.6403021
+
+TokyoTower , User ID : 401417900 , Longitude : 139.7470467, Latitude : 35.6554372
+
+TokyoTower , User ID : 4675237634 , Longitude : 139.75125531, Latitude : 35.6538787
+
+TokyoTower , User ID : 2926462105 , Longitude : 139.73419444, Latitude : 35.64113611
+
+TokyoTower , User ID : 85238731 , Longitude : 139.73931916, Latitude : 35.66491826
+
+TokyoTower , User ID : 1879309098 , Longitude : 139.73518298, Latitude : 35.67795669
+
+TokyoTower , User ID : 2989493349 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 112123911 , Longitude : 139.74053163, Latitude : 35.67259247
+
+TokyoTower , User ID : 798589032 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 130883354 , Longitude : 135.51874904, Latitude : 34.70031473
+
+TokyoTower , User ID : 57477198 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74031208, Latitude : 35.67293621
+
+TokyoTower , User ID : 35434021 , Longitude : 139.74557, Latitude : 35.65852915
+
+TokyoTower , User ID : 122120068 , Longitude : 139.73954369, Latitude : 35.67099455
+
+TokyoTower , User ID : 459026722 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 98016012 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 74405316 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 164759742 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 57477198 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 155453458 , Longitude : 139.76898909, Latitude : 35.54497248
+
+TokyoTower , User ID : 383264575 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 108809607 , Longitude : 139.76219057, Latitude : 35.65394742
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 765798588 , Longitude : 139.70350019, Latitude : 35.70819821
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 107870840 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 1461653964 , Longitude : 139.63345193, Latitude : 35.71330151
+
+TokyoTower , User ID : 495010557 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 107870840 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74518471, Latitude : 35.65497272
+
+TokyoTower , User ID : 2901169020 , Longitude : 139.73025887, Latitude : 35.6192471
+TokyoTower , User ID : 774776069672964098 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 1022181600 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 230420231 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 2864814035 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 15206901 , Longitude : 139.732862, Latitude : 35.684931
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 145242967 , Longitude : 139.76005926, Latitude : 35.66478432
+
+TokyoTower , User ID : 99518839 , Longitude : 139.76771636, Latitude : 35.67883605
+
+TokyoTower , User ID : 6596652 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 434190732 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 223016942 , Longitude : 139.75954771, Latitude : 35.67193138
+
+TokyoTower , User ID : 10537182 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 121683524 , Longitude : 139.74553076, Latitude : 35.65857886
+
+TokyoTower , User ID : 44629928 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 58783718 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 28068234 , Longitude : 139.7393491, Latitude : 35.66542946
+
+TokyoTower , User ID : 127462347 , Longitude : 127.10261106, Latitude : 37.51287057
+
+TokyoTower , User ID : 145579296 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 102313740 , Longitude : 139.77675242, Latitude : 35.62503326
+
+TokyoTower , User ID : 71168401 , Longitude : 139.7529621, Latitude : 35.65967369
+
+TokyoTower , User ID : 267738878 , Longitude : 139.75954771, Latitude : 35.67193138
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74056156, Latitude : 35.67276723
+
+TokyoTower , User ID : 68732735 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 223016942 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 6596652 , Longitude : 139.7515, Latitude : 35.6614
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 765798588 , Longitude : 139.70350019, Latitude : 35.70819821
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 2916853449 , Longitude : 139.76771636, Latitude : 35.67883605
+
+TokyoTower , User ID : 2578584218 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 1326600656 , Longitude : 139.61867481, Latitude : 35.46454454
+
+TokyoTower , User ID : 83304248 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 20257540 , Longitude : 139.63345193, Latitude : 35.71330151
+
+TokyoTower , User ID : 120302636 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 80305991 , Longitude : 139.7488296, Latitude : 35.66205579
+
+TokyoTower , User ID : 947781007 , Longitude : 139.72925966, Latitude : 35.660431
+
+TokyoTower , User ID : 1399710686 , Longitude : 139.70153055, Latitude : 35.68978894
+
+TokyoTower , User ID : 730366652 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 2502909079 , Longitude : 139.70153055, Latitude : 35.68978894
+
+TokyoTower , User ID : 1290384668 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 273872623 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 52697936 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 1009053319 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 451499439 , Longitude : 139.78815179, Latitude : 35.68515074
+
+TokyoTower , User ID : 2909670914 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 192570297 , Longitude : 139.74094391, Latitude : 35.67410158
+
+TokyoTower , User ID : 261171011 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 122120068 , Longitude : 139.73954369, Latitude : 35.67099455
+
+TokyoTower , User ID : 125599584 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 205278010 , Longitude : 139.74140482, Latitude : 35.67931255
+
+TokyoTower , User ID : 4838032381 , Longitude : 139.72943858, Latitude : 35.66049471
+
+TokyoTower , User ID : 20257540 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 102350271 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 99103564 , Longitude : 139.73688432, Latitude : 35.67281231
+
+TokyoTower , User ID : 99103564 , Longitude : 139.73640561, Latitude : 35.67319516
+
+TokyoTower , User ID : 99103564 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 66601333 , Longitude : 139.73711882, Latitude : 35.62780426
+
+TokyoTower , User ID : 125565639 , Longitude : 139.66487333, Latitude : 35.70712205
+
+TokyoTower , User ID : 104411200 , Longitude : 139.71477879, Latitude : 35.66977966
+
+TokyoTower , User ID : 730366652 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 21725893 , Longitude : 139.75867778, Latitude : 35.66630278
+
+TokyoTower , User ID : 552642657 , Longitude : 139.39334566, Latitude : 35.7035423
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 189016890 , Longitude : 139.72925966, Latitude : 35.660431
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74553076, Latitude : 35.65857886
+
+TokyoTower , User ID : 7434192 , Longitude : 139.67183934, Latitude : 35.55134184
+
+TokyoTower , User ID : 3221860466 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 28005792 , Longitude : 139.75546248, Latitude : 35.65759823
+
+TokyoTower , User ID : 125565639 , Longitude : 139.66487333, Latitude : 35.70712205
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 77492013 , Longitude : 135.75080579, Latitude : 34.99494141
+
+TokyoTower , User ID : 192570297 , Longitude : 139.74056156, Latitude : 35.67276723
+
+TokyoTower , User ID : 191831529 , Longitude : 139.75926565, Latitude : 35.69379156
+
+TokyoTower , User ID : 1080984014 , Longitude : 139.7488296, Latitude : 35.66205579
+
+TokyoTower , User ID : 122120068 , Longitude : 139.73954369, Latitude : 35.67099455
+
+TokyoTower , User ID : 38951612 , Longitude : 139.74087092, Latitude : 35.62594573
+
+TokyoTower , User ID : 1080984014 , Longitude : 139.75627005, Latitude : 35.6403021
+
+TokyoTower , User ID : 774776069672964098 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 83108212 , Longitude : 139.73647021, Latitude : 35.67282451
+
+TokyoTower , User ID : 548087409 , Longitude : 139.703, Latitude : 35.708588
+
+TokyoTower , User ID : 61403448 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 94465609 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 87104291 , Longitude : 139.73212481, Latitude : 35.6185294
+
+TokyoTower , User ID : 1063505598 , Longitude : 139.74321775, Latitude : 35.66479175
+
+TokyoTower , User ID : 97927857 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 92288769 , Longitude : 139.76219057, Latitude : 35.65394742
+
+TokyoTower , User ID : 2973499434 , Longitude : 139.70112652, Latitude : 35.66182698
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 108809607 , Longitude : 139.76219057, Latitude : 35.65394742
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 433055459 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 765798588 , Longitude : 139.70350019, Latitude : 35.70819821
+
+TokyoTower , User ID : 6386322 , Longitude : 139.7292316, Latitude : 35.66034727
+
+TokyoTower , User ID : 3377241 , Longitude : 139.69055164, Latitude : 35.69572654
+
+TokyoTower , User ID : 391782935 , Longitude : 139.7470467, Latitude : 35.6554372
+
+TokyoTower , User ID : 726354903413596160 , Longitude : 139.74707276, Latitude : 35.65546667
+
+TokyoTower , User ID : 291499050 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 426472066 , Longitude : 139.74797662, Latitude : 35.63135064
+
+TokyoTower , User ID : 15136006 , Longitude : 139.7420934, Latitude : 35.66319908
+
+TokyoTower , User ID : 15136006 , Longitude : 139.74144474, Latitude : 35.66399584
+
+TokyoTower , User ID : 98261950 , Longitude : 139.75762778, Latitude : 35.65523056
+
+TokyoTower , User ID : 255578954 , Longitude : 139.74542856, Latitude : 35.65863871
+
+TokyoTower , User ID : 1575376496 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 255578954 , Longitude : 139.74547867, Latitude : 35.65855936
+
+TokyoTower , User ID : 947781007 , Longitude : 139.6381361, Latitude : 35.6038954
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 255578954 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 255578954 , Longitude : 139.7463955, Latitude : 35.65730017
+
+TokyoTower , User ID : 129230154 , Longitude : 139.70153055, Latitude : 35.68978894
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 87449913 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 223016942 , Longitude : 139.75954771, Latitude : 35.67193138
+
+TokyoTower , User ID : 98016012 , Longitude : 139.733, Latitude : 35.65
+
+TokyoTower , User ID : 192570297 , Longitude : 139.74094391, Latitude : 35.67410158
+
+TokyoTower , User ID : 2274974646 , Longitude : 139.77514744, Latitude : 35.69735561
+
+TokyoTower , User ID : 548087409 , Longitude : 139.703, Latitude : 35.708588
+
+TokyoTower , User ID : 3224674639 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 2976823597 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 241518702 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 1206054036 , Longitude : 139.74221316, Latitude : 35.66320099
+
+TokyoTower , User ID : 187152275 , Longitude : 139.739612, Latitude : 35.664426
+
+TokyoTower , User ID : 4304631 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 70957977 , Longitude : 139.77338745, Latitude : 35.68693803
+
+TokyoTower , User ID : 19891663 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 223286416 , Longitude : 139.69074109, Latitude : 35.69376799
+
+TokyoTower , User ID : 114111176 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 67555366 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 180320887 , Longitude : 139.74076152, Latitude : 35.67309928
+
+TokyoTower , User ID : 765798588 , Longitude : 139.70350019, Latitude : 35.70819821
+
+TokyoTower , User ID : 21336569 , Longitude : 139.75049289, Latitude : 35.66394787
+
+TokyoTower , User ID : 99103564 , Longitude : 139.7367047, Latitude : 35.6728339
+
+TokyoTower , User ID : 750554231015346176 , Longitude : 139.73272881, Latitude : 35.66311498
+
+TokyoTower , User ID : 280046719 , Longitude : 139.81342493, Latitude : 35.71060479
+
+TokyoTower , User ID : 166545775 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 2827565839 , Longitude : 139.6381361, Latitude : 35.6038954
+
+TokyoTower , User ID : 1249032150 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 212558734 , Longitude : 139.7470467, Latitude : 35.6554372
+
+TokyoTower , User ID : 23629025 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 158682531 , Longitude : 139.77569382, Latitude : 35.62494834
+
+TokyoTower , User ID : 947781007 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 2955039812 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 569102761 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 406856085 , Longitude : 139.74544197, Latitude : 35.65857854
+
+TokyoTower , User ID : 212558734 , Longitude : 139.7470467, Latitude : 35.6554372
+
+TokyoTower , User ID : 91959043 , Longitude : 139.790425, Latitude : 35.63277778
+
+TokyoTower , User ID : 2994358854 , Longitude : 139.52297151, Latitude : 35.73510881
+
+TokyoTower , User ID : 2885344326 , Longitude : 139.74594355, Latitude : 35.65825515
+
+TokyoTower , User ID : 2885344326 , Longitude : 139.74600792, Latitude : 35.65666859
+
+TokyoTower , User ID : 159413746 , Longitude : 139.76491213, Latitude : 35.67974905
+
+TokyoTower , User ID : 477613856 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 4272405316 , Longitude : 139.74569978, Latitude : 35.65885822
+
+TokyoTower , User ID : 424259714 , Longitude : 139.70029894, Latitude : 35.69022817
+
+TokyoTower , User ID : 99337708 , Longitude : 139.76759656, Latitude : 35.66955198
+
+TokyoTower , User ID : 78325212 , Longitude : 139.7010541, Latitude : 35.66189453
+
+TokyoTower , User ID : 730366652 , Longitude : 139.74546814, Latitude : 35.65859222
+
+TokyoTower , User ID : 1613258749 , Longitude : 139.73783922, Latitude : 35.66464807
+
+TokyoTower , User ID : 343873736 , Longitude : 139.74559583, Latitude : 35.65838434
+
+TokyoTower , User ID : 118769912 , Longitude : 139.75049289, Latitude : 35.66394787

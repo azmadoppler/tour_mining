@@ -7,10 +7,10 @@ var geoUser = [];
 
 var T = new Twit(config);
 
-var currentID = 868658996990705664;
+var currentID ;
 
 
-var queryPlace;
+var queryPlace = "tokyotower";
 // function mainApp(main_pointer){
 //   var searchingTweet = {
 //     q:'tokyotower OR 東京タワー -RT',
@@ -22,7 +22,7 @@ var queryPlace;
 
 function loopingTwitter(){
   var params = {
-    q:'tokyotower OR 東京タワー -RT',
+    q:'akihabara OR 東京タワー -RT',
     count: 100,
     result_type: 'recent',
     max_id: currentID
@@ -33,7 +33,7 @@ function loopingTwitter(){
 
 var miningApp = setInterval(function(){
   loopingTwitter();
-}, 60*1000);
+}, 10*1000);
 
 //
 // setTimeout(myStopFunction, 15 * 60 * 1000)
@@ -50,14 +50,15 @@ function retrieveTweet(err, data, response) {
     console.log("Error has occured : " + err )
   }
   else {
+    //Data Collection Part
     let tweets = data.statuses;
     for(var i = 0; i < tweets.length ; i ++){
         if(tweets[i].coordinates != null) {
           console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
           console.log("The Username is : " + tweets[i].user.name + "\n");
           console.log("The Tweets ID is  : " + tweets[i].id_str + "\n");
-          console.log("Lattitute " + tweets[i].coordinates.coordinates[0] + tweets[i].coordinates.coordinates[0]);
-          let writtingText = "TokyoTower , User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[0] + ", Longitute : " +  tweets[i].coordinates.coordinates[1] +" \n" ;
+          console.log("Lattitute " + tweets[i].coordinates.coordinates[0] + tweets[i].coordinates.coordinates[1]);
+          let writtingText = "TokyoTower , User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] +" \n" ;
           geoUser.push(writtingText);
         }
         else {
@@ -66,6 +67,7 @@ function retrieveTweet(err, data, response) {
         currentID = tweets[i].id_str;
     }
 
+    //Writing to File Part
     var toTxt = "";
     console.log("Last Tweeted At "+ currentID);
     for(let i = 0 ; i < geoUser.length ; i++)
@@ -77,7 +79,8 @@ function retrieveTweet(err, data, response) {
         toTxt += geoUser[i] + "\n";
       }
     }
-    fs.appendFile('record_id.txt', toTxt , function (err) {
+    var textName = "test_recording"+queryPlace+".txt";
+    fs.appendFile(textName, toTxt , function (err) {
       if (err) throw err;
       console.log('Saved!');
       toTxt = "";

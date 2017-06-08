@@ -1,0 +1,5 @@
+User ID : 2955039812, Visit : 東京 千代田区, Date : Tue Jun 06 13:25:50 +0000 2017
+User ID : 2955039812, Visit : 東京 杉並区, Date : Thu Jun 01 02:52:05 +0000 2017
+User ID : 2955039812, Visit : 東京 千代田区, Date : Tue May 30 15:26:31 +0000 2017
+User ID : 2955039812, Visit : 東京 千代田区, Date : Tue May 30 15:26:09 +0000 2017
+User ID : 2955039812, Visit : 東京 千代田区, Date : Tue May 30 15:19:08 +0000 2017

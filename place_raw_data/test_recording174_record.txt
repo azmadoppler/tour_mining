@@ -1,0 +1,5 @@
+User ID : 154578193, Visit : 東京 中野区, Date : Wed Jun 07 15:47:38 +0000 2017
+User ID : 154578193, Visit : 東京 新宿区, Date : Wed Jun 07 15:31:23 +0000 2017
+User ID : 154578193, Visit : 東京 渋谷区, Date : Wed Jun 07 11:02:46 +0000 2017
+User ID : 154578193, Visit : 東京 渋谷区, Date : Wed Jun 07 10:48:55 +0000 2017
+User ID : 154578193, Visit : 東京 渋谷区, Date : Wed Jun 07 09:26:44 +0000 2017

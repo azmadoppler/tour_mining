@@ -1,0 +1,30 @@
+User ID : 60528711, Visit : 東京 渋谷区, Date : Thu Jun 08 02:57:11 +0000 2017
+User ID : 60528711, Visit : 東京 千代田区, Date : Wed Jun 07 04:30:02 +0000 2017
+User ID : 60528711, Visit : 千葉 千葉市 中央区, Date : Wed Jun 07 00:43:08 +0000 2017
+User ID : 60528711, Visit : 千葉 千葉市 花見川区, Date : Wed Jun 07 00:22:17 +0000 2017
+User ID : 60528711, Visit : 東京 渋谷区, Date : Tue Jun 06 13:25:58 +0000 2017
+User ID : 60528711, Visit : 東京 千代田区, Date : Tue Jun 06 05:38:41 +0000 2017
+User ID : 60528711, Visit : 東京 墨田区, Date : Tue Jun 06 02:51:53 +0000 2017
+User ID : 60528711, Visit : 東京 墨田区, Date : Tue Jun 06 00:46:51 +0000 2017
+User ID : 60528711, Visit : 東京 墨田区, Date : Tue Jun 06 00:34:44 +0000 2017
+User ID : 60528711, Visit : 東京 世田谷区, Date : Mon Jun 05 21:14:50 +0000 2017
+User ID : 60528711, Visit : 東京 渋谷区, Date : Mon Jun 05 09:34:25 +0000 2017
+User ID : 60528711, Visit : 東京 千代田区, Date : Mon Jun 05 03:12:44 +0000 2017
+User ID : 60528711, Visit : 東京 新宿区, Date : Mon Jun 05 03:04:03 +0000 2017
+User ID : 60528711, Visit : 東京 新宿区, Date : Mon Jun 05 02:44:09 +0000 2017
+User ID : 60528711, Visit : 東京 新宿区, Date : Mon Jun 05 01:46:19 +0000 2017
+User ID : 60528711, Visit : 東京 杉並区, Date : Sun Jun 04 05:36:09 +0000 2017
+User ID : 60528711, Visit : 東京 江東区, Date : Sun Jun 04 04:16:44 +0000 2017
+User ID : 60528711, Visit : 東京 世田谷区, Date : Sat Jun 03 23:40:49 +0000 2017
+User ID : 60528711, Visit : 東京 町田市, Date : Sat Jun 03 03:08:32 +0000 2017
+User ID : 60528711, Visit : 東京 中央区, Date : Fri Jun 02 03:37:47 +0000 2017
+User ID : 60528711, Visit : 東京 新宿区, Date : Thu Jun 01 12:31:15 +0000 2017
+User ID : 60528711, Visit : 東京 杉並区, Date : Thu Jun 01 09:30:14 +0000 2017
+User ID : 60528711, Visit : 東京 中央区, Date : Thu Jun 01 03:29:19 +0000 2017
+User ID : 60528711, Visit : 東京 渋谷区, Date : Wed May 31 21:52:57 +0000 2017
+User ID : 60528711, Visit : 東京 渋谷区, Date : Wed May 31 13:23:12 +0000 2017
+User ID : 60528711, Visit : 東京 千代田区, Date : Wed May 31 03:16:33 +0000 2017
+User ID : 60528711, Visit : 東京 渋谷区, Date : Tue May 30 11:38:56 +0000 2017
+User ID : 60528711, Visit : 東京 港区, Date : Tue May 30 02:48:55 +0000 2017
+User ID : 60528711, Visit : 東京 港区, Date : Tue May 30 02:16:55 +0000 2017
+User ID : 60528711, Visit : 東京 中央区, Date : Mon May 29 02:27:13 +0000 2017

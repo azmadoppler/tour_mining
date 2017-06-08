@@ -1,0 +1,5 @@
+User ID : 1022181600, Visit : 東京 練馬区, Date : Thu Jun 08 04:02:13 +0000 2017
+User ID : 1022181600, Visit : 東京 葛飾区, Date : Sun Jun 04 08:37:15 +0000 2017
+User ID : 1022181600, Visit : 東京 港区, Date : Thu Jun 01 09:57:05 +0000 2017
+User ID : 1022181600, Visit : Ｇｏｏｚｅｘｐｒｅｓｓ平塚Ｐａ店, Date : Wed May 31 16:26:52 +0000 2017
+User ID : 1022181600, Visit : 東武鉄道越谷駅, Date : Mon Mar 20 01:40:32 +0000 2017

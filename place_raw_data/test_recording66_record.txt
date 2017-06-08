@@ -1,0 +1,10 @@
+User ID : 2909670914, Visit : 東京 渋谷区, Date : Wed May 31 10:00:16 +0000 2017
+User ID : 2909670914, Visit : 東京 港区, Date : Wed May 31 05:13:43 +0000 2017
+User ID : 2909670914, Visit : 東京 港区, Date : Wed May 31 05:09:59 +0000 2017
+User ID : 2909670914, Visit : 東京 港区, Date : Wed May 31 04:53:51 +0000 2017
+User ID : 2909670914, Visit : 東京 台東区, Date : Wed May 31 00:31:46 +0000 2017
+User ID : 2909670914, Visit : 東京 台東区, Date : Tue May 30 23:40:06 +0000 2017
+User ID : 2909670914, Visit : 東京 台東区, Date : Tue May 30 23:10:15 +0000 2017
+User ID : 2909670914, Visit : 東京 千代田区, Date : Tue May 30 22:39:47 +0000 2017
+User ID : 2909670914, Visit : 東京 千代田区, Date : Tue May 30 22:32:05 +0000 2017
+User ID : 2909670914, Visit : 東京 渋谷区, Date : Tue May 30 22:12:43 +0000 2017

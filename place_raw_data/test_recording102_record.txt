@@ -1,0 +1,4 @@
+User ID : 107870840, Visit : 東京 江東区, Date : Mon Jun 05 15:02:50 +0000 2017
+User ID : 107870840, Visit : 東京 江東区, Date : Mon Jun 05 14:34:34 +0000 2017
+User ID : 107870840, Visit : 東京 港区, Date : Thu Jun 01 14:48:07 +0000 2017
+User ID : 107870840, Visit : 東京 港区, Date : Thu Jun 01 11:10:05 +0000 2017

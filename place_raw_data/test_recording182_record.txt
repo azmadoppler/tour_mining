@@ -1,0 +1,12 @@
+User ID : 64619524, Visit : 東京 中央区, Date : Sun Jun 04 11:53:02 +0000 2017
+User ID : 64619524, Visit : 東京 千代田区, Date : Sun Jun 04 08:02:56 +0000 2017
+User ID : 64619524, Visit : 東京 新宿区, Date : Sat Jun 03 09:49:35 +0000 2017
+User ID : 64619524, Visit : 東京 武蔵野市, Date : Thu Jun 01 11:14:17 +0000 2017
+User ID : 64619524, Visit : 東京 武蔵野市, Date : Thu Jun 01 10:56:33 +0000 2017
+User ID : 64619524, Visit : 東京 台東区, Date : Mon May 29 08:55:33 +0000 2017
+User ID : 64619524, Visit : 東京 千代田区, Date : Sat May 27 15:12:02 +0000 2017
+User ID : 64619524, Visit : 東京 府中市, Date : Sat May 27 14:06:08 +0000 2017
+User ID : 64619524, Visit : 東京 府中市, Date : Sat May 27 12:44:52 +0000 2017
+User ID : 64619524, Visit : 東京 府中市, Date : Sat May 27 12:23:37 +0000 2017
+User ID : 64619524, Visit : 東京 葛飾区, Date : Sun May 21 14:00:53 +0000 2017
+User ID : 64619524, Visit : 静岡 小山町, Date : Sun May 21 03:34:54 +0000 2017

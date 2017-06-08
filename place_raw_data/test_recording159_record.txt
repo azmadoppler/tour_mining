@@ -1,0 +1,12 @@
+User ID : 2376893503, Visit : 東京 文京区, Date : Wed Jun 07 03:07:14 +0000 2017
+User ID : 2376893503, Visit : 東京 千代田区, Date : Sun Jun 04 02:14:46 +0000 2017
+User ID : 2376893503, Visit : 東京 千代田区, Date : Sun Jun 04 01:04:17 +0000 2017
+User ID : 2376893503, Visit : 東京 千代田区, Date : Sun Jun 04 00:59:58 +0000 2017
+User ID : 2376893503, Visit : 東京 千代田区, Date : Sat Jun 03 08:06:07 +0000 2017
+User ID : 2376893503, Visit : 東京 渋谷区, Date : Sat Jun 03 02:08:35 +0000 2017
+User ID : 2376893503, Visit : 東京 渋谷区, Date : Sat Jun 03 00:33:36 +0000 2017
+User ID : 2376893503, Visit : 東京 足立区, Date : Fri Jun 02 14:01:27 +0000 2017
+User ID : 2376893503, Visit : 東京 葛飾区, Date : Mon May 29 17:06:31 +0000 2017
+User ID : 2376893503, Visit : 東京 葛飾区, Date : Mon May 29 17:01:10 +0000 2017
+User ID : 2376893503, Visit : 東京 葛飾区, Date : Mon May 29 16:54:44 +0000 2017
+User ID : 2376893503, Visit : 東京 葛飾区, Date : Mon May 29 16:48:07 +0000 2017

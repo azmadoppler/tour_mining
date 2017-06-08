@@ -1,0 +1,94 @@
+User ID : 15531381, Visit : 東京 港区, Date : Sat Jun 03 09:03:48 +0000 2017
+User ID : 15531381, Visit : 東京 大田区, Date : Sat Jun 03 07:49:35 +0000 2017
+User ID : 15531381, Visit : 山梨 富士河口湖町, Date : Thu Jun 01 23:47:30 +0000 2017
+User ID : 15531381, Visit : 京都 京都市 中京区, Date : Tue May 30 05:42:18 +0000 2017
+User ID : 15531381, Visit : 京都 京都市 中京区, Date : Mon May 29 15:12:42 +0000 2017
+User ID : 15531381, Visit : 京都 右京区, Date : Mon May 29 00:35:03 +0000 2017
+User ID : 15531381, Visit : 京都 右京区, Date : Mon May 29 00:16:19 +0000 2017
+User ID : 15531381, Visit : 京都 右京区, Date : Sun May 28 15:35:16 +0000 2017
+User ID : 15531381, Visit : 大阪 大阪市 北区, Date : Sun May 28 03:31:48 +0000 2017
+User ID : 15531381, Visit : 京都 右京区, Date : Sun May 28 03:24:09 +0000 2017
+User ID : 15531381, Visit : 東京 港区, Date : Sat May 27 23:36:44 +0000 2017
+User ID : 15531381, Visit : 奈良 奈良市, Date : Sat May 27 12:51:30 +0000 2017
+User ID : 15531381, Visit : 東京 中央区, Date : Sat May 27 12:44:35 +0000 2017
+User ID : 15531381, Visit : 大阪 大阪市 浪速区, Date : Fri May 26 10:14:43 +0000 2017
+User ID : 15531381, Visit : 京都 京都市 伏見区, Date : Fri May 26 10:05:25 +0000 2017
+User ID : 15531381, Visit : 大阪 大阪市 港区, Date : Fri May 26 07:56:30 +0000 2017
+User ID : 15531381, Visit : 大阪 大阪市 港区, Date : Fri May 26 01:03:21 +0000 2017
+User ID : 15531381, Visit : 大阪 大阪市 中央区, Date : Thu May 25 10:26:02 +0000 2017
+User ID : 15531381, Visit : 京都 京都市 下京区, Date : Sun May 21 08:14:06 +0000 2017
+User ID : 15531381, Visit : West Chester, PA, Date : Sun May 07 13:57:20 +0000 2017
+User ID : 15531381, Visit : Collingswood, NJ, Date : Mon Apr 17 20:40:18 +0000 2017
+User ID : 15531381, Visit : Manhattan, NY, Date : Fri Apr 07 04:02:11 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sun Mar 19 22:35:39 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Mar 10 20:36:12 +0000 2017
+User ID : 15531381, Visit : Kuta, Indonesia, Date : Fri Feb 24 20:57:12 +0000 2017
+User ID : 15531381, Visit : West Norriton, PA, Date : Fri Feb 24 04:04:12 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Thu Feb 23 01:41:50 +0000 2017
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Mon Feb 20 00:22:50 +0000 2017
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Sat Jan 28 19:43:27 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Jan 14 22:47:23 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Jan 14 00:15:54 +0000 2017
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Dec 23 00:52:18 +0000 2016
+User ID : 15531381, Visit : Last Drop Coffee House, Date : Fri Dec 09 20:20:34 +0000 2016
+User ID : 15531381, Visit : The Rothman Cabin, Date : Fri Dec 09 19:06:18 +0000 2016
+User ID : 15531381, Visit : King of Prussia, PA, Date : Tue Dec 06 03:04:49 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Mon Dec 05 21:22:54 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Dec 03 17:38:48 +0000 2016
+User ID : 15531381, Visit : Ardmore, PA, Date : Fri Dec 02 05:09:43 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri Nov 25 15:38:21 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Wed Nov 23 21:27:28 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue Nov 22 04:25:51 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Nov 19 19:29:37 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Nov 18 20:28:58 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Nov 18 20:20:25 +0000 2016
+User ID : 15531381, Visit : King of Prussia, PA, Date : Thu Nov 17 15:41:29 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Wed Nov 16 03:18:03 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Wed Nov 16 02:49:38 +0000 2016
+User ID : 15531381, Visit : Manhattan, NY, Date : Tue Oct 25 04:00:50 +0000 2016
+User ID : 15531381, Visit : Radnor Township, PA, Date : Sun Sep 18 15:18:16 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri Aug 12 14:58:27 +0000 2016
+User ID : 15531381, Visit : King of Prussia, PA, Date : Mon Jul 18 02:48:41 +0000 2016
+User ID : 15531381, Visit : Kuta, Indonesia, Date : Fri Jun 24 21:08:36 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Wed Jun 22 20:23:31 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Tue Jun 21 17:26:22 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri Jun 17 22:13:23 +0000 2016
+User ID : 15531381, Visit : Tegallalang, Indonesia, Date : Fri Jun 17 19:11:09 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Wed Jun 15 14:40:58 +0000 2016
+User ID : 15531381, Visit : Cherry Hill, NJ, Date : Sat Jun 11 21:37:58 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Fri Jun 10 20:55:38 +0000 2016
+User ID : 15531381, Visit : Marga, Indonesia, Date : Fri Jun 10 17:39:53 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Thu Jun 09 00:08:07 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Wed Jun 08 20:42:24 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Tue Jun 07 12:56:35 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Mon Jun 06 21:03:58 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Mon Jun 06 16:31:36 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Sun Jun 05 15:44:58 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Sat Jun 04 11:01:47 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Sat Jun 04 10:13:56 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Fri Jun 03 15:21:52 +0000 2016
+User ID : 15531381, Visit : Kuta, Indonesia, Date : Sat May 28 15:58:50 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Thu May 26 22:39:47 +0000 2016
+User ID : 15531381, Visit : Ubud, Indonesia, Date : Thu May 26 14:23:15 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Thu May 19 17:06:20 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Mon May 16 20:56:44 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue May 10 19:37:08 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue May 10 16:06:31 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue May 10 02:11:06 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri May 06 13:41:53 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Thu May 05 16:23:06 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Wed May 04 17:50:16 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sun May 01 20:45:30 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Apr 29 20:59:43 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Thu Apr 28 23:40:36 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue Apr 26 13:13:07 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Mon Apr 25 23:04:47 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Mon Apr 25 16:59:48 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Apr 23 22:36:12 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Sat Apr 23 16:22:19 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri Apr 22 15:03:56 +0000 2016
+User ID : 15531381, Visit : Pennsylvania, USA, Date : Fri Apr 22 12:49:42 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Tue Apr 19 19:16:12 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Mon Apr 18 03:25:57 +0000 2016
+User ID : 15531381, Visit : Philadelphia, PA, Date : Fri Apr 15 00:36:31 +0000 2016
+User ID : 15531381, Visit : New York, USA, Date : Sat Apr 09 02:20:39 +0000 2016

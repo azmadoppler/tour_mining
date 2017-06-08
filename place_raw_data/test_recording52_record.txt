@@ -1,0 +1,6 @@
+User ID : 3221860466, Visit : 埼玉 春日部市, Date : Thu Jun 08 06:21:28 +0000 2017
+User ID : 3221860466, Visit : 埼玉 春日部市, Date : Tue Jun 06 06:30:31 +0000 2017
+User ID : 3221860466, Visit : 埼玉 宮代町, Date : Fri Jun 02 03:53:16 +0000 2017
+User ID : 3221860466, Visit : 東京 港区, Date : Tue May 30 09:50:22 +0000 2017
+User ID : 3221860466, Visit : 東京 港区, Date : Tue May 30 06:32:07 +0000 2017
+User ID : 3221860466, Visit : 東京 豊島区, Date : Tue May 30 04:41:01 +0000 2017

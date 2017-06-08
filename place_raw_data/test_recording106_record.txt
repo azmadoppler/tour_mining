@@ -1,0 +1,9 @@
+User ID : 459026722, Visit : 東京 千代田区, Date : Thu Jun 08 02:46:13 +0000 2017
+User ID : 459026722, Visit : 東京 豊島区, Date : Wed Jun 07 12:04:45 +0000 2017
+User ID : 459026722, Visit : 東京 豊島区, Date : Wed Jun 07 09:20:27 +0000 2017
+User ID : 459026722, Visit : 東京 豊島区, Date : Wed Jun 07 09:16:03 +0000 2017
+User ID : 459026722, Visit : 東京 千代田区, Date : Wed Jun 07 02:44:57 +0000 2017
+User ID : 459026722, Visit : 東京 千代田区, Date : Tue Jun 06 02:42:43 +0000 2017
+User ID : 459026722, Visit : 東京 江東区, Date : Sun Jun 04 06:07:26 +0000 2017
+User ID : 459026722, Visit : 東京 江東区, Date : Sun Jun 04 05:58:48 +0000 2017
+User ID : 459026722, Visit : 東京 江東区, Date : Sun Jun 04 05:41:27 +0000 2017

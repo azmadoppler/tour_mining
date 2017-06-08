@@ -1,0 +1,9 @@
+User ID : 456776371, Visit : 東京 渋谷区, Date : Sun Jun 04 10:05:46 +0000 2017
+User ID : 456776371, Visit : 東京 渋谷区, Date : Sun Jun 04 09:59:57 +0000 2017
+User ID : 456776371, Visit : 東京 渋谷区, Date : Sun Jun 04 09:49:24 +0000 2017
+User ID : 456776371, Visit : 東京 渋谷区, Date : Sun Jun 04 09:44:38 +0000 2017
+User ID : 456776371, Visit : 東京 新宿区, Date : Sun Jun 04 03:37:55 +0000 2017
+User ID : 456776371, Visit : 東京 大田区, Date : Sat Jun 03 09:38:05 +0000 2017
+User ID : 456776371, Visit : 神奈 藤沢市, Date : Sat Jun 03 06:03:58 +0000 2017
+User ID : 456776371, Visit : 神奈 川崎市 幸区, Date : Fri Jun 02 12:33:31 +0000 2017
+User ID : 456776371, Visit : 東京 大田区, Date : Tue May 30 10:16:34 +0000 2017

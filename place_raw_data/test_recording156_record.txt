@@ -1,0 +1,10 @@
+User ID : 941569758, Visit : 東京 豊島区, Date : Thu Jun 08 04:10:45 +0000 2017
+User ID : 941569758, Visit : 東京 練馬区, Date : Wed Jun 07 12:24:22 +0000 2017
+User ID : 941569758, Visit : 東京 府中市, Date : Tue Jun 06 14:49:07 +0000 2017
+User ID : 941569758, Visit : 東京 多摩市, Date : Tue Jun 06 14:11:43 +0000 2017
+User ID : 941569758, Visit : 東京 多摩市, Date : Tue Jun 06 13:42:39 +0000 2017
+User ID : 941569758, Visit : 東京 練馬区, Date : Mon Jun 05 11:41:19 +0000 2017
+User ID : 941569758, Visit : 東京 練馬区, Date : Mon Jun 05 11:36:15 +0000 2017
+User ID : 941569758, Visit : 埼玉 越谷市, Date : Mon Jun 05 07:25:14 +0000 2017
+User ID : 941569758, Visit : 埼玉 春日部市, Date : Mon Jun 05 05:28:59 +0000 2017
+User ID : 941569758, Visit : 東京 練馬区, Date : Mon Jun 05 03:51:43 +0000 2017

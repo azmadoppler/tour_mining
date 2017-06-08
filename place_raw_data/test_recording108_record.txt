@@ -1,0 +1,17 @@
+User ID : 35434021, Visit : 静岡 富士宮市, Date : Sat Jun 03 06:56:39 +0000 2017
+User ID : 35434021, Visit : 東京 渋谷区, Date : Fri Jun 02 09:13:07 +0000 2017
+User ID : 35434021, Visit : 東京 台東区, Date : Fri Jun 02 06:30:12 +0000 2017
+User ID : 35434021, Visit : 東京 台東区, Date : Fri Jun 02 06:11:37 +0000 2017
+User ID : 35434021, Visit : 東京 台東区, Date : Fri Jun 02 04:30:41 +0000 2017
+User ID : 35434021, Visit : 東京 港区, Date : Fri Jun 02 02:50:03 +0000 2017
+User ID : 35434021, Visit : 東京 港区, Date : Fri Jun 02 02:31:12 +0000 2017
+User ID : 35434021, Visit : 静岡 富士市, Date : Sun Apr 30 00:25:55 +0000 2017
+User ID : 35434021, Visit : 千葉 成田市, Date : Thu Apr 27 05:04:32 +0000 2017
+User ID : 35434021, Visit : 神奈 横浜市 鶴見区, Date : Tue Apr 11 08:58:40 +0000 2017
+User ID : 35434021, Visit : 静岡 浜松市 中区, Date : Thu Mar 30 08:12:23 +0000 2017
+User ID : 35434021, Visit : Guimarães, Portugal, Date : Tue Mar 14 00:30:48 +0000 2017
+User ID : 35434021, Visit : 静岡 湖西市, Date : Sat Mar 11 01:22:37 +0000 2017
+User ID : 35434021, Visit : 静岡 富士宮市, Date : Sat Mar 11 01:18:59 +0000 2017
+User ID : 35434021, Visit : 静岡 掛川市, Date : Tue Feb 28 08:55:44 +0000 2017
+User ID : 35434021, Visit : 静岡 湖西市, Date : Tue Feb 21 17:46:37 +0000 2017
+User ID : 35434021, Visit : Lisboa, Portugal, Date : Sun Feb 12 01:44:07 +0000 2017

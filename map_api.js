@@ -14,7 +14,7 @@ for(i in unique) {
 }
 var myAddress = [];
 googleMapsClient.reverseGeocode({
-  latlng: [35.68617834, 139.69082085]
+  latlng: [42.78760624, 141.6811037]
 }, function(err, response) {
   if (!err) {
     var data = response.json.results[0].formatted_address;

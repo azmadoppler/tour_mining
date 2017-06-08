@@ -1,0 +1,9 @@
+User ID : 230420231, Visit : 東京 港区, Date : Thu Jun 01 09:34:04 +0000 2017
+User ID : 230420231, Visit : 仙台駅, Date : Wed May 31 01:20:30 +0000 2017
+User ID : 230420231, Visit : 宮城 南三陸町, Date : Tue May 23 01:39:48 +0000 2017
+User ID : 230420231, Visit : 東京 品川区, Date : Wed May 17 06:29:31 +0000 2017
+User ID : 230420231, Visit : 宮城 川崎町, Date : Sun Apr 30 06:12:58 +0000 2017
+User ID : 230420231, Visit : 東京 千代田区, Date : Sat Apr 15 21:26:14 +0000 2017
+User ID : 230420231, Visit : 東京 新宿区, Date : Sat Apr 15 03:39:48 +0000 2017
+User ID : 230420231, Visit : 東京 港区, Date : Fri Apr 14 04:59:08 +0000 2017
+User ID : 230420231, Visit : 東京 千代田区, Date : Thu Apr 13 08:18:05 +0000 2017

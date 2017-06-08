@@ -1,0 +1,10 @@
+User ID : 98408204, Visit : 東京 豊島区, Date : Thu Jun 08 05:54:08 +0000 2017
+User ID : 98408204, Visit : 東京 豊島区, Date : Wed Jun 07 15:50:54 +0000 2017
+User ID : 98408204, Visit : 東京 新宿区, Date : Wed Jun 07 09:49:12 +0000 2017
+User ID : 98408204, Visit : 東京 新宿区, Date : Wed Jun 07 06:43:47 +0000 2017
+User ID : 98408204, Visit : 東京 新宿区, Date : Wed Jun 07 03:25:46 +0000 2017
+User ID : 98408204, Visit : 東京 豊島区, Date : Tue Jun 06 17:06:52 +0000 2017
+User ID : 98408204, Visit : 東京 渋谷区, Date : Tue Jun 06 02:40:45 +0000 2017
+User ID : 98408204, Visit : 東京 渋谷区, Date : Tue Jun 06 02:06:14 +0000 2017
+User ID : 98408204, Visit : 東京 渋谷区, Date : Tue Jun 06 01:48:22 +0000 2017
+User ID : 98408204, Visit : 東京 渋谷区, Date : Tue Jun 06 00:59:22 +0000 2017

@@ -1,0 +1,16 @@
+User ID : 230420231 , Lattitute : 35.65857854, Longitute : 139.74544197 
+
+User ID : 230420231 , Lattitute : 38.678356, Longitute : 141.448326 
+
+User ID : 230420231 , Lattitute : 35.62119091, Longitute : 139.73592139 
+
+User ID : 230420231 , Lattitute : 38.194668, Longitute : 140.67723 
+
+User ID : 230420231 , Lattitute : 35.68140051, Longitute : 139.76742804 
+
+User ID : 230420231 , Lattitute : 35.69155614, Longitute : 139.70462715 
+
+User ID : 230420231 , Lattitute : 35.66513278, Longitute : 139.72641706 
+
+User ID : 230420231 , Lattitute : 35.68125183, Longitute : 139.76673796 
+

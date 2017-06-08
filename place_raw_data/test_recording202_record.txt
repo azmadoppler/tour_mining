@@ -1,0 +1,29 @@
+User ID : 305660688, Visit : 東京 港区, Date : Mon Jun 05 03:09:32 +0000 2017
+User ID : 305660688, Visit : 神奈 横浜市 西区, Date : Sun Jun 04 01:07:22 +0000 2017
+User ID : 305660688, Visit : 東京 墨田区, Date : Wed May 31 02:29:55 +0000 2017
+User ID : 305660688, Visit : 神奈 藤沢市, Date : Sat May 20 01:25:08 +0000 2017
+User ID : 305660688, Visit : 東京 江東区, Date : Sat May 13 04:31:50 +0000 2017
+User ID : 305660688, Visit : 東京 江東区, Date : Sat May 13 01:44:58 +0000 2017
+User ID : 305660688, Visit : 豊洲ピット, Date : Sat May 13 01:36:54 +0000 2017
+User ID : 305660688, Visit : 中野サンプラザ, Date : Fri May 12 04:38:51 +0000 2017
+User ID : 305660688, Visit : 神奈 横浜市 西区, Date : Mon Apr 24 01:25:30 +0000 2017
+User ID : 305660688, Visit : 長野 安曇野市, Date : Sun Apr 23 01:17:53 +0000 2017
+User ID : 305660688, Visit : 長野 松本市, Date : Sat Apr 22 05:19:09 +0000 2017
+User ID : 305660688, Visit : EXPASA談合坂SA 下り, Date : Sat Apr 22 00:14:03 +0000 2017
+User ID : 305660688, Visit : 山梨 山中湖村, Date : Wed Feb 22 05:23:20 +0000 2017
+User ID : 305660688, Visit : 東京 港区, Date : Sat Feb 18 03:14:39 +0000 2017
+User ID : 305660688, Visit : 埼玉 三芳町, Date : Fri Feb 17 02:20:56 +0000 2017
+User ID : 305660688, Visit : 山梨 甲府市, Date : Tue Jan 24 03:12:47 +0000 2017
+User ID : 305660688, Visit : JR新大久保駅, Date : Thu Dec 15 02:52:46 +0000 2016
+User ID : 305660688, Visit : 千葉 木更津市, Date : Fri Nov 11 02:56:30 +0000 2016
+User ID : 305660688, Visit : 一蘭横浜西口店, Date : Fri Oct 21 14:52:02 +0000 2016
+User ID : 305660688, Visit : 新潟 新潟市 中央区, Date : Wed Oct 19 05:10:26 +0000 2016
+User ID : 305660688, Visit : 神奈 平塚市, Date : Mon Oct 10 02:48:25 +0000 2016
+User ID : 305660688, Visit : 東京 千代田区, Date : Wed Oct 05 04:01:19 +0000 2016
+User ID : 305660688, Visit : ドン・キホーテ, Date : Fri Sep 23 05:09:37 +0000 2016
+User ID : 305660688, Visit : 埼玉 秩父市, Date : Fri Sep 02 05:47:29 +0000 2016
+User ID : 305660688, Visit : 東京 江東区, Date : Tue Aug 30 03:51:23 +0000 2016
+User ID : 305660688, Visit : 埼玉 さいたま市 中央区, Date : Sun Aug 21 10:14:41 +0000 2016
+User ID : 305660688, Visit : 東京 新宿区, Date : Sun Aug 14 07:01:48 +0000 2016
+User ID : 305660688, Visit : 東京 港区, Date : Mon Aug 08 02:19:39 +0000 2016
+User ID : 305660688, Visit : 茨城 つくば市, Date : Fri Aug 05 08:34:18 +0000 2016

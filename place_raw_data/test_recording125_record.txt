@@ -1,0 +1,6 @@
+User ID : 122298761, Visit : 東京 渋谷区, Date : Mon Jun 05 07:35:40 +0000 2017
+User ID : 122298761, Visit : おひつ膳 田んぼ 代々木本店, Date : Mon Jun 05 07:35:06 +0000 2017
+User ID : 122298761, Visit : 東京 渋谷区, Date : Mon Jun 05 07:15:00 +0000 2017
+User ID : 122298761, Visit : 東京 港区, Date : Sat Jun 03 20:41:32 +0000 2017
+User ID : 122298761, Visit : 東京 港区, Date : Sat Jun 03 19:26:06 +0000 2017
+User ID : 122298761, Visit : 東京 港区, Date : Sat Jun 03 12:55:20 +0000 2017

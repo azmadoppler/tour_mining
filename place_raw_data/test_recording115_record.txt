@@ -1,0 +1,153 @@
+User ID : 2926462105, Visit : 大阪 大阪市 天王寺区, Date : Thu Jun 08 05:49:06 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Wed Jun 07 03:07:24 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Wed Jun 07 02:18:08 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 中央区, Date : Wed Jun 07 01:50:42 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Wed Jun 07 01:33:16 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 中央区, Date : Tue Jun 06 23:25:43 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Tue Jun 06 07:55:36 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Tue Jun 06 05:17:19 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Tue Jun 06 04:42:16 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 北区, Date : Mon Jun 05 11:04:10 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 中央区, Date : Mon Jun 05 09:54:44 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 天王寺区, Date : Mon Jun 05 09:52:03 +0000 2017
+User ID : 2926462105, Visit : 大阪 大阪市 生野区, Date : Mon Jun 05 09:28:58 +0000 2017
+User ID : 2926462105, Visit : 東京 中央区, Date : Sun Jun 04 13:42:40 +0000 2017
+User ID : 2926462105, Visit : 東京 中央区, Date : Sun Jun 04 13:03:35 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 23:49:20 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 23:04:48 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 23:03:13 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 23:00:15 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 22:40:21 +0000 2017
+User ID : 2926462105, Visit : 東京 渋谷区, Date : Fri Jun 02 20:18:55 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 08:32:35 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 05:47:54 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Fri Jun 02 05:39:03 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Fri Jun 02 05:38:49 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 05:38:10 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Fri Jun 02 05:37:22 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Fri Jun 02 05:37:07 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Fri Jun 02 05:36:15 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu Jun 01 21:07:50 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu Jun 01 12:37:32 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu Jun 01 11:38:25 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu Jun 01 07:35:33 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu Jun 01 02:25:59 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu Jun 01 00:59:27 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Wed May 31 23:55:36 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Wed May 31 23:51:30 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Wed May 31 23:42:06 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Wed May 31 23:36:03 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Wed May 31 23:34:30 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Tue May 30 23:58:04 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Tue May 30 23:55:30 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Tue May 30 23:55:03 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Tue May 30 23:49:19 +0000 2017
+User ID : 2926462105, Visit : 東京 中央区, Date : Tue May 30 10:38:23 +0000 2017
+User ID : 2926462105, Visit : 東京 中央区, Date : Tue May 30 07:24:59 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sun May 28 01:31:27 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sun May 28 01:13:00 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sat May 27 23:57:36 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sat May 27 16:50:04 +0000 2017
+User ID : 2926462105, Visit : 澳門, Date : Sat May 27 08:37:53 +0000 2017
+User ID : 2926462105, Visit : 澳門, Date : Sat May 27 08:33:12 +0000 2017
+User ID : 2926462105, Visit : 澳門, Date : Sat May 27 08:27:42 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Sat May 27 07:06:21 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Sat May 27 05:07:38 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Sat May 27 02:09:28 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Fri May 26 11:10:36 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Fri May 26 00:14:35 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Thu May 25 22:57:16 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Thu May 25 15:05:08 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Thu May 25 15:04:18 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 11:45:06 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 10:01:33 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 09:36:07 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 09:32:35 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 07:33:07 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 06:43:40 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 06:35:53 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 06:02:29 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 06:01:14 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 05:58:41 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 05:47:37 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 05:30:51 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 04:32:11 +0000 2017
+User ID : 2926462105, Visit : 澳門, Date : Wed May 24 03:23:26 +0000 2017
+User ID : 2926462105, Visit : 澳門, Date : Wed May 24 03:20:22 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 02:48:33 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Wed May 24 01:17:29 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Tue May 23 23:37:49 +0000 2017
+User ID : 2926462105, Visit : 广东, 中华人民共和国, Date : Tue May 23 23:09:27 +0000 2017
+User ID : 2926462105, Visit : 香港, Date : Tue May 23 13:18:31 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Mon May 22 06:42:23 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Mon May 22 04:00:32 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Sat May 20 11:00:15 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Sat May 20 10:13:42 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Sat May 20 06:12:43 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Sat May 20 02:44:08 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Sat May 20 02:43:45 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 20 01:40:58 +0000 2017
+User ID : 2926462105, Visit : 山梨 大月市, Date : Fri May 19 18:32:53 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Fri May 19 18:31:03 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Thu May 18 04:18:36 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Thu May 18 02:11:21 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Wed May 17 11:28:18 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Wed May 17 11:02:04 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Wed May 17 10:42:11 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Tue May 16 06:44:24 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Mon May 15 10:56:23 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Mon May 15 05:07:28 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Wed May 10 15:14:47 +0000 2017
+User ID : 2926462105, Visit : 中西區, 香港, Date : Wed May 10 03:23:33 +0000 2017
+User ID : 2926462105, Visit : 南區, 香港, Date : Mon May 08 21:40:34 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sun May 07 03:01:12 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Sun May 07 02:56:22 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 10:02:29 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 08:30:59 +0000 2017
+User ID : 2926462105, Visit : 油尖旺, 香港, Date : Sat May 06 08:30:15 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 07:01:49 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 03:25:04 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 02:23:00 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 01:17:54 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Sat May 06 00:29:39 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Fri May 05 13:17:55 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Fri May 05 10:43:08 +0000 2017
+User ID : 2926462105, Visit : 東區, 香港, Date : Fri May 05 10:37:08 +0000 2017
+User ID : 2926462105, Visit : 灣仔, 香港, Date : Fri May 05 10:29:53 +0000 2017
+User ID : 2926462105, Visit : 東京 大田区, Date : Fri May 05 00:59:06 +0000 2017
+User ID : 2926462105, Visit : 東京 大田区, Date : Fri May 05 00:38:27 +0000 2017
+User ID : 2926462105, Visit : 東京 台東区, Date : Thu May 04 13:55:26 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 10:16:36 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:27:39 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:21:54 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:16:52 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:15:45 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:12:32 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:10:56 +0000 2017
+User ID : 2926462105, Visit : 東京 港区, Date : Thu May 04 09:09:32 +0000 2017
+User ID : 2926462105, Visit : 山梨 甲府市, Date : Thu May 04 09:03:41 +0000 2017
+User ID : 2926462105, Visit : 東京 千代田区, Date : Thu May 04 07:52:44 +0000 2017
+User ID : 2926462105, Visit : 山梨 都留市, Date : Thu May 04 06:47:57 +0000 2017
+User ID : 2926462105, Visit : 山梨 大月市, Date : Thu May 04 06:37:24 +0000 2017
+User ID : 2926462105, Visit : 山梨 甲府市, Date : Thu May 04 05:56:27 +0000 2017
+User ID : 2926462105, Visit : 山梨 市川三郷町, Date : Thu May 04 04:51:31 +0000 2017
+User ID : 2926462105, Visit : 山梨 市川三郷町, Date : Thu May 04 04:39:56 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 03:42:28 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 03:33:49 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 03:27:37 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 03:25:45 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 03:02:35 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:59:48 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:54:21 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:48:50 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:48:08 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:44:09 +0000 2017
+User ID : 2926462105, Visit : 山梨 市川三郷町, Date : Thu May 04 02:39:16 +0000 2017
+User ID : 2926462105, Visit : 山梨 富士川町, Date : Thu May 04 02:36:29 +0000 2017
+User ID : 2926462105, Visit : 山梨 市川三郷町, Date : Thu May 04 02:24:59 +0000 2017
+User ID : 2926462105, Visit : 山梨 笛吹市, Date : Thu May 04 01:30:55 +0000 2017
+User ID : 2926462105, Visit : 山梨 笛吹市, Date : Thu May 04 01:21:36 +0000 2017
+User ID : 2926462105, Visit : 山梨 笛吹市, Date : Thu May 04 01:14:56 +0000 2017
+User ID : 2926462105, Visit : 山梨 笛吹市, Date : Thu May 04 01:12:39 +0000 2017
+User ID : 2926462105, Visit : 山梨 笛吹市, Date : Thu May 04 01:11:23 +0000 2017
+User ID : 2926462105, Visit : 山梨 甲州市, Date : Thu May 04 01:07:25 +0000 2017

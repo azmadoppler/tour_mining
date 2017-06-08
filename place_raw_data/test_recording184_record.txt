@@ -1,0 +1,14 @@
+User ID : 108919847, Visit : 東京 港区, Date : Wed Jun 07 12:04:04 +0000 2017
+User ID : 108919847, Visit : 東京 渋谷区, Date : Mon Jun 05 12:14:37 +0000 2017
+User ID : 108919847, Visit : 東京 千代田区, Date : Sun Jun 04 11:34:25 +0000 2017
+User ID : 108919847, Visit : 東京 渋谷区, Date : Sun Jun 04 09:32:04 +0000 2017
+User ID : 108919847, Visit : 東京 豊島区, Date : Sun Jun 04 03:00:37 +0000 2017
+User ID : 108919847, Visit : 東京 目黒区, Date : Sat Jun 03 08:33:02 +0000 2017
+User ID : 108919847, Visit : 東京 目黒区, Date : Sat Jun 03 08:02:02 +0000 2017
+User ID : 108919847, Visit : 東京 港区, Date : Sat Jun 03 04:54:26 +0000 2017
+User ID : 108919847, Visit : 東京 豊島区, Date : Tue May 30 11:29:50 +0000 2017
+User ID : 108919847, Visit : 東京 渋谷区, Date : Sun May 28 07:09:51 +0000 2017
+User ID : 108919847, Visit : 東京 渋谷区, Date : Sun May 28 06:58:19 +0000 2017
+User ID : 108919847, Visit : 東京 豊島区, Date : Fri May 26 15:44:04 +0000 2017
+User ID : 108919847, Visit : 東京 千代田区, Date : Thu May 25 10:53:36 +0000 2017
+User ID : 108919847, Visit : 東京 千代田区, Date : Thu May 25 10:45:30 +0000 2017

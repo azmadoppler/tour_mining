@@ -1,0 +1,44 @@
+User ID : 93360549, Visit : 灣仔, 香港, Date : Tue Jun 06 12:09:51 +0000 2017
+User ID : 93360549, Visit : 東京 中央区, Date : Mon Jun 05 12:01:45 +0000 2017
+User ID : 93360549, Visit : 東京 世田谷区, Date : Sun Jun 04 11:58:13 +0000 2017
+User ID : 93360549, Visit : 東京 中央区, Date : Sun Jun 04 06:32:03 +0000 2017
+User ID : 93360549, Visit : 東京 中央区, Date : Sun Jun 04 00:34:31 +0000 2017
+User ID : 93360549, Visit : 東京 中央区, Date : Sat Jun 03 22:58:50 +0000 2017
+User ID : 93360549, Visit : 東京 中央区, Date : Sat Jun 03 11:59:22 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Sat Jun 03 01:26:14 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Fri Jun 02 23:46:27 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Fri Jun 02 12:10:43 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Thu Jun 01 12:15:38 +0000 2017
+User ID : 93360549, Visit : 中西區, 香港, Date : Wed May 31 12:01:34 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Tue May 30 12:07:41 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Mon May 29 11:44:15 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Sun May 28 11:54:21 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 保土ケ谷区, Date : Sun May 28 03:24:10 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Sat May 27 23:35:50 +0000 2017
+User ID : 93360549, Visit : 神奈 横浜市 中区, Date : Sat May 27 12:30:19 +0000 2017
+User ID : 93360549, Visit : 神奈 二宮町, Date : Fri May 26 13:12:25 +0000 2017
+User ID : 93360549, Visit : 中西區, 香港, Date : Thu May 25 12:43:32 +0000 2017
+User ID : 93360549, Visit : 京都 右京区, Date : Mon May 22 11:56:05 +0000 2017
+User ID : 93360549, Visit : 東區, 香港, Date : Sun May 21 11:57:50 +0000 2017
+User ID : 93360549, Visit : 佐賀 佐賀市, Date : Sat May 20 23:12:23 +0000 2017
+User ID : 93360549, Visit : 東京 台東区, Date : Sat May 20 11:32:47 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Sat May 20 01:11:48 +0000 2017
+User ID : 93360549, Visit : 千葉 浦安市, Date : Fri May 19 11:42:46 +0000 2017
+User ID : 93360549, Visit : 東區, 香港, Date : Thu May 18 11:52:57 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Wed May 17 12:08:17 +0000 2017
+User ID : 93360549, Visit : 千葉 浦安市, Date : Tue May 16 12:32:47 +0000 2017
+User ID : 93360549, Visit : 油尖旺, 香港, Date : Mon May 15 12:08:09 +0000 2017
+User ID : 93360549, Visit : 千葉 浦安市, Date : Sun May 14 12:15:13 +0000 2017
+User ID : 93360549, Visit : 中西區, 香港, Date : Sat May 13 23:17:13 +0000 2017
+User ID : 93360549, Visit : 東區, 香港, Date : Sat May 13 11:29:22 +0000 2017
+User ID : 93360549, Visit : 神奈 箱根町, Date : Sat May 13 07:59:10 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Fri May 12 22:29:44 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Fri May 12 11:54:55 +0000 2017
+User ID : 93360549, Visit : 東京 渋谷区, Date : Thu May 11 11:44:41 +0000 2017
+User ID : 93360549, Visit : 東區, 香港, Date : Sun May 07 11:40:08 +0000 2017
+User ID : 93360549, Visit : 千葉 浦安市, Date : Sun May 07 04:24:18 +0000 2017
+User ID : 93360549, Visit : 東京 渋谷区, Date : Sat May 06 23:24:31 +0000 2017
+User ID : 93360549, Visit : 千葉 浦安市, Date : Sat May 06 11:57:53 +0000 2017
+User ID : 93360549, Visit : 油尖旺, 香港, Date : Fri May 05 21:14:49 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Fri May 05 11:51:30 +0000 2017
+User ID : 93360549, Visit : 東京 港区, Date : Fri May 05 00:07:04 +0000 2017

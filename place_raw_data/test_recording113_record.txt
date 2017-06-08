@@ -1,0 +1,13 @@
+User ID : 2989493349, Visit : 東京 港区, Date : Mon Jun 05 05:08:37 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Mon Jun 05 04:39:16 +0000 2017
+User ID : 2989493349, Visit : 東京 墨田区, Date : Sat Jun 03 16:45:51 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Fri Jun 02 06:57:02 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Fri Jun 02 04:50:40 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Fri Jun 02 04:50:18 +0000 2017
+User ID : 2989493349, Visit : 東京 中央区, Date : Fri Jun 02 03:42:43 +0000 2017
+User ID : 2989493349, Visit : 東京 千代田区, Date : Thu Jun 01 09:45:34 +0000 2017
+User ID : 2989493349, Visit : 神奈 横浜市 港北区, Date : Thu Jun 01 07:33:47 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Wed May 31 02:59:08 +0000 2017
+User ID : 2989493349, Visit : 東京 港区, Date : Tue May 30 03:22:15 +0000 2017
+User ID : 2989493349, Visit : 東京 中央区, Date : Mon May 29 04:20:57 +0000 2017
+User ID : 2989493349, Visit : 東京 渋谷区, Date : Sun May 28 07:47:59 +0000 2017

@@ -1,0 +1,7 @@
+User ID : 2994358854, Visit : 東京 小平市, Date : Thu Jun 08 03:40:39 +0000 2017
+User ID : 2994358854, Visit : 東京 練馬区, Date : Thu Jun 08 03:25:20 +0000 2017
+User ID : 2994358854, Visit : 東京 練馬区, Date : Wed Jun 07 23:27:53 +0000 2017
+User ID : 2994358854, Visit : 東京 練馬区, Date : Wed Jun 07 11:46:34 +0000 2017
+User ID : 2994358854, Visit : 東京 千代田区, Date : Wed Jun 07 09:40:05 +0000 2017
+User ID : 2994358854, Visit : 東京 練馬区, Date : Wed Jun 07 06:43:57 +0000 2017
+User ID : 2994358854, Visit : 東京 練馬区, Date : Tue Jun 06 23:27:41 +0000 2017

@@ -1,0 +1,16 @@
+User ID : 2787725574 , Lattitute : 35.70559673, Longitute : 139.75186586 
+
+User ID : 2787725574 , Lattitute : 35.70208413, Longitute : 139.75434453 
+
+User ID : 2787725574 , Lattitute : 35.69983224, Longitute : 139.77033287 
+
+User ID : 2787725574 , Lattitute : 35.69735561, Longitute : 139.77514744 
+
+User ID : 2787725574 , Lattitute : 35.69847322, Longitute : 139.77304298 
+
+User ID : 2787725574 , Lattitute : 35.62976639, Longitute : 139.79408383 
+
+User ID : 2787725574 , Lattitute : 35.63433923, Longitute : 139.79161248 
+
+User ID : 2787725574 , Lattitute : 35.69043379, Longitute : 139.70026902 
+

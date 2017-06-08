@@ -1,0 +1,22 @@
+User ID : 1400028474, Visit : 神奈 横浜市 西区, Date : Tue Jun 06 12:33:30 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 中区, Date : Tue Jun 06 08:26:40 +0000 2017
+User ID : 1400028474, Visit : 東京 港区, Date : Tue Jun 06 01:03:17 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Mon Jun 05 23:37:40 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 鶴見区, Date : Mon Jun 05 22:42:03 +0000 2017
+User ID : 1400028474, Visit : 東京 大田区, Date : Mon Jun 05 19:36:47 +0000 2017
+User ID : 1400028474, Visit : 東京 港区, Date : Mon Jun 05 17:29:05 +0000 2017
+User ID : 1400028474, Visit : 東京 港区, Date : Mon Jun 05 17:10:49 +0000 2017
+User ID : 1400028474, Visit : 東京 世田谷区, Date : Mon Jun 05 16:44:28 +0000 2017
+User ID : 1400028474, Visit : 神奈 川崎市 宮前区, Date : Mon Jun 05 16:31:53 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Mon Jun 05 14:39:00 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Mon Jun 05 12:07:32 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Sun Jun 04 12:15:31 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Sat Jun 03 07:38:08 +0000 2017
+User ID : 1400028474, Visit : 千葉 関東地方, Date : Fri Jun 02 12:31:38 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 中区, Date : Fri Jun 02 11:46:00 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 中区, Date : Fri Jun 02 07:45:35 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 金沢区, Date : Fri Jun 02 07:11:41 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 西区, Date : Tue May 30 07:56:23 +0000 2017
+User ID : 1400028474, Visit : 神奈 横浜市 西区, Date : Tue May 30 07:45:41 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Tue May 30 07:04:22 +0000 2017
+User ID : 1400028474, Visit : 神奈 横須賀市, Date : Tue May 30 06:50:41 +0000 2017

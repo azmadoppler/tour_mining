@@ -1,0 +1,20 @@
+User ID : 2885344326 , Lattitute : 36.13822842, Longitute : 139.3958655 
+
+User ID : 2885344326 , Lattitute : 36.13992349, Longitute : 139.38974466 
+
+User ID : 2885344326 , Lattitute : 36.13998885, Longitute : 139.38967109 
+
+User ID : 2885344326 , Lattitute : 36.11394224, Longitute : 139.33673766 
+
+User ID : 2885344326 , Lattitute : 36.11308131, Longitute : 139.33496366 
+
+User ID : 2885344326 , Lattitute : 36.03925865, Longitute : 139.39291412 
+
+User ID : 2885344326 , Lattitute : 36.03897887, Longitute : 139.39032993 
+
+User ID : 2885344326 , Lattitute : 36.03930705, Longitute : 139.38878741 
+
+User ID : 2885344326 , Lattitute : 36.05940348, Longitute : 139.36880887 
+
+User ID : 2885344326 , Lattitute : 36.059491, Longitute : 139.369456 
+

@@ -1,0 +1,17 @@
+User ID : 38951612, Visit : 東京 港区, Date : Thu Jun 08 05:07:38 +0000 2017
+User ID : 38951612, Visit : 東京 中央区, Date : Mon Jun 05 08:37:08 +0000 2017
+User ID : 38951612, Visit : 東京 中央区, Date : Mon Jun 05 08:00:20 +0000 2017
+User ID : 38951612, Visit : 三重 熊野市, Date : Thu Jun 01 01:35:17 +0000 2017
+User ID : 38951612, Visit : 三重 熊野市, Date : Thu Jun 01 01:03:47 +0000 2017
+User ID : 38951612, Visit : 東京 港区, Date : Tue May 30 06:39:16 +0000 2017
+User ID : 38951612, Visit : 東京 港区, Date : Tue May 30 04:52:21 +0000 2017
+User ID : 38951612, Visit : 神奈 横浜市 港北区, Date : Sat May 20 04:58:11 +0000 2017
+User ID : 38951612, Visit : 東京 港区, Date : Thu May 18 06:33:20 +0000 2017
+User ID : 38951612, Visit : 神奈 川崎市 中原区, Date : Sat May 13 06:11:31 +0000 2017
+User ID : 38951612, Visit : 東京 中央区, Date : Wed May 10 07:16:54 +0000 2017
+User ID : 38951612, Visit : 神奈 横浜市 神奈川区, Date : Wed May 10 06:10:02 +0000 2017
+User ID : 38951612, Visit : 神奈 横浜市 鶴見区, Date : Wed May 10 05:34:46 +0000 2017
+User ID : 38951612, Visit : 神奈 横浜市 鶴見区, Date : Wed May 10 05:16:43 +0000 2017
+User ID : 38951612, Visit : 東京 港区, Date : Sat May 06 05:06:43 +0000 2017
+User ID : 38951612, Visit : 東京 港区, Date : Mon Apr 24 04:25:55 +0000 2017
+User ID : 38951612, Visit : 神奈 川崎市 高津区, Date : Sat Apr 22 05:43:12 +0000 2017

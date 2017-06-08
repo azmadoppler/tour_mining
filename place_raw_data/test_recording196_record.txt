@@ -1,0 +1,6 @@
+User ID : 136660806, Visit : 東京 渋谷区, Date : Wed Jun 07 11:47:38 +0000 2017
+User ID : 136660806, Visit : 東京 豊島区, Date : Tue Jun 06 10:49:34 +0000 2017
+User ID : 136660806, Visit : 東京 豊島区, Date : Mon Jun 05 10:51:08 +0000 2017
+User ID : 136660806, Visit : 東京 中央区, Date : Mon Jun 05 00:04:50 +0000 2017
+User ID : 136660806, Visit : 東京 豊島区, Date : Sun Jun 04 11:47:21 +0000 2017
+User ID : 136660806, Visit : 東京 豊島区, Date : Sun Jun 04 10:00:26 +0000 2017

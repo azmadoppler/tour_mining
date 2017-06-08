@@ -1,0 +1,4 @@
+User ID : 2595995118, Visit : 東京 渋谷区, Date : Thu Jun 08 03:27:40 +0000 2017
+User ID : 2595995118, Visit : 東京 世田谷区, Date : Tue Jun 06 13:32:56 +0000 2017
+User ID : 2595995118, Visit : 東京 中央区, Date : Sun Jun 04 07:07:33 +0000 2017
+User ID : 2595995118, Visit : 東京 中央区, Date : Sun Jun 04 05:44:19 +0000 2017

@@ -1,0 +1,79 @@
+User ID : 1538943714, Visit : 愛知 名古屋市 中区, Date : Sun Jun 04 21:48:13 +0000 2017
+User ID : 1538943714, Visit : 愛知 名古屋市 中村区, Date : Sun Jun 04 19:43:07 +0000 2017
+User ID : 1538943714, Visit : 愛知 名古屋市 中区, Date : Sun Jun 04 11:20:49 +0000 2017
+User ID : 1538943714, Visit : 京都 京都市 中京区, Date : Sun Jun 04 05:50:43 +0000 2017
+User ID : 1538943714, Visit : 大阪 大阪市 北区, Date : Sat Jun 03 22:49:04 +0000 2017
+User ID : 1538943714, Visit : Newark, NJ, Date : Fri Jun 02 09:18:42 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon May 22 02:43:49 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu May 18 19:42:01 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed May 17 14:18:15 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu May 04 13:07:00 +0000 2017
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Mon May 01 23:46:51 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Apr 24 14:34:34 +0000 2017
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Sat Apr 22 13:22:01 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Apr 09 16:23:27 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Apr 06 20:33:21 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Apr 04 18:40:29 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Apr 01 21:55:32 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Mar 31 00:01:06 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Mar 25 15:48:07 +0000 2017
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Sat Mar 18 20:16:27 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Mar 12 15:18:26 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Feb 26 16:23:29 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Feb 23 13:38:45 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed Feb 15 01:36:51 +0000 2017
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Sun Feb 12 18:24:44 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Feb 06 14:51:10 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Feb 06 03:22:26 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Feb 05 17:19:07 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Feb 04 22:04:13 +0000 2017
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Thu Feb 02 03:07:36 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed Feb 01 15:44:04 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Jan 31 17:53:57 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Jan 26 14:59:29 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Jan 23 21:04:30 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Jan 20 14:25:18 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Jan 19 03:28:18 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Jan 16 21:18:50 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Jan 16 12:37:18 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Jan 08 18:39:28 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed Jan 04 22:10:19 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Jan 03 22:11:04 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Jan 03 22:07:42 +0000 2017
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Dec 31 21:07:22 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Dec 22 01:59:12 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Dec 19 22:28:35 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Dec 16 21:44:04 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Dec 13 22:01:35 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Dec 12 13:03:10 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Dec 11 22:39:59 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Dec 11 02:56:04 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Dec 08 14:55:50 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Nov 01 21:06:20 +0000 2016
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Mon Oct 17 21:45:08 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Oct 10 15:45:40 +0000 2016
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Sat Oct 08 16:42:32 +0000 2016
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Mon Oct 03 12:34:16 +0000 2016
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Mon Oct 03 12:31:28 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Sep 25 22:10:28 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Sep 09 12:19:29 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed Sep 07 16:32:23 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Sep 02 14:37:12 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Wed Aug 24 21:22:52 +0000 2016
+User ID : 1538943714, Visit : Pennsylvania, USA, Date : Sat Aug 20 12:28:39 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Mon Aug 15 21:36:31 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Aug 09 05:48:14 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Jul 14 21:30:18 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Jul 12 02:12:42 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Jul 09 23:34:33 +0000 2016
+User ID : 1538943714, Visit : Washington Heights, NY, Date : Fri Jul 08 13:51:23 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Thu Jul 07 18:58:59 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Tue Jun 14 16:36:23 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Jun 12 16:02:33 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sun Jun 12 14:36:29 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Sat Jun 11 02:50:36 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Jun 10 21:57:13 +0000 2016
+User ID : 1538943714, Visit : Queens, NY, Date : Sun May 22 19:37:31 +0000 2016
+User ID : 1538943714, Visit : Queens, NY, Date : Tue Mar 15 03:08:37 +0000 2016
+User ID : 1538943714, Visit : New York, USA, Date : Thu Mar 10 00:51:42 +0000 2016
+User ID : 1538943714, Visit : Manhattan, NY, Date : Fri Feb 19 19:04:00 +0000 2016

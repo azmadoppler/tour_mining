@@ -1,0 +1,10 @@
+User ID : 119374586, Visit : 東京 渋谷区, Date : Thu Jun 08 04:36:01 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Mon Jun 05 09:14:35 +0000 2017
+User ID : 119374586, Visit : 東京 墨田区, Date : Sun Jun 04 12:48:11 +0000 2017
+User ID : 119374586, Visit : 東京 墨田区, Date : Sun Jun 04 09:57:48 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Sat Jun 03 10:01:09 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Fri Jun 02 12:23:44 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Fri Jun 02 09:42:50 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Thu Jun 01 11:57:43 +0000 2017
+User ID : 119374586, Visit : 東京 渋谷区, Date : Thu Jun 01 04:32:07 +0000 2017
+User ID : 119374586, Visit : 東京 千代田区, Date : Wed May 31 09:58:05 +0000 2017

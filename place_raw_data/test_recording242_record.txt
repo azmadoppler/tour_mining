@@ -1,0 +1,4 @@
+User ID : 70329172, Visit : 神奈 相模原市 中央区, Date : Wed Jun 07 08:43:49 +0000 2017
+User ID : 70329172, Visit : 東京 千代田区, Date : Tue Jun 06 07:13:54 +0000 2017
+User ID : 70329172, Visit : 東京 千代田区, Date : Tue Jun 06 04:00:33 +0000 2017
+User ID : 70329172, Visit : 神奈 横浜市 神奈川区, Date : Sun Jun 04 23:03:35 +0000 2017

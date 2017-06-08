@@ -1,0 +1,12 @@
+User ID : 2878423380, Visit : 東京 港区, Date : Mon Jun 05 09:39:48 +0000 2017
+User ID : 2878423380, Visit : 東京 港区, Date : Mon Jun 05 08:20:44 +0000 2017
+User ID : 2878423380, Visit : 東京 北区, Date : Thu Jun 01 04:29:03 +0000 2017
+User ID : 2878423380, Visit : 千葉 柏市, Date : Sun May 21 05:44:42 +0000 2017
+User ID : 2878423380, Visit : 東京 豊島区, Date : Sun May 07 06:11:33 +0000 2017
+User ID : 2878423380, Visit : 東京 新宿区, Date : Tue Apr 18 09:01:17 +0000 2017
+User ID : 2878423380, Visit : 東京 渋谷区, Date : Thu Apr 06 09:51:50 +0000 2017
+User ID : 2878423380, Visit : 東京 渋谷区, Date : Thu Apr 06 09:19:45 +0000 2017
+User ID : 2878423380, Visit : 東京 豊島区, Date : Sat Mar 25 10:18:49 +0000 2017
+User ID : 2878423380, Visit : 東京 豊島区, Date : Sat Mar 25 07:58:00 +0000 2017
+User ID : 2878423380, Visit : 東京 文京区, Date : Sun Mar 12 08:05:52 +0000 2017
+User ID : 2878423380, Visit : 東京 渋谷区, Date : Wed Mar 01 10:01:52 +0000 2017

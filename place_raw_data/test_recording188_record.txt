@@ -1,0 +1,27 @@
+User ID : 71485317, Visit : Paris, France, Date : Wed Jun 07 19:56:34 +0000 2017
+User ID : 71485317, Visit : Champs-sur-Marne, France, Date : Tue Jun 06 19:38:36 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Mon Jun 05 20:27:26 +0000 2017
+User ID : 71485317, Visit : 東京 千代田区, Date : Mon Jun 05 14:20:07 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Sun Jun 04 18:56:25 +0000 2017
+User ID : 71485317, Visit : 東京 江東区, Date : Sun Jun 04 12:52:54 +0000 2017
+User ID : 71485317, Visit : 東京 港区, Date : Sun Jun 04 11:31:28 +0000 2017
+User ID : 71485317, Visit : 東京 墨田区, Date : Sun Jun 04 08:36:36 +0000 2017
+User ID : 71485317, Visit : 東京 墨田区, Date : Sun Jun 04 08:34:23 +0000 2017
+User ID : 71485317, Visit : 東京 港区, Date : Sun Jun 04 07:04:50 +0000 2017
+User ID : 71485317, Visit : 東京 港区, Date : Sun Jun 04 07:02:27 +0000 2017
+User ID : 71485317, Visit : 東京 港区, Date : Sun Jun 04 06:40:02 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 11:32:26 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 07:25:33 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 06:58:00 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 06:51:35 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 06:25:09 +0000 2017
+User ID : 71485317, Visit : 埼玉 さいたま市 中央区, Date : Sat Jun 03 06:24:28 +0000 2017
+User ID : 71485317, Visit : 東京 新宿区, Date : Sat Jun 03 05:38:11 +0000 2017
+User ID : 71485317, Visit : 東京 港区, Date : Fri Jun 02 20:18:05 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Thu Jun 01 19:33:55 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Wed May 31 19:57:13 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Mon May 29 20:15:34 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Sun May 28 19:37:53 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Sat May 27 23:38:43 +0000 2017
+User ID : 71485317, Visit : Paris, France, Date : Thu May 25 19:29:49 +0000 2017
+User ID : 71485317, Visit : Austin, TX, Date : Wed May 24 19:06:19 +0000 2017

@@ -1,3 +1,5 @@
+User ID : 194782782 , Lattitute : 35.99861887, Longitute : 139.56426169 
+
 User ID : 194782782 , Lattitute : 35.72935784, Longitute : 139.71775834 
 
 User ID : 194782782 , Lattitute : 35.72989024, Longitute : 139.71104526 
@@ -187,10 +189,4 @@ User ID : 194782782 , Lattitute : 35.662459, Longitute : 139.702723
 User ID : 194782782 , Lattitute : 35.6587222, Longitute : 139.70151061 
 
 User ID : 194782782 , Lattitute : 35.73003592, Longitute : 139.71120485 
-
-User ID : 194782782 , Lattitute : 35.99043897, Longitute : 139.5799591 
-
-User ID : 194782782 , Lattitute : 35.662459, Longitute : 139.702723 
-
-User ID : 194782782 , Lattitute : 35.65895665, Longitute : 139.70137099 
 

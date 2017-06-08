@@ -1,0 +1,5 @@
+User ID : 125565639, Visit : 東京 中野区, Date : Tue May 30 21:55:49 +0000 2017
+User ID : 125565639, Visit : 東京 中野区, Date : Tue May 30 08:48:32 +0000 2017
+User ID : 125565639, Visit : 東京 世田谷区, Date : Sat May 27 02:45:12 +0000 2017
+User ID : 125565639, Visit : 東京 渋谷区, Date : Sat May 20 12:34:40 +0000 2017
+User ID : 125565639, Visit : 埼玉 さいたま市 中央区, Date : Fri May 05 07:13:12 +0000 2017

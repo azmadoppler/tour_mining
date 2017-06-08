@@ -1,0 +1,55 @@
+User ID : 159413746, Visit : 東京 千代田区
+User ID : 159413746, Visit : 東京 大田区
+User ID : 159413746, Visit : 東京 中央区
+User ID : 159413746, Visit : 神奈 横浜市 西区
+User ID : 159413746, Visit : 神奈 横浜市 港北区
+User ID : 159413746, Visit : 東京 新宿区
+User ID : 159413746, Visit : 東京 新宿区
+User ID : 159413746, Visit : 神奈 横浜市 港北区
+User ID : 159413746, Visit : 愛知 名古屋市 中村区
+User ID : 159413746, Visit : 愛知 名古屋市 中村区
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 三重 伊勢市
+User ID : 159413746, Visit : 愛知 名古屋市 中村区
+User ID : 159413746, Visit : 愛知 名古屋市 西区
+User ID : 159413746, Visit : 愛知 名古屋市 熱田区
+User ID : 159413746, Visit : 愛知 名古屋市 中村区
+User ID : 159413746, Visit : 東京 大田区
+User ID : 159413746, Visit : 神奈 横浜市 港北区
+User ID : 159413746, Visit : 東京 新宿区
+User ID : 159413746, Visit : 東京 杉並区
+User ID : 159413746, Visit : 東京 杉並区
+User ID : 159413746, Visit : 東京 港区
+User ID : 159413746, Visit : 神奈 横浜市 港北区
+User ID : 159413746, Visit : 東京 八王子市
+User ID : 159413746, Visit : 東京 八王子市
+User ID : 159413746, Visit : 東京 新宿区
+User ID : 159413746, Visit : 東京 新宿区
+User ID : 159413746, Visit : 東京 大田区
+User ID : 159413746, Visit : 東京 中野区
+User ID : 159413746, Visit : 広島 福山市
+User ID : 159413746, Visit : 愛媛 今治市
+User ID : 159413746, Visit : 愛媛 今治市
+User ID : 159413746, Visit : 愛媛 今治市
+User ID : 159413746, Visit : 愛媛 今治市
+User ID : 159413746, Visit : 広島 尾道市
+User ID : 159413746, Visit : 広島 尾道市
+User ID : 159413746, Visit : 広島 廿日市市
+User ID : 159413746, Visit : 広島 廿日市市
+User ID : 159413746, Visit : 山口 中国地方
+User ID : 159413746, Visit : 広島 広島市 南区
+User ID : 159413746, Visit : 東京 杉並区
+User ID : 159413746, Visit : 神奈 鎌倉市
+User ID : 159413746, Visit : 神奈 藤沢市
+User ID : 159413746, Visit : 神奈 横浜市 西区
+User ID : 159413746, Visit : 新潟 長岡市
+User ID : 159413746, Visit : 新潟 長岡市
+User ID : 159413746, Visit : 新潟 長岡市
+User ID : 159413746, Visit : 東京 千代田区
+User ID : 159413746, Visit : 東京 千代田区
+User ID : 159413746, Visit : 神奈 横浜市 港北区
+User ID : 159413746, Visit : 東京 港区

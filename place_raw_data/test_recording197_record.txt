@@ -1,0 +1,3 @@
+User ID : 25647016, Visit : 東京 千代田区, Date : Tue Jun 06 09:51:28 +0000 2017
+User ID : 25647016, Visit : 東京 新宿区, Date : Mon Jun 05 00:40:30 +0000 2017
+User ID : 25647016, Visit : 東京 渋谷区, Date : Sat Jun 03 07:33:47 +0000 2017

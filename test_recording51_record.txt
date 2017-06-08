@@ -1,0 +1,226 @@
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.438191, Longitute : 139.634618 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.656224, Longitute : 139.75355 
+
+User ID : 28005792 , Lattitute : 35.65696553, Longitute : 139.75323159 
+
+User ID : 28005792 , Lattitute : 35.438191, Longitute : 139.634618 
+
+User ID : 28005792 , Lattitute : 35.655543, Longitute : 139.756815 
+
+User ID : 28005792 , Lattitute : 35.65960137, Longitute : 139.75754122 
+
+User ID : 28005792 , Lattitute : 35.46850498, Longitute : 139.62166339 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.76408787, Longitute : 140.38618497 
+
+User ID : 28005792 , Lattitute : -37.00495692, Longitute : 174.78299447 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.741095, Longitute : 174.710784 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : 35.65759823, Longitute : 139.75546248 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.80148092, Longitute : 174.74513228 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.741095, Longitute : 174.710784 
+
+User ID : 28005792 , Lattitute : -36.74318289, Longitute : 174.69725132 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.71538435, Longitute : 174.74712136 
+
+User ID : 28005792 , Lattitute : -36.71429058, Longitute : 174.75003719 
+
+User ID : 28005792 , Lattitute : -36.85158918, Longitute : 174.76384217 
+
+User ID : 28005792 , Lattitute : -36.86719016, Longitute : 174.77784126 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.741095, Longitute : 174.710784 
+
+User ID : 28005792 , Lattitute : -36.86049154, Longitute : 174.77789733 
+
+User ID : 28005792 , Lattitute : -36.87790557, Longitute : 174.76433164 
+
+User ID : 28005792 , Lattitute : -36.715454, Longitute : 174.74576 
+
+User ID : 28005792 , Lattitute : -36.71476746, Longitute : 174.74716216 
+
+User ID : 28005792 , Lattitute : -36.80148092, Longitute : 174.74513228 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -41.32886515, Longitute : 174.81154561 
+
+User ID : 28005792 , Lattitute : -41.29181397, Longitute : 174.78736235 
+
+User ID : 28005792 , Lattitute : -41.29181397, Longitute : 174.78736235 
+
+User ID : 28005792 , Lattitute : -41.29041567, Longitute : 174.78141904 
+
+User ID : 28005792 , Lattitute : -41.29181397, Longitute : 174.78736235 
+
+User ID : 28005792 , Lattitute : -41.32886515, Longitute : 174.81154561 
+
+User ID : 28005792 , Lattitute : -37.00647955, Longitute : 174.79064441 
+
+User ID : 28005792 , Lattitute : -36.741095, Longitute : 174.710784 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : -36.2698653, Longitute : 174.7974092 
+
+User ID : 28005792 , Lattitute : -36.74118819, Longitute : 174.71112877 
+
+User ID : 28005792 , Lattitute : 35.77081995, Longitute : 140.38647748 
+
+User ID : 28005792 , Lattitute : 35.66730099, Longitute : 139.75693256 
+
+User ID : 28005792 , Lattitute : 35.65473472, Longitute : 139.75382549 
+
+User ID : 28005792 , Lattitute : 35.65828207, Longitute : 139.75731088 
+
+User ID : 28005792 , Lattitute : 35.438191, Longitute : 139.634618 
+
+User ID : 28005792 , Lattitute : 35.65609324, Longitute : 139.75656509 
+
+User ID : 28005792 , Lattitute : 35.44263544, Longitute : 139.62997288 
+
+User ID : 28005792 , Lattitute : 35.43826519, Longitute : 139.62481062 
+
+User ID : 28005792 , Lattitute : 35.44140736, Longitute : 139.6584177 
+
+User ID : 28005792 , Lattitute : 35.4398165, Longitute : 139.65979099 
+
+User ID : 28005792 , Lattitute : 35.44016504, Longitute : 139.65955046 
+
+User ID : 28005792 , Lattitute : 35.47917424, Longitute : 139.63834746 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.65676267, Longitute : 139.7527974 
+
+User ID : 28005792 , Lattitute : 35.78950527, Longitute : 139.88262127 
+
+User ID : 28005792 , Lattitute : 35.65421627, Longitute : 139.75564714 
+
+User ID : 28005792 , Lattitute : 35.65693062, Longitute : 139.75287226 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.656895, Longitute : 139.754056 
+
+User ID : 28005792 , Lattitute : 35.438191, Longitute : 139.634618 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.655969, Longitute : 139.75344 
+
+User ID : 28005792 , Lattitute : 35.36754043, Longitute : 139.91404926 
+
+User ID : 28005792 , Lattitute : 35.60164566, Longitute : 140.50127737 
+
+User ID : 28005792 , Lattitute : 35.70027909, Longitute : 140.68395417 
+
+User ID : 28005792 , Lattitute : 35.72169949, Longitute : 140.68598623 
+
+User ID : 28005792 , Lattitute : 35.707022, Longitute : 140.709222 
+
+User ID : 28005792 , Lattitute : 35.702636, Longitute : 140.7066 
+
+User ID : 28005792 , Lattitute : 35.46541496, Longitute : 139.62504966 
+
+User ID : 28005792 , Lattitute : 35.42022964, Longitute : 139.65481699 
+
+User ID : 28005792 , Lattitute : 35.43616966, Longitute : 139.62108082 
+
+User ID : 28005792 , Lattitute : 35.46901506, Longitute : 139.628613 
+
+User ID : 28005792 , Lattitute : 35.43564254, Longitute : 139.62022841 
+
+User ID : 28005792 , Lattitute : 35.28728508, Longitute : 139.23358469 
+
+User ID : 28005792 , Lattitute : 35.16130008, Longitute : 139.07397479 
+
+User ID : 28005792 , Lattitute : 35.18429199, Longitute : 139.04878646 
+
+User ID : 28005792 , Lattitute : 35.02412774, Longitute : 139.04364143 
+
+User ID : 28005792 , Lattitute : 35.27569044, Longitute : 139.20463009 
+
+User ID : 28005792 , Lattitute : 35.655943, Longitute : 139.755036 
+
+User ID : 28005792 , Lattitute : 35.65037, Longitute : 139.752879 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.65280328, Longitute : 139.7549035 
+
+User ID : 28005792 , Lattitute : 35.45764597, Longitute : 139.62740519 
+
+User ID : 28005792 , Lattitute : 35.47917424, Longitute : 139.63834746 
+
+User ID : 28005792 , Lattitute : 34.90591361, Longitute : 139.0391256 
+
+User ID : 28005792 , Lattitute : 34.60946074, Longitute : 138.8266183 
+
+User ID : 28005792 , Lattitute : 34.79837799, Longitute : 138.76748657 
+
+User ID : 28005792 , Lattitute : 34.9549232, Longitute : 138.9978695 
+
+User ID : 28005792 , Lattitute : 35.121914, Longitute : 139.039417 
+
+User ID : 28005792 , Lattitute : 35.182974, Longitute : 139.04641 
+
+User ID : 28005792 , Lattitute : 35.27569044, Longitute : 139.20463009 
+
+User ID : 28005792 , Lattitute : 35.52845964, Longitute : 139.70150063 
+
+User ID : 28005792 , Lattitute : 35.52844442, Longitute : 139.69997982 
+
+User ID : 28005792 , Lattitute : 35.53098812, Longitute : 139.69936153 
+
+User ID : 28005792 , Lattitute : 35.65669745, Longitute : 139.75536765 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.36501701, Longitute : 139.49728098 
+
+User ID : 28005792 , Lattitute : 35.6566913, Longitute : 139.7577184 
+
+User ID : 28005792 , Lattitute : 35.65677102, Longitute : 139.75363344 
+
+User ID : 28005792 , Lattitute : 35.65644658, Longitute : 139.75689488 
+
+User ID : 28005792 , Lattitute : 35.44638137, Longitute : 139.63214601 
+
+User ID : 28005792 , Lattitute : 35.43826519, Longitute : 139.62481062 
+
+User ID : 28005792 , Lattitute : 35.3797081, Longitute : 139.64657307 
+
+User ID : 28005792 , Lattitute : 35.36092997, Longitute : 139.6439165 
+
+User ID : 28005792 , Lattitute : 35.657285, Longitute : 139.753918 
+
+User ID : 28005792 , Lattitute : 35.438118, Longitute : 139.623271 
+
+User ID : 28005792 , Lattitute : 35.66474054, Longitute : 139.75493968 
+

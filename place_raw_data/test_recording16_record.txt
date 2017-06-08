@@ -1,0 +1,110 @@
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Jun 04 20:30:40 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Jun 04 19:29:11 +0000 2017
+User ID : 23629025, Visit : Surquillo, Peru, Date : Sun Jun 04 00:06:27 +0000 2017
+User ID : 23629025, Visit : 東京 立川市, Date : Tue May 30 03:43:58 +0000 2017
+User ID : 23629025, Visit : 東京 立川市, Date : Tue May 30 00:45:12 +0000 2017
+User ID : 23629025, Visit : 東京 港区, Date : Sun May 28 12:05:13 +0000 2017
+User ID : 23629025, Visit : 東京 立川市, Date : Sat May 27 15:01:52 +0000 2017
+User ID : 23629025, Visit : 東京 豊島区, Date : Fri May 26 14:44:24 +0000 2017
+User ID : 23629025, Visit : 千葉 成田市, Date : Thu May 25 07:01:25 +0000 2017
+User ID : 23629025, Visit : San Luis, Peru, Date : Fri May 19 18:52:18 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Thu May 18 20:50:23 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Thu May 18 20:24:39 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Mon May 15 20:48:50 +0000 2017
+User ID : 23629025, Visit : Magdalena Vieja, Peru, Date : Sun May 14 21:06:23 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun May 14 18:59:55 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun May 14 18:48:02 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Fri May 12 19:26:34 +0000 2017
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Wed May 10 23:10:43 +0000 2017
+User ID : 23629025, Visit : Lima, Peru, Date : Thu May 04 03:05:48 +0000 2017
+User ID : 23629025, Visit : Lima, Peru, Date : Thu May 04 01:08:15 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Mon May 01 19:01:10 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 30 19:39:51 +0000 2017
+User ID : 23629025, Visit : San Borja, Peru, Date : Sat Apr 29 01:45:54 +0000 2017
+User ID : 23629025, Visit : Ate, Peru, Date : Thu Apr 27 12:09:11 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 09 08:52:59 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 09 08:37:02 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 09 07:19:15 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 09 07:03:17 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sun Apr 09 05:53:38 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Fri Apr 07 19:43:21 +0000 2017
+User ID : 23629025, Visit : Miraflores, Peru, Date : Fri Apr 07 19:09:04 +0000 2017
+User ID : 23629025, Visit : San Miguel, Peru, Date : Sun Apr 02 19:18:13 +0000 2017
+User ID : 23629025, Visit : Jesús Maria, Peru, Date : Sun Mar 26 19:41:36 +0000 2017
+User ID : 23629025, Visit : San Borja, Peru, Date : Sun Feb 26 19:19:39 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Mon Feb 20 01:06:19 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Sun Feb 19 16:03:41 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Sun Feb 19 16:02:21 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Sun Feb 19 15:59:14 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Sun Feb 19 00:07:49 +0000 2017
+User ID : 23629025, Visit : Paracas, Peru, Date : Sat Feb 18 22:09:15 +0000 2017
+User ID : 23629025, Visit : San isidro, Peru, Date : Wed Feb 15 01:00:49 +0000 2017
+User ID : 23629025, Visit : Santiago de Surco, Peru, Date : Sun Feb 12 19:07:04 +0000 2017
+User ID : 23629025, Visit : Barranco, Peru, Date : Sun Feb 12 06:18:37 +0000 2017
+User ID : 23629025, Visit : Lince, Peru, Date : Sat Feb 11 15:19:23 +0000 2017
+User ID : 23629025, Visit : Lince, Peru, Date : Sat Feb 11 03:19:44 +0000 2017
+User ID : 23629025, Visit : Lince, Peru, Date : Sat Feb 11 01:39:08 +0000 2017
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Wed Feb 01 01:53:42 +0000 2017
+User ID : 23629025, Visit : San isidro, Peru, Date : Sun Jan 29 19:29:53 +0000 2017
+User ID : 23629025, Visit : Punta Hermosa, Peru, Date : Fri Jan 27 17:31:03 +0000 2017
+User ID : 23629025, Visit : Callao, Peru, Date : Tue Jan 24 20:34:52 +0000 2017
+User ID : 23629025, Visit : Santiago de Surco, Peru, Date : Sun Jan 22 20:22:38 +0000 2017
+User ID : 23629025, Visit : Santiago de Surco, Peru, Date : Sun Jan 22 20:21:34 +0000 2017
+User ID : 23629025, Visit : Santiago de Surco, Peru, Date : Sat Jan 14 00:07:40 +0000 2017
+User ID : 23629025, Visit : Santiago de Surco, Peru, Date : Fri Jan 13 23:53:30 +0000 2017
+User ID : 23629025, Visit : Santa Marta, Colombia, Date : Fri Jan 06 23:32:47 +0000 2017
+User ID : 23629025, Visit : Santa Marta, Colombia, Date : Fri Jan 06 01:31:10 +0000 2017
+User ID : 23629025, Visit : Santa Marta, Colombia, Date : Fri Jan 06 01:17:26 +0000 2017
+User ID : 23629025, Visit : Santa Marta, Colombia, Date : Thu Jan 05 21:55:43 +0000 2017
+User ID : 23629025, Visit : Santa Marta, Colombia, Date : Wed Jan 04 20:41:36 +0000 2017
+User ID : 23629025, Visit : Cartagena, Colombia, Date : Tue Jan 03 23:57:59 +0000 2017
+User ID : 23629025, Visit : Cartagena, Colombia, Date : Tue Jan 03 23:52:59 +0000 2017
+User ID : 23629025, Visit : Cartagena, Colombia, Date : Mon Jan 02 23:35:26 +0000 2017
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Sat Dec 31 02:50:36 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Sat Dec 31 01:54:58 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Sat Dec 31 01:47:12 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Fri Dec 30 21:11:50 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Fri Dec 30 21:10:39 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Thu Dec 29 22:38:59 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Thu Dec 29 18:58:49 +0000 2016
+User ID : 23629025, Visit : Bogotá, D.C., Colombia, Date : Thu Dec 29 14:01:28 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Tue Dec 27 00:20:25 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Mon Dec 26 23:20:49 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Fri Dec 23 21:36:30 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sat Dec 17 20:31:17 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sat Dec 17 17:27:28 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Fri Dec 16 20:02:35 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Wed Dec 14 21:10:35 +0000 2016
+User ID : 23629025, Visit : Lince, Peru, Date : Sat Dec 10 06:14:44 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sat Dec 10 03:38:48 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Fri Dec 02 20:04:31 +0000 2016
+User ID : 23629025, Visit : San Borja, Peru, Date : Fri Dec 02 01:25:52 +0000 2016
+User ID : 23629025, Visit : San Borja, Peru, Date : Sun Nov 27 15:00:57 +0000 2016
+User ID : 23629025, Visit : Huancayo, Peru, Date : Thu Nov 24 02:01:26 +0000 2016
+User ID : 23629025, Visit : Huachac, Peru, Date : Wed Nov 23 23:37:01 +0000 2016
+User ID : 23629025, Visit : Huachac, Peru, Date : Wed Nov 23 20:42:09 +0000 2016
+User ID : 23629025, Visit : Santiago, Chile, Date : Sun Nov 20 00:34:08 +0000 2016
+User ID : 23629025, Visit : Santiago, Chile, Date : Sun Nov 20 00:31:34 +0000 2016
+User ID : 23629025, Visit : Vitacura, Chile, Date : Sat Nov 19 21:05:19 +0000 2016
+User ID : 23629025, Visit : Viña del Mar, Chile, Date : Fri Nov 18 21:55:10 +0000 2016
+User ID : 23629025, Visit : Valparaíso, Chile, Date : Fri Nov 18 21:53:34 +0000 2016
+User ID : 23629025, Visit : Valparaíso, Chile, Date : Fri Nov 18 21:52:34 +0000 2016
+User ID : 23629025, Visit : Valparaíso, Chile, Date : Fri Nov 18 21:50:40 +0000 2016
+User ID : 23629025, Visit : Valparaíso, Chile, Date : Fri Nov 18 18:06:05 +0000 2016
+User ID : 23629025, Visit : Valparaíso, Chile, Date : Fri Nov 18 17:52:58 +0000 2016
+User ID : 23629025, Visit : Providencia, Chile, Date : Fri Nov 18 04:24:07 +0000 2016
+User ID : 23629025, Visit : Callao, Peru, Date : Thu Nov 17 13:24:45 +0000 2016
+User ID : 23629025, Visit : Callao, Peru, Date : Thu Nov 17 12:49:52 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Thu Oct 27 23:28:40 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Wed Oct 26 23:05:32 +0000 2016
+User ID : 23629025, Visit : Lince, Peru, Date : Sun Oct 23 06:30:54 +0000 2016
+User ID : 23629025, Visit : Lima, Peru, Date : Sat Oct 15 13:45:15 +0000 2016
+User ID : 23629025, Visit : Lurigancho, Peru, Date : Wed Oct 12 23:20:29 +0000 2016
+User ID : 23629025, Visit : Llacanora, Peru, Date : Thu Sep 29 19:49:53 +0000 2016
+User ID : 23629025, Visit : Miraflores, Peru, Date : Sat Sep 24 19:43:37 +0000 2016
+User ID : 23629025, Visit : Surquillo, Peru, Date : Sat Sep 24 02:35:35 +0000 2016
+User ID : 23629025, Visit : Surquillo, Peru, Date : Sat Sep 24 01:40:52 +0000 2016
+User ID : 23629025, Visit : Magdalena Vieja, Peru, Date : Fri Sep 16 18:35:02 +0000 2016
+User ID : 23629025, Visit : San Miguel, Peru, Date : Fri Sep 16 17:09:15 +0000 2016
+User ID : 23629025, Visit : Barranco, Peru, Date : Sat Sep 03 23:43:32 +0000 2016
+User ID : 23629025, Visit : Barranco, Peru, Date : Sat Sep 03 23:40:18 +0000 2016

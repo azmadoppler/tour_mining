@@ -1,0 +1,6 @@
+User ID : 112533959, Visit : 東京 港区, Date : Sat Jun 03 04:48:42 +0000 2017
+User ID : 112533959, Visit : 東京 港区, Date : Sat Jun 03 04:42:14 +0000 2017
+User ID : 112533959, Visit : 東京 板橋区, Date : Fri Jun 02 09:20:52 +0000 2017
+User ID : 112533959, Visit : 東京 品川区, Date : Wed May 17 10:14:08 +0000 2017
+User ID : 112533959, Visit : 東京 港区, Date : Wed May 17 09:57:22 +0000 2017
+User ID : 112533959, Visit : 東京 港区, Date : Wed May 17 09:55:16 +0000 2017

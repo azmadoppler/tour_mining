@@ -1,0 +1,8 @@
+User ID : 4743111974, Visit : 東京 港区, Date : Wed Jun 07 08:57:10 +0000 2017
+User ID : 4743111974, Visit : 東京 渋谷区, Date : Tue Jun 06 09:27:00 +0000 2017
+User ID : 4743111974, Visit : 東京 港区, Date : Tue Jun 06 02:31:25 +0000 2017
+User ID : 4743111974, Visit : 東京 港区, Date : Tue Jun 06 02:03:21 +0000 2017
+User ID : 4743111974, Visit : 東京 港区, Date : Tue Jun 06 01:54:18 +0000 2017
+User ID : 4743111974, Visit : 愛知 名古屋市 中村区, Date : Sun Jun 04 04:53:15 +0000 2017
+User ID : 4743111974, Visit : 愛知 名古屋市 中区, Date : Sun Jun 04 00:38:05 +0000 2017
+User ID : 4743111974, Visit : 愛知 名古屋市 西区, Date : Wed May 31 09:17:28 +0000 2017

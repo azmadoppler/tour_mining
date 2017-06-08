@@ -1,0 +1,5 @@
+User ID : 59789204, Visit : 神奈 藤沢市, Date : Thu Jun 08 03:49:57 +0000 2017
+User ID : 59789204, Visit : 東京 千代田区, Date : Tue Jun 06 08:57:06 +0000 2017
+User ID : 59789204, Visit : 東京 中央区, Date : Sat Jun 03 13:56:15 +0000 2017
+User ID : 59789204, Visit : 東京 中央区, Date : Sat Jun 03 11:28:08 +0000 2017
+User ID : 59789204, Visit : 東京 中央区, Date : Sat Jun 03 11:10:01 +0000 2017

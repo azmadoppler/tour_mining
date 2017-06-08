@@ -1,0 +1,19 @@
+User ID : 16062927, Visit : 東京 港区, Date : Tue Jun 06 23:33:32 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Mon Jun 05 03:16:09 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Mon Jun 05 03:10:10 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Mon Jun 05 03:07:47 +0000 2017
+User ID : 16062927, Visit : 神奈 横浜市 港南区, Date : Sun Jun 04 12:15:44 +0000 2017
+User ID : 16062927, Visit : 神奈 横浜市 港南区, Date : Sun Jun 04 10:47:23 +0000 2017
+User ID : 16062927, Visit : 神奈 藤沢市, Date : Sun Jun 04 08:21:12 +0000 2017
+User ID : 16062927, Visit : 神奈 横浜市 栄区, Date : Sat Jun 03 06:59:31 +0000 2017
+User ID : 16062927, Visit : 神奈 横浜市 栄区, Date : Sat Jun 03 05:26:28 +0000 2017
+User ID : 16062927, Visit : 神奈 横須賀市, Date : Sun May 28 23:25:25 +0000 2017
+User ID : 16062927, Visit : 神奈 横須賀市, Date : Sun May 28 23:24:20 +0000 2017
+User ID : 16062927, Visit : 神奈 横須賀市, Date : Sun May 28 23:23:13 +0000 2017
+User ID : 16062927, Visit : Mongolia, Date : Mon May 15 23:33:06 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Thu May 11 23:14:46 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Thu May 11 23:14:09 +0000 2017
+User ID : 16062927, Visit : 東京 港区, Date : Thu May 11 23:12:52 +0000 2017
+User ID : 16062927, Visit : 栃木 那須塩原市, Date : Sun May 07 03:49:50 +0000 2017
+User ID : 16062927, Visit : 栃木 日光市, Date : Sun May 07 03:34:21 +0000 2017
+User ID : 16062927, Visit : 群馬 片品村, Date : Sun May 07 03:28:31 +0000 2017

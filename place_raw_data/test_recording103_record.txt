@@ -1,0 +1,14 @@
+User ID : 765798588, Visit : 東京 新宿区, Date : Thu Jun 01 23:09:14 +0000 2017
+User ID : 765798588, Visit : 埼玉 さいたま市 南区, Date : Thu Jun 01 19:54:29 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Wed May 31 23:49:15 +0000 2017
+User ID : 765798588, Visit : 東京 千代田区, Date : Wed May 31 08:30:14 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Mon May 29 23:25:44 +0000 2017
+User ID : 765798588, Visit : 東京 千代田区, Date : Mon May 29 09:54:16 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Sun May 28 23:47:58 +0000 2017
+User ID : 765798588, Visit : 埼玉 さいたま市 南区, Date : Sun May 28 02:30:37 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Tue May 23 23:54:58 +0000 2017
+User ID : 765798588, Visit : 埼玉 さいたま市 南区, Date : Tue May 23 12:54:20 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Mon May 22 23:36:28 +0000 2017
+User ID : 765798588, Visit : 東京 新宿区, Date : Sun May 21 23:31:39 +0000 2017
+User ID : 765798588, Visit : 埼玉 さいたま市 南区, Date : Sun May 21 02:16:47 +0000 2017
+User ID : 765798588, Visit : 埼玉 さいたま市 南区, Date : Sun May 21 01:35:38 +0000 2017

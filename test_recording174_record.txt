@@ -1,0 +1,14 @@
+User ID : 154578193 , Lattitute : 35.68982722, Longitute : 139.69869912 
+
+User ID : 154578193 , Lattitute : 35.6895892, Longitute : 139.70159039 
+
+User ID : 154578193 , Lattitute : 35.70380079, Longitute : 139.66564894 
+
+User ID : 154578193 , Lattitute : 35.69037287, Longitute : 139.70018924 
+
+User ID : 154578193 , Lattitute : 35.65864743, Longitute : 139.69565749 
+
+User ID : 154578193 , Lattitute : 35.661521, Longitute : 139.700605 
+
+User ID : 154578193 , Lattitute : 35.65892311, Longitute : 139.70248295 
+

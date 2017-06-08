@@ -1,0 +1,19 @@
+User ID : 3857201, Visit : 東京 千代田区, Date : Sun Jun 04 01:28:43 +0000 2017
+User ID : 3857201, Visit : 東京 港区, Date : Sat Jun 03 05:45:42 +0000 2017
+User ID : 3857201, Visit : 東京 港区, Date : Fri Jun 02 12:51:03 +0000 2017
+User ID : 3857201, Visit : 東京 港区, Date : Wed May 24 04:32:32 +0000 2017
+User ID : 3857201, Visit : 兵庫 神戸市 中央区, Date : Tue Feb 14 04:46:38 +0000 2017
+User ID : 3857201, Visit : 東京 大田区, Date : Fri Feb 10 23:10:40 +0000 2017
+User ID : 3857201, Visit : 静岡 富士市, Date : Tue Jan 24 23:35:57 +0000 2017
+User ID : 3857201, Visit : 大阪 大阪市 淀川区, Date : Tue Jan 24 21:40:46 +0000 2017
+User ID : 3857201, Visit : 東京 大田区, Date : Wed Jan 11 23:54:34 +0000 2017
+User ID : 3857201, Visit : 滋賀 長浜市, Date : Sat Dec 17 23:18:04 +0000 2016
+User ID : 3857201, Visit : 東京 千代田区, Date : Sat Dec 17 20:49:45 +0000 2016
+User ID : 3857201, Visit : 東京 千代田区, Date : Sat Dec 17 05:06:01 +0000 2016
+User ID : 3857201, Visit : 東京 千代田区, Date : Sat Dec 17 01:14:25 +0000 2016
+User ID : 3857201, Visit : 東京 新宿区, Date : Fri Dec 16 22:41:56 +0000 2016
+User ID : 3857201, Visit : 兵庫 神戸市 中央区, Date : Mon Dec 05 14:08:25 +0000 2016
+User ID : 3857201, Visit : 兵庫 神戸市 中央区, Date : Sun Dec 04 04:56:21 +0000 2016
+User ID : 3857201, Visit : 東京 大田区, Date : Mon Nov 28 23:45:59 +0000 2016
+User ID : 3857201, Visit : 大阪 大阪市 北区, Date : Mon Nov 21 13:56:43 +0000 2016
+User ID : 3857201, Visit : 大阪 大阪市 北区, Date : Sat Nov 19 07:18:41 +0000 2016

@@ -1,0 +1,4 @@
+User ID : 2864814035, Visit : 神奈 横浜市 西区, Date : Tue Jun 06 11:12:54 +0000 2017
+User ID : 2864814035, Visit : 東京 港区, Date : Mon Jun 05 13:59:30 +0000 2017
+User ID : 2864814035, Visit : 東京 港区, Date : Mon Jun 05 07:24:18 +0000 2017
+User ID : 2864814035, Visit : 東京 品川区, Date : Mon Jun 05 07:10:03 +0000 2017

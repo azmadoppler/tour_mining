@@ -1,0 +1,23 @@
+User ID : 148020161, Visit : 東京 港区, Date : Tue Jun 06 10:27:14 +0000 2017
+User ID : 148020161, Visit : 千葉 千葉市 美浜区, Date : Sun Jun 04 07:05:54 +0000 2017
+User ID : 148020161, Visit : 千葉 千葉市 美浜区, Date : Sun Jun 04 06:17:58 +0000 2017
+User ID : 148020161, Visit : 東京 世田谷区, Date : Sat Jun 03 10:58:35 +0000 2017
+User ID : 148020161, Visit : 東京 国立市, Date : Thu Jun 01 07:39:16 +0000 2017
+User ID : 148020161, Visit : 宮城 青葉区, Date : Thu Jun 01 03:20:54 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Thu Jun 01 00:05:00 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Wed May 31 12:17:50 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Wed May 31 11:59:29 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Wed May 31 11:45:31 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Wed May 31 09:05:47 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Tue May 30 12:54:07 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Tue May 30 00:41:12 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Mon May 29 16:26:53 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Mon May 29 14:10:25 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Mon May 29 14:05:39 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Mon May 29 12:03:23 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Mon May 29 11:48:07 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Sun May 28 09:47:11 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Sun May 28 09:42:34 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Sun May 28 06:55:01 +0000 2017
+User ID : 148020161, Visit : 岩手 奥州市, Date : Fri May 26 12:37:20 +0000 2017
+User ID : 148020161, Visit : 岩手 陸前高田市, Date : Fri May 26 06:36:56 +0000 2017

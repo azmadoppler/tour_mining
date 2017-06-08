@@ -1,0 +1,76 @@
+User ID : 222523859, Visit : 東京 千代田区, Date : Thu Jun 08 00:43:59 +0000 2017
+User ID : 222523859, Visit : 東京 文京区, Date : Wed Jun 07 02:25:07 +0000 2017
+User ID : 222523859, Visit : 東京 港区, Date : Tue Jun 06 03:38:39 +0000 2017
+User ID : 222523859, Visit : 東京 台東区, Date : Mon Jun 05 02:41:17 +0000 2017
+User ID : 222523859, Visit : 東京 千代田区, Date : Sun Jun 04 02:35:52 +0000 2017
+User ID : 222523859, Visit : 東京 新宿区, Date : Sat Jun 03 00:56:32 +0000 2017
+User ID : 222523859, Visit : 東京 渋谷区, Date : Fri Jun 02 02:25:05 +0000 2017
+User ID : 222523859, Visit : Tagaytay, Rehiyon ng CALABARZON, Date : Tue May 09 01:46:28 +0000 2017
+User ID : 222523859, Visit : Malay, Rehiyon ng Kanlurang Visayas, Date : Mon May 08 00:04:09 +0000 2017
+User ID : 222523859, Visit : Malay, Rehiyon ng Kanlurang Visayas, Date : Fri May 05 00:03:56 +0000 2017
+User ID : 222523859, Visit : Busuanga, Rehiyon ng MIMAROPA, Date : Tue May 02 00:11:38 +0000 2017
+User ID : 222523859, Visit : Culion, Rehiyon ng MIMAROPA, Date : Mon May 01 02:32:42 +0000 2017
+User ID : 222523859, Visit : Coron, Rehiyon ng MIMAROPA, Date : Sun Apr 30 01:30:43 +0000 2017
+User ID : 222523859, Visit : Lungsod ng Baguio, Administratibong Rehiyon ng Cordillera, Date : Sun Apr 16 03:07:10 +0000 2017
+User ID : 222523859, Visit : Tuba, Administratibong Rehiyon ng Cordillera, Date : Fri Apr 14 03:48:35 +0000 2017
+User ID : 222523859, Visit : 油尖旺, 香港, Date : Mon Apr 10 05:57:12 +0000 2017
+User ID : 222523859, Visit : 高雄市, 台灣, Date : Sun Apr 09 09:45:43 +0000 2017
+User ID : 222523859, Visit : 高雄市, 台灣, Date : Thu Apr 06 04:35:04 +0000 2017
+User ID : 222523859, Visit : 高雄市, 台灣, Date : Wed Apr 05 05:15:26 +0000 2017
+User ID : 222523859, Visit : Panglao, Rehiyon ng Gitnang Visayas, Date : Sun Apr 02 03:16:37 +0000 2017
+User ID : 222523859, Visit : Baco, Rehiyon ng MIMAROPA, Date : Thu Mar 02 01:09:35 +0000 2017
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Fri Feb 24 06:53:26 +0000 2017
+User ID : 222523859, Visit : 油尖旺, 香港, Date : Thu Feb 02 05:35:34 +0000 2017
+User ID : 222523859, Visit : 大埔, 香港, Date : Tue Jan 31 02:21:53 +0000 2017
+User ID : 222523859, Visit : 中西區, 香港, Date : Sun Jan 29 05:15:39 +0000 2017
+User ID : 222523859, Visit : 油尖旺, 香港, Date : Sat Jan 28 02:37:01 +0000 2017
+User ID : 222523859, Visit : Lungsod ng Makati, Pambansang Punong Rehiyon, Date : Thu Dec 29 03:19:14 +0000 2016
+User ID : 222523859, Visit : Tuba, Administratibong Rehiyon ng Cordillera, Date : Fri Dec 23 01:28:47 +0000 2016
+User ID : 222523859, Visit : Tuba, Administratibong Rehiyon ng Cordillera, Date : Wed Dec 21 07:18:30 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Baguio, Administratibong Rehiyon ng Cordillera, Date : Tue Dec 20 01:04:27 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Baguio, Administratibong Rehiyon ng Cordillera, Date : Mon Dec 19 00:32:50 +0000 2016
+User ID : 222523859, Visit : La Trinidad, Administratibong Rehiyon ng Cordillera, Date : Sat Dec 17 00:06:34 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Baguio, Administratibong Rehiyon ng Cordillera, Date : Fri Dec 16 02:32:42 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Sat Dec 10 02:32:34 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Sun Dec 04 06:33:37 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Fri Dec 02 06:26:21 +0000 2016
+User ID : 222523859, Visit : East, England, Date : Thu Dec 01 00:50:26 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Wed Nov 30 04:09:57 +0000 2016
+User ID : 222523859, Visit : Paddington, London, Date : Mon Nov 28 02:47:02 +0000 2016
+User ID : 222523859, Visit : Bath, England, Date : Sun Nov 27 02:28:02 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Sat Nov 26 04:46:22 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Fri Nov 25 03:17:06 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Thu Nov 24 01:55:57 +0000 2016
+User ID : 222523859, Visit : East, England, Date : Wed Nov 23 02:48:02 +0000 2016
+User ID : 222523859, Visit : Stratford-Upon-Avon, England, Date : Tue Nov 22 09:58:13 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Sun Nov 20 00:30:45 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Fri Nov 18 02:14:36 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Pasay, Pambansang Punong Rehiyon, Date : Thu Nov 17 11:56:59 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Wed Nov 16 01:53:28 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Mon Nov 14 13:53:49 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Sun Nov 13 10:31:43 +0000 2016
+User ID : 222523859, Visit : Oxford, England, Date : Sat Nov 12 23:28:24 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Sat Nov 12 12:57:31 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Fri Nov 11 16:46:15 +0000 2016
+User ID : 222523859, Visit : Genève, Suisse, Date : Thu Nov 10 14:36:59 +0000 2016
+User ID : 222523859, Visit : Stratford-Upon-Avon, England, Date : Wed Nov 09 23:31:26 +0000 2016
+User ID : 222523859, Visit : East, England, Date : Wed Nov 09 09:32:34 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Wed Nov 09 00:05:17 +0000 2016
+User ID : 222523859, Visit : Windsor, South East, Date : Tue Nov 08 09:08:27 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Mon Nov 07 23:13:04 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Mon Nov 07 08:04:06 +0000 2016
+User ID : 222523859, Visit : Paddington, London, Date : Sun Nov 06 22:07:59 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Sun Nov 06 10:33:56 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Sat Nov 05 09:22:16 +0000 2016
+User ID : 222523859, Visit : City of London, London, Date : Fri Nov 04 21:09:23 +0000 2016
+User ID : 222523859, Visit : London, England, Date : Thu Nov 03 08:47:52 +0000 2016
+User ID : 222523859, Visit : Poplar, London, Date : Wed Nov 02 14:11:08 +0000 2016
+User ID : 222523859, Visit : Kensington, London, Date : Tue Nov 01 15:49:02 +0000 2016
+User ID : 222523859, Visit : Gloria, Rehiyon ng MIMAROPA, Date : Sun Oct 23 08:52:15 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Tue Oct 11 08:43:06 +0000 2016
+User ID : 222523859, Visit : Agat, GU, Date : Wed Oct 05 13:30:28 +0000 2016
+User ID : 222523859, Visit : Tumon, USA, Date : Wed Oct 05 00:52:27 +0000 2016
+User ID : 222523859, Visit : Tumon, USA, Date : Tue Oct 04 00:28:19 +0000 2016
+User ID : 222523859, Visit : Oka, GU, Date : Sun Oct 02 22:33:43 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Sun Sep 25 02:44:21 +0000 2016
+User ID : 222523859, Visit : Lungsod ng Maynila, Pambansang Punong Rehiyon, Date : Sun Sep 25 02:32:10 +0000 2016

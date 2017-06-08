@@ -1,0 +1,5 @@
+User ID : 2502909079, Visit : 東京 港区, Date : Wed Jun 07 10:00:40 +0000 2017
+User ID : 2502909079, Visit : 東京 江東区, Date : Sun Jun 04 05:03:16 +0000 2017
+User ID : 2502909079, Visit : 東京 渋谷区, Date : Sat Jun 03 08:24:37 +0000 2017
+User ID : 2502909079, Visit : 東京 新宿区, Date : Wed May 31 08:59:43 +0000 2017
+User ID : 2502909079, Visit : 東京 新宿区, Date : Wed May 31 08:47:25 +0000 2017

@@ -1,0 +1,8 @@
+User ID : 2354793704, Visit : 東京 新宿区, Date : Tue Jun 06 11:37:22 +0000 2017
+User ID : 2354793704, Visit : 東京 新宿区, Date : Sun Jun 04 12:16:14 +0000 2017
+User ID : 2354793704, Visit : 東京 新宿区, Date : Sun Jun 04 08:29:26 +0000 2017
+User ID : 2354793704, Visit : 東京 新宿区, Date : Sun Jun 04 05:28:36 +0000 2017
+User ID : 2354793704, Visit : 東京 新宿区, Date : Sun Jun 04 04:45:59 +0000 2017
+User ID : 2354793704, Visit : 東京 千代田区, Date : Sun May 28 20:49:43 +0000 2017
+User ID : 2354793704, Visit : 石川 金沢市, Date : Sun May 28 13:03:56 +0000 2017
+User ID : 2354793704, Visit : 石川 金沢市, Date : Sun May 28 11:10:03 +0000 2017

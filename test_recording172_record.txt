@@ -1,0 +1,14 @@
+User ID : 877936963 , Lattitute : 35.299343, Longitute : 139.27206 
+
+User ID : 877936963 , Lattitute : 35.30672586, Longitute : 139.3169394 
+
+User ID : 877936963 , Lattitute : 35.39354324, Longitute : 139.286026 
+
+User ID : 877936963 , Lattitute : 35.41032095, Longitute : 139.20939634 
+
+User ID : 877936963 , Lattitute : 35.55415608, Longitute : 139.26201443 
+
+User ID : 877936963 , Lattitute : 35.62646961, Longitute : 139.37983067 
+
+User ID : 877936963 , Lattitute : 35.62503981, Longitute : 139.37796593 
+

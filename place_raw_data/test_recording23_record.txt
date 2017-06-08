@@ -1,0 +1,133 @@
+User ID : 21336569, Visit : Melbourne, FL, Date : Tue Jun 06 19:00:44 +0000 2017
+User ID : 21336569, Visit : Florida, USA, Date : Sun Jun 04 02:12:38 +0000 2017
+User ID : 21336569, Visit : 東京 港区, Date : Sun May 28 23:29:53 +0000 2017
+User ID : 21336569, Visit : 千葉 浦安市, Date : Sun May 28 01:35:09 +0000 2017
+User ID : 21336569, Visit : 東京 千代田区, Date : Sat May 27 23:23:12 +0000 2017
+User ID : 21336569, Visit : 大阪 大阪市 淀川区, Date : Sat May 27 21:57:14 +0000 2017
+User ID : 21336569, Visit : 愛知 名古屋市 港区, Date : Sat May 27 06:52:49 +0000 2017
+User ID : 21336569, Visit : 愛知 長久手市, Date : Sat May 27 05:27:16 +0000 2017
+User ID : 21336569, Visit : 愛知 名古屋市 西区, Date : Sat May 27 03:41:51 +0000 2017
+User ID : 21336569, Visit : Romulus, MI, Date : Thu May 25 16:04:59 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Wed May 24 02:09:04 +0000 2017
+User ID : 21336569, Visit : Austin, TX, Date : Wed May 17 19:33:57 +0000 2017
+User ID : 21336569, Visit : Austin, TX, Date : Tue May 16 20:40:55 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sun May 14 19:03:28 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri May 12 22:15:52 +0000 2017
+User ID : 21336569, Visit : Kansas City, MO, Date : Sat Apr 22 06:50:46 +0000 2017
+User ID : 21336569, Visit : Kansas City, MO, Date : Sat Apr 22 06:16:05 +0000 2017
+User ID : 21336569, Visit : Kansas City, MO, Date : Sat Apr 22 05:15:38 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Apr 22 03:14:27 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Wed Apr 19 01:04:20 +0000 2017
+User ID : 21336569, Visit : Haarlemmermeer, Nederland, Date : Sun Apr 16 13:12:40 +0000 2017
+User ID : 21336569, Visit : Amsterdam, Nederland, Date : Sun Apr 16 07:45:54 +0000 2017
+User ID : 21336569, Visit : Lisse, Nederland, Date : Sat Apr 15 17:01:19 +0000 2017
+User ID : 21336569, Visit : Lisse, Nederland, Date : Sat Apr 15 13:38:12 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Apr 09 19:47:19 +0000 2017
+User ID : 21336569, Visit : Chicago, IL, Date : Sat Apr 01 01:36:27 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 31 22:47:43 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 31 22:47:33 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 31 04:05:58 +0000 2017
+User ID : 21336569, Visit : 桃園縣, 台灣, Date : Sun Mar 26 13:14:22 +0000 2017
+User ID : 21336569, Visit : 桃園縣, 台灣, Date : Sun Mar 26 12:33:02 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sun Mar 26 07:25:52 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sun Mar 26 05:17:54 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sun Mar 26 05:16:58 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sat Mar 25 07:41:53 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sat Mar 25 07:18:09 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sat Mar 25 06:27:00 +0000 2017
+User ID : 21336569, Visit : 台北市, 台灣, Date : Sat Mar 25 04:27:44 +0000 2017
+User ID : 21336569, Visit : 桃園縣, 台灣, Date : Fri Mar 24 22:06:06 +0000 2017
+User ID : 21336569, Visit : Burlingame, CA, Date : Fri Mar 24 07:33:14 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Mar 19 02:31:29 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 17 21:45:25 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 17 17:45:14 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 17 14:21:02 +0000 2017
+User ID : 21336569, Visit : Colorado, USA, Date : Thu Mar 16 04:08:45 +0000 2017
+User ID : 21336569, Visit : Colorado, USA, Date : Tue Mar 14 23:34:56 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Tue Mar 14 20:15:25 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Mar 11 13:47:45 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Tue Mar 07 00:34:42 +0000 2017
+User ID : 21336569, Visit : Miami Beach, FL, Date : Sun Mar 05 19:20:32 +0000 2017
+User ID : 21336569, Visit : Grapevine, TX, Date : Sat Mar 04 22:18:37 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Mar 03 23:42:28 +0000 2017
+User ID : 21336569, Visit : New Orleans, LA, Date : Sat Feb 25 21:08:30 +0000 2017
+User ID : 21336569, Visit : New Orleans, LA, Date : Sat Feb 25 19:36:50 +0000 2017
+User ID : 21336569, Visit : New Orleans, LA, Date : Sat Feb 25 06:09:28 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Feb 25 01:02:47 +0000 2017
+User ID : 21336569, Visit : San Francisco, CA, Date : Sun Feb 19 09:30:55 +0000 2017
+User ID : 21336569, Visit : San Francisco, CA, Date : Sat Feb 18 19:09:58 +0000 2017
+User ID : 21336569, Visit : San Francisco, CA, Date : Sat Feb 18 19:08:32 +0000 2017
+User ID : 21336569, Visit : San Francisco, CA, Date : Sat Feb 18 17:27:01 +0000 2017
+User ID : 21336569, Visit : Austin, TX, Date : Fri Feb 17 04:25:11 +0000 2017
+User ID : 21336569, Visit : 東京 港区, Date : Thu Feb 16 15:35:13 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Wed Feb 15 16:43:51 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Wed Feb 15 02:30:59 +0000 2017
+User ID : 21336569, Visit : Hollywood, FL, Date : Thu Feb 09 23:50:01 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Mon Feb 06 04:37:20 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Feb 05 15:45:21 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Feb 03 20:52:31 +0000 2017
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Feb 03 20:50:55 +0000 2017
+User ID : 21336569, Visit : West Hollywood, CA, Date : Fri Feb 03 18:18:23 +0000 2017
+User ID : 21336569, Visit : Cozumel, Quintana Roo, Date : Thu Feb 02 04:19:49 +0000 2017
+User ID : 21336569, Visit : Orlando, FL, Date : Tue Jan 31 23:13:37 +0000 2017
+User ID : 21336569, Visit : Merritt Island, FL, Date : Mon Jan 30 00:08:00 +0000 2017
+User ID : 21336569, Visit : Hollywood, FL, Date : Sat Jan 28 07:55:05 +0000 2017
+User ID : 21336569, Visit : Dania Beach, FL, Date : Fri Jan 20 21:52:14 +0000 2017
+User ID : 21336569, Visit : Chicago, IL, Date : Sun Jan 08 07:29:06 +0000 2017
+User ID : 21336569, Visit : Chicago, IL, Date : Sat Jan 07 02:19:08 +0000 2017
+User ID : 21336569, Visit : 離島, 香港, Date : Sun Jan 01 03:49:28 +0000 2017
+User ID : 21336569, Visit : 離島, 香港, Date : Sun Jan 01 02:57:32 +0000 2017
+User ID : 21336569, Visit : 離島, 香港, Date : Sun Jan 01 02:47:28 +0000 2017
+User ID : 21336569, Visit : 油尖旺, 香港, Date : Sat Dec 31 16:04:33 +0000 2016
+User ID : 21336569, Visit : วังใหม่, ประเทศไทย, Date : Sat Dec 31 04:33:52 +0000 2016
+User ID : 21336569, Visit : บางลำภูล่าง, ประเทศไทย, Date : Fri Dec 30 05:10:28 +0000 2016
+User ID : 21336569, Visit : วังบูรพาภิรมย์, ประเทศไทย, Date : Thu Dec 29 09:04:06 +0000 2016
+User ID : 21336569, Visit : พระบรมมหาราชวัง, ประเทศไทย, Date : Thu Dec 29 08:04:59 +0000 2016
+User ID : 21336569, Visit : พระบรมมหาราชวัง, ประเทศไทย, Date : Thu Dec 29 07:16:17 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Tue Dec 27 08:03:04 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Tue Dec 27 03:15:29 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Tue Dec 27 02:17:36 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Tue Dec 27 00:25:06 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Mon Dec 26 23:59:04 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Mon Dec 26 12:42:08 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Mon Dec 26 10:19:59 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Sun Dec 25 15:21:26 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Sun Dec 25 15:15:23 +0000 2016
+User ID : 21336569, Visit : Myanmar, Date : Sun Dec 25 03:24:16 +0000 2016
+User ID : 21336569, Visit : หนองปรือ, ประเทศไทย, Date : Sun Dec 25 00:03:05 +0000 2016
+User ID : 21336569, Visit : 東京 大田区, Date : Sat Dec 24 12:18:31 +0000 2016
+User ID : 21336569, Visit : 東京 大田区, Date : Sat Dec 24 11:52:55 +0000 2016
+User ID : 21336569, Visit : Queens, NY, Date : Fri Dec 23 22:00:06 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Thu Dec 22 22:09:04 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Thu Dec 22 21:52:33 +0000 2016
+User ID : 21336569, Visit : Merritt Island, FL, Date : Mon Dec 19 23:58:12 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Dec 18 16:23:12 +0000 2016
+User ID : 21336569, Visit : Melbourne, FL, Date : Tue Dec 13 23:20:35 +0000 2016
+User ID : 21336569, Visit : San Francisco, CA, Date : Sat Dec 10 00:18:00 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Tue Dec 06 00:50:30 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Dec 04 17:30:53 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Wed Nov 30 01:19:23 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Mon Nov 28 21:58:53 +0000 2016
+User ID : 21336569, Visit : Rio de Janeiro, Brasil, Date : Sat Nov 26 20:18:36 +0000 2016
+User ID : 21336569, Visit : Rio de Janeiro, Brasil, Date : Sat Nov 26 19:41:34 +0000 2016
+User ID : 21336569, Visit : Rio de Janeiro, Brasil, Date : Sat Nov 26 17:59:42 +0000 2016
+User ID : 21336569, Visit : Rio de Janeiro, Brasil, Date : Fri Nov 25 21:03:43 +0000 2016
+User ID : 21336569, Visit : Rio de Janeiro, Brasil, Date : Fri Nov 25 19:10:32 +0000 2016
+User ID : 21336569, Visit : Merritt Island, FL, Date : Fri Nov 25 01:18:29 +0000 2016
+User ID : 21336569, Visit : Merritt Island, FL, Date : Thu Nov 24 21:59:52 +0000 2016
+User ID : 21336569, Visit : Grapevine, TX, Date : Sun Nov 20 23:57:32 +0000 2016
+User ID : 21336569, Visit : Benito Juárez, Quintana Roo, Date : Sun Nov 20 16:02:03 +0000 2016
+User ID : 21336569, Visit : Benito Juárez, Quintana Roo, Date : Sat Nov 19 18:36:09 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Mon Nov 14 01:48:43 +0000 2016
+User ID : 21336569, Visit : New Orleans, LA, Date : Sun Nov 13 17:15:59 +0000 2016
+User ID : 21336569, Visit : New Orleans, LA, Date : Sun Nov 13 00:49:28 +0000 2016
+User ID : 21336569, Visit : Kenner, LA, Date : Fri Nov 11 00:26:10 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Thu Nov 10 01:46:39 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Nov 05 22:45:52 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Fri Nov 04 02:46:40 +0000 2016
+User ID : 21336569, Visit : San Francisco, CA, Date : Sat Oct 29 18:28:10 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Oct 29 01:48:59 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Oct 29 01:40:19 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Thu Oct 27 13:09:48 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sun Oct 23 23:33:56 +0000 2016
+User ID : 21336569, Visit : Dallas, TX, Date : Sat Oct 22 15:26:47 +0000 2016

@@ -1,0 +1,121 @@
+User ID : 117237000, Visit : 東京 港区, Date : Tue Jun 06 03:52:37 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Wed May 31 02:35:36 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Tue May 30 21:32:18 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Tue May 30 01:29:13 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Mon May 29 23:34:11 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Mon May 29 13:47:39 +0000 2017
+User ID : 117237000, Visit : 東京 台東区, Date : Mon May 29 02:30:55 +0000 2017
+User ID : 117237000, Visit : 愛知 犬山市, Date : Mon May 08 12:06:11 +0000 2017
+User ID : 117237000, Visit : Miguel Hidalgo, Distrito Federal, Date : Wed Feb 01 05:03:59 +0000 2017
+User ID : 117237000, Visit : Miguel Hidalgo, Distrito Federal, Date : Sun Jan 29 17:02:13 +0000 2017
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Mon Dec 26 16:42:52 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Mon Dec 26 14:43:12 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sun Dec 25 19:41:05 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sun Dec 25 19:36:28 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sun Dec 25 19:34:24 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sat Dec 24 21:06:13 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sat Dec 24 19:06:06 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sat Dec 24 19:02:45 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sat Dec 24 05:25:56 +0000 2016
+User ID : 117237000, Visit : San Miguel de Allende, Guanajuato, Date : Sat Dec 24 05:23:03 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sun Dec 11 20:10:25 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sun Dec 11 20:09:25 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sat Dec 10 20:23:08 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Fri Nov 25 14:08:25 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 19:06:48 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 19:04:57 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 19:04:30 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 17:30:53 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 17:25:45 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 17:07:51 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 16:56:42 +0000 2016
+User ID : 117237000, Visit : Iztacalco, Distrito Federal, Date : Sun Nov 20 16:55:02 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Fri Nov 18 05:24:31 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Fri Nov 18 05:21:45 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Fri Nov 18 05:19:46 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Fri Nov 18 05:17:01 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Thu Nov 10 13:42:42 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Sun Nov 06 23:52:54 +0000 2016
+User ID : 117237000, Visit : Fort William 52, Ontario, Date : Sun Nov 06 23:47:24 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Sun Nov 06 23:44:02 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Nov 06 22:32:02 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Nov 06 22:31:03 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Nov 06 17:23:37 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Nov 06 15:18:35 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Nov 06 15:15:46 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 20:57:51 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 20:51:25 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 19:16:25 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 19:12:08 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 19:11:09 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Nov 05 18:42:49 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Fri Nov 04 11:16:42 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Fri Nov 04 11:13:25 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Thu Nov 03 02:22:51 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Thu Nov 03 02:04:16 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Thu Nov 03 01:06:34 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Wed Nov 02 03:19:39 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 23:18:33 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 23:16:56 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:55:17 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:52:40 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:49:15 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:44:29 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:38:47 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Oct 30 22:37:13 +0000 2016
+User ID : 117237000, Visit : Miguel Hidalgo, Distrito Federal, Date : Fri Oct 14 16:06:57 +0000 2016
+User ID : 117237000, Visit : Miguel Hidalgo, Distrito Federal, Date : Fri Oct 14 14:50:39 +0000 2016
+User ID : 117237000, Visit : Miguel Hidalgo, Distrito Federal, Date : Fri Oct 14 13:13:45 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun Aug 28 18:34:29 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Aug 27 19:29:50 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Aug 27 17:11:50 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat Aug 27 00:15:28 +0000 2016
+User ID : 117237000, Visit : Venustiano Carranza, Distrito Federal, Date : Tue Aug 23 16:02:29 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Wed Aug 10 01:43:29 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Tue Aug 09 03:37:58 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Mon Aug 08 03:59:02 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Mon Aug 08 03:45:32 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Mon Aug 08 03:23:21 +0000 2016
+User ID : 117237000, Visit : Chicago, IL, Date : Sat Jul 30 13:20:35 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Sun Jul 10 15:56:21 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Sun Jul 10 03:41:11 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Sun Jul 10 00:17:46 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Sat Jul 09 13:31:55 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Sat Jul 09 13:28:44 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Fri Jul 08 03:34:51 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Fri Jul 08 03:25:11 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Fri Jul 08 03:20:38 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Thu Jul 07 01:11:33 +0000 2016
+User ID : 117237000, Visit : Cuba, Date : Thu Jul 07 01:03:47 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sun Jun 12 15:07:05 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sun Jun 12 15:04:25 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sun Jun 12 14:52:47 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sat May 28 23:44:21 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Sat May 28 23:34:33 +0000 2016
+User ID : 117237000, Visit : Mississauga, Ontario, Date : Thu May 26 00:00:49 +0000 2016
+User ID : 117237000, Visit : Mississauga, Ontario, Date : Wed May 25 23:58:26 +0000 2016
+User ID : 117237000, Visit : Mississauga, Ontario, Date : Wed May 25 23:56:41 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Wed May 25 23:51:09 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Wed May 25 19:33:29 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Tue May 24 03:08:40 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Tue May 24 00:11:32 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Tue May 24 00:07:12 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Mon May 23 05:31:56 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Mon May 23 05:26:16 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Mon May 23 02:50:16 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Mon May 23 02:44:12 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sun May 22 16:51:36 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat May 21 15:39:23 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat May 21 15:35:32 +0000 2016
+User ID : 117237000, Visit : Toronto, Ontario, Date : Sat May 21 15:28:41 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 20:07:45 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 20:06:38 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:18:00 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:16:49 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:14:30 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:08:53 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:07:17 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 02:01:06 +0000 2016
+User ID : 117237000, Visit : Thunder Bay, Ontario, Date : Wed May 18 01:57:56 +0000 2016
+User ID : 117237000, Visit : Toronto Pearson International Airport (YYZ), Date : Mon May 16 10:59:53 +0000 2016
+User ID : 117237000, Visit : Cuauhtémoc, Distrito Federal, Date : Mon May 16 04:29:05 +0000 2016

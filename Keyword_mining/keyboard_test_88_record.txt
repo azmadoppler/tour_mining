@@ -1,0 +1,3 @@
+User ID : 570052893,Tweet ID : 872712265509863424 , Lattitute : 34.75995563, Longitute : 133.85299891, Tweet Status : I'm at 岡山空港 in 岡山市, 岡山県 https://t.co/4PKxQY0hWu
+User ID : 570052893,Tweet ID : 872683187306209284 , Lattitute : 35.55106553, Longitute : 139.78863358, Tweet Status : I'm at 羽田空港 第2旅客ターミナル in 大田区, 東京都 https://t.co/kmgucoi2hY
+User ID : 570052893,Tweet ID : 872284113188925441 , Lattitute : 34.75995563, Longitute : 133.85299891, Tweet Status : I'm at 岡山空港 in 岡山市, 岡山県 https://t.co/5NTHy9Jtbx

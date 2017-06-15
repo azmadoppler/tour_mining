@@ -1,0 +1,11 @@
+User ID : 425744590 , Lattitute : 35.65852915, Longitute : 139.74557
+User ID : 425744590 , Lattitute : 35.70545801, Longitute : 139.7522971
+User ID : 425744590 , Lattitute : 35.71984874, Longitute : 139.76113511
+User ID : 425744590 , Lattitute : 35.65638889, Longitute : 139.74833333
+User ID : 425744590 , Lattitute : 35.69416667, Longitute : 139.74305556
+User ID : 425744590 , Lattitute : 35.733056, Longitute : 139.746667
+User ID : 425744590 , Lattitute : 35.65638889, Longitute : 139.74833333
+User ID : 425744590 , Lattitute : 35.72575606, Longitute : 139.71151669
+User ID : 425744590 , Lattitute : 35.70997629, Longitute : 139.8108722
+User ID : 425744590 , Lattitute : 35.67186359, Longitute : 139.76572996
+User ID : 425744590 , Lattitute : 34.97449852, Longitute : 139.09249806

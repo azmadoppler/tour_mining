@@ -1,0 +1,110 @@
+<html>
+<head>
+<title>Google Maps API v3 - Simple marker example
+</title>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
+</head>
+
+<?php
+    $myfilename = "sample_text.txt";
+    if(file_exists($myfilename)){
+      echo file_get_contents($myfilename);
+    }
+    else{
+      echo "No File Exist";
+    }
+    echo "<h2>PHP is Fun!</h2>";
+?>
+<body onload="initialize()">
+    <input type="text" id="path_id" value="file:///C:\Users\USER\Desktop\MiningProject\sample_text" style="width:400px">
+    <input id ="open" type = "button" value ="Load Text File to Show" onclick="showMap()" />
+    <div id="map" style="width: 1000px; height: 1000px">  </div>
+</body>
+
+</html>
+
+<script type="text/javascript">
+
+
+var client = new XMLHttpRequest();
+client.open('GET', 'http://127.0.0.1:8080/old_raw_data/test_recording0_record.txt');
+client.onreadystatechange = function() {
+alert(client.responseText);
+}
+client.send();
+
+var markers = [];
+
+function showMap(){
+  readTextFile(document.getElementById("path_id").value)
+
+
+}
+
+function readTextFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+                alert(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
+
+function initialize() {
+
+    var beaches = [
+      ['118769912' ,31.564831,	130.560186],
+      ['118769912' ,35.54911371,	139.7837367],
+      ['118769912' ,35.66394787,	139.7504929],
+      ['118769912' ,35.65838434,	139.7455958],
+      ['118769912' ,31.80127044,	130.7158426],
+      ['118769912' ,31.57038648,	130.5551509],
+      ['118769912' ,31.56628262,	130.5650251],
+      ['118769912' ,35.77823877,	139.7197752],
+      ['118769912' ,35.808,	139.678],
+      ['118769912' ,35.78769562,	139.7237432],
+
+    ];
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 10,
+        center: new google.maps.LatLng(35.77823877,	139.7197752),
+        mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    for (var i = 0; i < beaches.length; i++) {
+
+        var newMarker = new google.maps.Marker({
+            position: new google.maps.LatLng(beaches[i][1], beaches[i][2]),
+            map: map,
+            title: beaches[i][0]
+        });
+
+        google.maps.event.addListener(newMarker, 'click', (function (newMarker, i) {
+            return function () {
+                infowindow.setContent(beaches[i][0]);
+                infowindow.open(map, newMarker);
+            }
+        })(newMarker, i));
+
+        markers.push(newMarker);
+    }
+}
+
+initialize();
+
+</script>

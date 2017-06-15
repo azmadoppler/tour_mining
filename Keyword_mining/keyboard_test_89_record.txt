@@ -1,0 +1,32 @@
+User ID : 109423388,Tweet ID : 874886062514073601 , Lattitute : 51.49202462, Longitute : -0.1496119, Tweet Status : ここで借りる (at @Europcar_uk in London, Greater London) https://t.co/qwCabEohsc
+User ID : 109423388,Tweet ID : 874879505428602880 , Lattitute : 51.49519737, Longitute : -0.14483658, Tweet Status : I'm at ロンドン・ヴィクトリア駅 - @nationalrailenq in London, Greater London https://t.co/zHLqTimoze
+User ID : 109423388,Tweet ID : 874714442143027200 , Lattitute : 51.55876009, Longitute : -0.12033949, Tweet Status : ナナシスみたいなバス停ある (@ Bus Stop G - Seven Sisters Road in London) https://t.co/2AmAPRkuB2
+User ID : 109423388,Tweet ID : 874701040574136321 , Lattitute : 51.53114565, Longitute : -0.1256611, Tweet Status : 香港でよく行ってる (@ Marks &amp; Spencer in London, Greater London) https://t.co/bSAKgrOth1
+User ID : 109423388,Tweet ID : 874697358113636352 , Lattitute : 51.53163759, Longitute : -0.12604, Tweet Status : ロンドン到着〜 (@ London St Pancras International Railway Station (STP) - @nationalrailenq in London, Greater London) https://t.co/pDVKbtWXKN
+User ID : 109423388,Tweet ID : 874634310925643777 , Lattitute : 48.83345991, Longitute : 2.33308196, Tweet Status : 北駅向かう (@ RER Denfert-Rochereau [B] in Paris, Île-de-France) https://t.co/6vFZxwt4aa
+User ID : 109423388,Tweet ID : 874623907692720131 , Lattitute : 48.83334478, Longitute : 2.33318597, Tweet Status : I'm at Métro Denfert-Rochereau [4,6] in Paris, Île-de-France https://t.co/iJNSKHcnYM
+User ID : 109423388,Tweet ID : 874606866952855553 , Lattitute : 48.86172214, Longitute : 2.34673977, Tweet Status : 総合メディアショップだけどアニメ系も要チェック (@ Fnac in Paris, Île-de-France) https://t.co/HUGAJTDOa0
+User ID : 109423388,Tweet ID : 874606389703962624 , Lattitute : 48.86197624, Longitute : 2.34688997, Tweet Status : I'm at @ForumdesHalles in Paris, Île-de-France https://t.co/3mxC2Azrob
+User ID : 109423388,Tweet ID : 874585834095292417 , Lattitute : 48.86777029, Longitute : 2.36452064, Tweet Status : I'm at Métro République [3,5,8,9,11] in Paris, Île-de-France https://t.co/FbCj8gqHA6
+User ID : 109423388,Tweet ID : 874579465527021568 , Lattitute : 48.86777029, Longitute : 2.36452064, Tweet Status : I'm at Métro République [3,5,8,9,11] in Paris, Île-de-France https://t.co/8vjfgNtENt
+User ID : 109423388,Tweet ID : 874576948424519684 , Lattitute : 48.85170791, Longitute : 2.37610865, Tweet Status : I'm at Métro Ledru-Rollin [8] in Paris, Île-de-France https://t.co/bYqwbugCYg
+User ID : 109423388,Tweet ID : 874569509046288384 , Lattitute : 48.85510464, Longitute : 2.3756894, Tweet Status : パリのアニメショップ通り (@ Rue Keller in Paris, Île-de-France) https://t.co/BJyl15AZH9
+User ID : 109423388,Tweet ID : 874566714087936000 , Lattitute : 48.85775608, Longitute : 2.38035392, Tweet Status : I'm at Métro Voltaire [9] in Paris, Île-de-France https://t.co/II0Fmku1z6
+User ID : 109423388,Tweet ID : 874563500986822656 , Lattitute : 48.85181488, Longitute : 2.40114838, Tweet Status : I'm at Métro Buzenval [9] in Paris, Île-de-France https://t.co/fwzijblX67
+User ID : 109423388,Tweet ID : 874561405705498624 , Lattitute : 48.85083584, Longitute : 2.39885515, Tweet Status : アニメショップ (@ BDNet in Paris, Île-de-France) https://t.co/xhbXR2CAGV
+User ID : 109423388,Tweet ID : 874560556992167936 , Lattitute : 48.8515147, Longitute : 2.39813228, Tweet Status : I'm at Métro Avron [2] in Paris, Île-de-France https://t.co/BnRbNWx6eY
+User ID : 109423388,Tweet ID : 874556636827987968 , Lattitute : 48.844963, Longitute : 2.3730576, Tweet Status : 乗り換え (@ Métro Gare de Lyon [1,14] in Paris, Île-de-France) https://t.co/yuQyUTq2oI
+User ID : 109423388,Tweet ID : 874555192544567296 , Lattitute : 48.82992246, Longitute : 2.37679757, Tweet Status : I'm at Métro Bibliothèque François Mitterrand [14] in Paris, Île-de-France https://t.co/uQ5xus64pW
+User ID : 109423388,Tweet ID : 874544654770950144 , Lattitute : 48.83092525, Longitute : 2.37941093, Tweet Status : あった (@ Manga Café V.2 in Paris, Île-de-France) https://t.co/SwpuyGXbUI
+User ID : 109423388,Tweet ID : 874543037946486784 , Lattitute : 48.8287151, Longitute : 2.3781235, Tweet Status : ここが最寄り (@ RER Bibliothèque François Mitterrand [C] - @connectgares in Paris, Île-de-France) https://t.co/CHKJWGINNq
+User ID : 109423388,Tweet ID : 874539776074022913 , Lattitute : 48.85339269, Longitute : 2.34566689, Tweet Status : I'm at RER Saint-Michel – Notre-Dame [B,C] - @connectgares in Paris, Île-de-France https://t.co/7TT5ebS0Db
+User ID : 109423388,Tweet ID : 874527365912723457 , Lattitute : 48.85312443, Longitute : 2.34956145, Tweet Status : I'm at ノートルダム大聖堂 - @notredame2paris in Paris, Île-de-France https://t.co/AVsVDEUudK
+User ID : 109423388,Tweet ID : 874525080218464257 , Lattitute : 48.85515602, Longitute : 2.34715006, Tweet Status : I'm at Métro Cité [4] in Paris, Île-de-France https://t.co/mjqbcuB0kj
+User ID : 109423388,Tweet ID : 874485690087682048 , Lattitute : 48.88049452, Longitute : 2.35514293, Tweet Status : まだ朝早いので駅の書店でチェック (@ パリ北駅 - @connectgares in Paris, Île-de-France) https://t.co/kF3rYAZzz1
+User ID : 109423388,Tweet ID : 874332087628828673 , Lattitute : 48.87784637, Longitute : 2.35221028, Tweet Status : スーパー (at @MonopRix in Paris, Île-de-France) https://t.co/rYVDmnpJmQ
+User ID : 109423388,Tweet ID : 874317629707702273 , Lattitute : 48.88093107, Longitute : 2.35721111, Tweet Status : I'm at RER Paris Gare du Nord [B,D] - @connectgares in Paris, Île-de-France https://t.co/ISf6pWlTyv
+User ID : 109423388,Tweet ID : 874309333714169857 , Lattitute : 48.97369609, Longitute : 2.51453876, Tweet Status : JAPANEXPOで来てた懐かしい (@ RER Parc des Expositions [B] - @connectgares in Villepinte, Île-de-France) https://t.co/RMhfYsdhRS
+User ID : 109423388,Tweet ID : 874306306076798976 , Lattitute : 49.00968418, Longitute : 2.56104827, Tweet Status : 電車で市内へ (@ RER Aéroport Charles de Gaulle 1 [B] - @connectgares in Tremblay-en-France, Île-de-France) https://t.co/ItUxNwVart
+User ID : 109423388,Tweet ID : 874289943383871490 , Lattitute : 49.00468516, Longitute : 2.57029292, Tweet Status : 到着 (@ シャルル・ド・ゴール空港 - @parisaeroport in Roissy-en-France, Île-de-France) https://t.co/B3djD9FdE2
+User ID : 109423388,Tweet ID : 874289869836742656 , Lattitute : 48.85860229, Longitute : 2.31296539, Tweet Status : アバウトな位置情報 (@ フランス - @fr_francefr) https://t.co/WOB7AIg9HL
+User ID : 109423388,Tweet ID : 874081453595922437 , Lattitute : 37.44929684, Longitute : 126.44943184, Tweet Status : I'm at Asiana Lounge Business Class in 인천광역시 https://t.co/lK7q7DthmR

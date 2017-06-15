@@ -1,0 +1,46 @@
+User ID : 553466099,Tweet ID : 874486579343101952 , Lattitute : 34.70393794, Longitute : 137.73454967, Tweet Status : I'm at 浜松駅 in 浜松市, 静岡県 https://t.co/oN4Fhp9gQY
+User ID : 553466099,Tweet ID : 874477350959841281 , Lattitute : 34.76270088, Longitute : 137.3819508, Tweet Status : 13:03発 普通掛川行(豊橋→浜松) クハ310-7 (@ 豊橋駅 7-8番線ホーム in 豊橋市, 愛知県) https://t.co/Hhw6fXLGEn
+User ID : 553466099,Tweet ID : 874463693190377477 , Lattitute : 35.12554998, Longitute : 136.91250457, Tweet Status : 12:10発 特急名鉄豊橋行(神宮前→名鉄豊橋) 1111 (@ 神宮前駅 3-4番線ホーム in Nagoya, Aichi) https://t.co/jVoSt1jaMJ
+User ID : 553466099,Tweet ID : 874461215082336257 , Lattitute : 35.12562667, Longitute : 136.91235295, Tweet Status : I'm at 神宮前駅 in 名古屋市, 愛知県 https://t.co/M3HIXVWWB5
+User ID : 553466099,Tweet ID : 874454732538073088 , Lattitute : 34.86025664, Longitute : 136.8161347, Tweet Status : 11:37発 ミュースカイ新鵜沼行(中部国際空港→神宮前) 2153 (@ 中部国際空港駅 1番ホーム in 常滑市, 愛知県) https://t.co/v4higlX25a
+User ID : 553466099,Tweet ID : 874454492628037632 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/rcnj9oy3XR
+User ID : 553466099,Tweet ID : 874453018141487104 , Lattitute : 34.85945094, Longitute : 136.81549155, Tweet Status : I'm at 手荷物受取所 in 常滑市, 愛知県 https://t.co/2wMpCK4qKE
+User ID : 553466099,Tweet ID : 874451669374967809 , Lattitute : 34.86026146, Longitute : 136.81532131, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/ljBz41MRl8
+User ID : 553466099,Tweet ID : 874449466983686145 , Lattitute : 34.85995813, Longitute : 136.81012448, Tweet Status : 着陸 (@ 中部国際空港 滑走路 in 常滑市, 愛知県) https://t.co/5sfi24YXZG
+User ID : 553466099,Tweet ID : 874421343474921472 , Lattitute : 42.78522271, Longitute : 141.68051583, Tweet Status : 定刻09:40発 SKY762便中部国際空港行(CTS→NGO) B737-800 (@ 新千歳空港 搭乗口18 in 千歳市, 北海道) https://t.co/dTknJj60Qp
+User ID : 553466099,Tweet ID : 874421092068319236 , Lattitute : 42.7860538, Longitute : 141.68074263, Tweet Status : I'm at 新千歳空港 出発口E (旧名称D) in Chitose-shi, 北海道 https://t.co/HJY5sDEW0H
+User ID : 553466099,Tweet ID : 874404915392786432 , Lattitute : 42.7876646, Longitute : 141.68212628, Tweet Status : I'm at はなまるうどん 新千歳空港店 in 千歳市, 北海道 https://t.co/uJFLTYMCLf
+User ID : 553466099,Tweet ID : 874400930774515712 , Lattitute : 42.78760624, Longitute : 141.68110371, Tweet Status : I'm at 新千歳空港 in 千歳市, 北海道 https://t.co/YGrlNmDtTK
+User ID : 553466099,Tweet ID : 874400883383119873 , Lattitute : 42.78779127, Longitute : 141.68077111, Tweet Status : I'm at 新千歳空港駅 in 千歳市, 北海道 https://t.co/3mYpk7Bh89
+User ID : 553466099,Tweet ID : 874389830234517504 , Lattitute : 43.06873886, Longitute : 141.350618, Tweet Status : 07:16発 快速エアポート72号新千歳空港行(札幌→新千歳空港) モハ721-3103 (@ 札幌駅 5-6番線ホーム in Sapporo, 北海道) https://t.co/5NMnUu5p2T
+User ID : 553466099,Tweet ID : 874389098500431872 , Lattitute : 43.06859058, Longitute : 141.35055721, Tweet Status : I'm at 札幌駅 in 札幌市, 北海道 https://t.co/vhS8sqE0qt
+User ID : 553466099,Tweet ID : 874387845502439424 , Lattitute : 43.06663361, Longitute : 141.35071229, Tweet Status : I'm at 南北線 さっぽろ駅 in Sapporo, 北海道 https://t.co/nZRZ215Ynq
+User ID : 553466099,Tweet ID : 874386248034648064 , Lattitute : 43.08156798, Longitute : 141.34676903, Tweet Status : I'm at 北18条駅 in 札幌市, 北海道 https://t.co/iFusyOV3HJ
+User ID : 553466099,Tweet ID : 874133088548335616 , Lattitute : 43.06720963, Longitute : 141.35231058, Tweet Status : I'm at 札幌エスタ in 札幌市, 北海道 https://t.co/zZuCjXF5C2
+User ID : 553466099,Tweet ID : 874129608915931136 , Lattitute : 43.06750324, Longitute : 141.34976216, Tweet Status : I'm at 大丸食品フロア ほっぺタウン in 札幌市, 北海道 https://t.co/6kroed6sbu
+User ID : 553466099,Tweet ID : 874129514674225152 , Lattitute : 43.067391, Longitute : 141.34982104, Tweet Status : I'm at 大丸 札幌店 - @daimarusapporo in 札幌市, 北海道 https://t.co/ey7z8kTrK9
+User ID : 553466099,Tweet ID : 874116412255633408 , Lattitute : 43.06969985, Longitute : 141.3325576, Tweet Status : I'm at イオン札幌桑園ショッピングセンター in Sapporo, 北海道 https://t.co/jd5KYFRSjt
+User ID : 553466099,Tweet ID : 874116374720913409 , Lattitute : 43.07098826, Longitute : 141.33219659, Tweet Status : わず (@ JR北海道 (北海道旅客鉄道) 本社 in Sapporo, 北海道) https://t.co/RUCN6i7guD
+User ID : 553466099,Tweet ID : 873373988608724994 , Lattitute : 43.06969985, Longitute : 141.3325576, Tweet Status : I'm at イオン札幌桑園ショッピングセンター in Sapporo, 北海道 https://t.co/97onm18tnK
+User ID : 553466099,Tweet ID : 873046096188104704 , Lattitute : 43.08509333, Longitute : 141.33848254, Tweet Status : I'm at 六花亭 北大エルム店 in 札幌市, 北海道 https://t.co/KdbkONXI1j
+User ID : 553466099,Tweet ID : 873036968740900864 , Lattitute : 43.08750224, Longitute : 141.30828769, Tweet Status : I'm at 業務スーパー 八軒店 https://t.co/pxqI61s3nI
+User ID : 553466099,Tweet ID : 872995418019434496 , Lattitute : 43.0900226, Longitute : 141.33598924, Tweet Status : I'm at スーパーアークス 北24条店 in 札幌市, 北海道 https://t.co/aR3Bph3Kwm
+User ID : 553466099,Tweet ID : 872821263831629824 , Lattitute : 43.08244562, Longitute : 141.34639889, Tweet Status : I'm at セイコーマート どもん店 in 札幌市, 北海道 https://t.co/hyMUyRAd5i
+User ID : 553466099,Tweet ID : 872392937468039168 , Lattitute : 43.082706, Longitute : 141.34663, Tweet Status : I'm at ほっともっと(Hotto Motto)北１８条駅前店 in 札幌市, 北海道 https://t.co/zxF0OD24IC
+User ID : 553466099,Tweet ID : 872361487570022401 , Lattitute : 43.08126236, Longitute : 141.34560764, Tweet Status : I'm at 北海道大学前郵便局 in 札幌市北区, 北海道 https://t.co/RX3LwIAFIn
+User ID : 553466099,Tweet ID : 872337102947713024 , Lattitute : 43.06850322, Longitute : 141.3478963, Tweet Status : I'm at ヨドバシカメラ マルチメディア札幌 - @yodobashi_x in 札幌市, 札幌市, 北海道 https://t.co/4j1Rl9MBee
+User ID : 553466099,Tweet ID : 872326766131642369 , Lattitute : 43.06175444, Longitute : 141.34887956, Tweet Status : 月替わりソフトクリーム(ブルーベリー)と試食のラムレーズン (@ 北菓楼 札幌本館 in 札幌市, 北海道) https://t.co/1mpoJFAtcl https://t.co/MkZ6qM4FLb
+User ID : 553466099,Tweet ID : 872323515365642240 , Lattitute : 43.07962284, Longitute : 141.34043437, Tweet Status : 証明書 (@ 北海道大学 高等教育推進機構 in 札幌市北区, 札幌市,北海道) https://t.co/JlBFmzDyFJ
+User ID : 553466099,Tweet ID : 872069839791304704 , Lattitute : 43.07889187, Longitute : 141.35695875, Tweet Status : I'm at スーパーアークス 光星店 in Sapporo, 北海道 https://t.co/EhmKY54ujo
+User ID : 553466099,Tweet ID : 872064045607792640 , Lattitute : 43.08604359, Longitute : 141.35101472, Tweet Status : I'm at 大衆食堂半田屋北20条東店 in 札幌市, 北海道 https://t.co/RbyAPEoj7Q
+User ID : 553466099,Tweet ID : 872059676355162114 , Lattitute : 43.08156798, Longitute : 141.34676903, Tweet Status : I'm at 北18条駅 in 札幌市, 北海道 https://t.co/sFR1udaUgE
+User ID : 553466099,Tweet ID : 872057985694085120 , Lattitute : 43.06663361, Longitute : 141.35071229, Tweet Status : I'm at 南北線 さっぽろ駅 in Sapporo, 北海道 https://t.co/JPXoBHasFe
+User ID : 553466099,Tweet ID : 872056673631956993 , Lattitute : 43.06859058, Longitute : 141.35055721, Tweet Status : I'm at 札幌駅 in 札幌市, 北海道 https://t.co/cgxpu9wm3O
+User ID : 553466099,Tweet ID : 872043645612036097 , Lattitute : 42.78779127, Longitute : 141.68077111, Tweet Status : 20:00発 快速エアポート201号小樽行(新千歳空港→札幌) (@ 新千歳空港駅 in 千歳市, 北海道) https://t.co/Ebx27pi0Eq
+User ID : 553466099,Tweet ID : 872042084424974337 , Lattitute : 42.785774, Longitute : 141.68077, Tweet Status : I'm at 新千歳空港 到着口5 (旧名称JAL-B) in 千歳市, 北海道 https://t.co/jby2s9WBXB
+User ID : 553466099,Tweet ID : 872042049121419268 , Lattitute : 42.78655088, Longitute : 141.68037207, Tweet Status : I'm at 新千歳空港 手荷物受取所 in 千歳市, 北海道 https://t.co/ck4A23HUgI
+User ID : 553466099,Tweet ID : 872039938136657920 , Lattitute : 42.78760624, Longitute : 141.68110371, Tweet Status : I'm at 新千歳空港 in 千歳市, 北海道 https://t.co/ZaiSa4BLEo
+User ID : 553466099,Tweet ID : 872037836396146689 , Lattitute : 42.7844436, Longitute : 141.68380215, Tweet Status : 着 (@ 新千歳空港 滑走路 in 千歳市, 北海道) https://t.co/u5dZOEdUGM
+User ID : 553466099,Tweet ID : 872007058136211456 , Lattitute : 34.63658888, Longitute : 135.22834182, Tweet Status : 定刻17:40発 SKY175便新千歳空港行(UKB→CTS) B737-800 (@ 神戸空港 5番搭乗口 in 神戸市, 兵庫県) https://t.co/K3acs7LGAw
+User ID : 553466099,Tweet ID : 871996462581809152 , Lattitute : 34.636769, Longitute : 135.228645, Tweet Status : やったぜ (@ ラウンジ神戸 in 神戸市, 兵庫県) https://t.co/rlHmSpSHkE
+User ID : 553466099,Tweet ID : 871991655427080193 , Lattitute : 34.63684083, Longitute : 135.22871172, Tweet Status : I'm at 六甲牧場 神戸空港 in Kobe, Hyōgo https://t.co/KjB9teRJQC https://t.co/BMZ0N2B2MC

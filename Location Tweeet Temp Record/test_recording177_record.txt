@@ -1,0 +1,7 @@
+User ID : 99518839 , Lattitute : 34.6896268, Longitute : 135.53010643
+User ID : 99518839 , Lattitute : 34.66688905, Longitute : 135.51098631
+User ID : 99518839 , Lattitute : 34.76184595, Longitute : 135.31332772
+User ID : 99518839 , Lattitute : 34.76015486, Longitute : 135.33121049
+User ID : 99518839 , Lattitute : 34.742158, Longitute : 135.35317
+User ID : 99518839 , Lattitute : 35.65508504, Longitute : 139.79597732
+User ID : 99518839 , Lattitute : 35.64770071, Longitute : 139.79097326

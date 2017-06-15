@@ -1,0 +1,7 @@
+User ID : 6013652,Tweet ID : 873454672727683073 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/yDpUX0q4j4
+User ID : 6013652,Tweet ID : 873418563620569088 , Lattitute : 34.69315733, Longitute : 135.19026094, Tweet Status : I'm at 神戸プレジール in 神戸市中央区, 兵庫県 https://t.co/k8QtLEuPaL
+User ID : 6013652,Tweet ID : 873359365406904322 , Lattitute : 34.66507001, Longitute : 135.21373987, Tweet Status : I'm at 神戸ポートピアホテル in 神戸市, 兵庫県 https://t.co/dPwuSF2vFX
+User ID : 6013652,Tweet ID : 872028512374456320 , Lattitute : 42.78777007, Longitute : 141.68076721, Tweet Status : I'm at 新千歳空港 国内線ターミナル in 千歳市, 北海道 https://t.co/96vxLd6cKm
+User ID : 6013652,Tweet ID : 871991569754337285 , Lattitute : 35.55106553, Longitute : 139.78863358, Tweet Status : I'm at 羽田空港 第2旅客ターミナル in 大田区, 東京都 https://t.co/upwM6UhJlJ
+User ID : 6013652,Tweet ID : 871783707019005952 , Lattitute : 50.04789905, Longitute : 8.57488075, Tweet Status : I'm at @Lufthansa Senator Lounge B in Frankfurt am Main, Hessen https://t.co/5d8kRjHZ2f
+User ID : 6013652,Tweet ID : 871783671082209281 , Lattitute : 50.04817496, Longitute : 8.57151622, Tweet Status : I'm at フランクフルト空港 - @airport_fra in Frankfurt am Main, Hessen https://t.co/XQvvc11ZFH

@@ -1,0 +1,7 @@
+User ID : 182688655,Tweet ID : 873711813342482433 , Lattitute : 35.21752538, Longitute : 136.84234968, Tweet Status : I'm at 清洲城の石垣 in 清須市, 愛知県 https://t.co/9wLD1Ofkkg
+User ID : 182688655,Tweet ID : 873698939370971136 , Lattitute : 35.17077768, Longitute : 136.88099218, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/gn7ldbz63W
+User ID : 182688655,Tweet ID : 873380870761193472 , Lattitute : 35.76261237, Longitute : 139.93750342, Tweet Status : I'm at エクスアリーナ https://t.co/MANkwH0UiE
+User ID : 182688655,Tweet ID : 873089553124347906 , Lattitute : 35.69781522, Longitute : 139.77377415, Tweet Status : I'm at Starbucks Coffee 秋葉原駅前店 - @starbucks_j in 千代田区, 東京都 https://t.co/6NhhxVToc5
+User ID : 182688655,Tweet ID : 873085490018242561 , Lattitute : 35.69870073, Longitute : 139.77461559, Tweet Status : I'm at ヨドバシカメラ マルチメディアAkiba - @yodobashi_x in 千代田区, 東京都 https://t.co/sTfQ0vCB20
+User ID : 182688655,Tweet ID : 872032879185940483 , Lattitute : 35.65946902, Longitute : 139.70053643, Tweet Status : I'm at 渋谷駅前スクランブル交差点 in 渋谷区, 東京都 https://t.co/JTO3DBvnd3
+User ID : 182688655,Tweet ID : 871615404807946240 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ct5Kp9xQsc

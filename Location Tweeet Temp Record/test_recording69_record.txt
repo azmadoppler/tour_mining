@@ -1,0 +1,6 @@
+User ID : 52697936 , Lattitute : 35.59845247, Longitute : 139.73880216
+User ID : 52697936 , Lattitute : 35.75986428, Longitute : 139.9781692
+User ID : 52697936 , Lattitute : 35.443313, Longitute : 139.640075
+User ID : 52697936 , Lattitute : 35.443313, Longitute : 139.640075
+User ID : 52697936 , Lattitute : 35.65857854, Longitute : 139.74544197
+User ID : 52697936 , Lattitute : 35.682286, Longitute : 139.77861471

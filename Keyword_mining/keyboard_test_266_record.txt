@@ -1,0 +1,11 @@
+User ID : 1495754784,Tweet ID : 873960896976080896 , Lattitute : 34.82793094, Longitute : 135.29482841, Tweet Status : あと、半分～ (@ 西宮名塩SA (下り) in 西宮市, 兵庫県) https://t.co/AXJpIK4dze
+User ID : 1495754784,Tweet ID : 873765683582119936 , Lattitute : 36.561949, Longitute : 136.652592, Tweet Status : I'm at DOUBLE in 金沢市, 石川県 https://t.co/A5uFQ3V78M
+User ID : 1495754784,Tweet ID : 873734511573569536 , Lattitute : 36.57116533, Longitute : 136.65617824, Tweet Status : I'm at 近江町市場 in 金沢市, 石川県 https://t.co/8LfqTO4K6E
+User ID : 1495754784,Tweet ID : 873723337578565632 , Lattitute : 36.57830929, Longitute : 136.64810521, Tweet Status : I'm at 金沢駅 in 金沢市, 石川県 https://t.co/69zdTRhltx
+User ID : 1495754784,Tweet ID : 873543652680880128 , Lattitute : 36.55895907, Longitute : 136.65085673, Tweet Status : I'm at 8番らーめん 犀川大橋店 in 金沢市, 石川県 https://t.co/vuLi651JAM
+User ID : 1495754784,Tweet ID : 873483675756888064 , Lattitute : 36.55824366, Longitute : 136.65124676, Tweet Status : I'm at Bistro 紙屋市べえ in 金沢市, 石川県 https://t.co/TrOeU6QhTj
+User ID : 1495754784,Tweet ID : 873432812342452224 , Lattitute : 35.56140967, Longitute : 135.90101429, Tweet Status : I'm at 三方五湖PA (上下線共通) in 若狭町, 福井県 https://t.co/vcXVQaWdnL
+User ID : 1495754784,Tweet ID : 873352814076022788 , Lattitute : 34.49113387, Longitute : 133.31378277, Tweet Status : I'm at 福山SA (上り) in 福山市, 広島県 https://t.co/JEnwgkGzco
+User ID : 1495754784,Tweet ID : 871665209659854848 , Lattitute : 34.439816, Longitute : 132.91896, Tweet Status : ランディング!! (@ 広島空港 in 三原市, 広島県) https://t.co/speJF2MKDR
+User ID : 1495754784,Tweet ID : 871632370855817216 , Lattitute : 35.77807157, Longitute : 140.38433918, Tweet Status : I'm at 成田空港 第3ターミナル in 成田市, 千葉県 https://t.co/crDwf6GVTH
+User ID : 1495754784,Tweet ID : 871622877207986176 , Lattitute : 35.77288467, Longitute : 140.38802073, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/JGpN5kQlQu

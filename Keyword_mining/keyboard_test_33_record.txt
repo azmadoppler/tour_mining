@@ -1,0 +1,5 @@
+User ID : 238103129,Tweet ID : 873880131219193856 , Lattitute : 33.598744, Longitute : 130.447059, Tweet Status : I'm at 福岡空港 in 福岡市, 福岡県 https://t.co/o68gGod4a7
+User ID : 238103129,Tweet ID : 873824701541437440 , Lattitute : 35.54983862, Longitute : 139.78607947, Tweet Status : 早すぎた (@ 羽田空港国内線ターミナル駅 in 大田区, 東京都) https://t.co/tSGd5qolUE
+User ID : 238103129,Tweet ID : 873130914167087104 , Lattitute : 35.9027236, Longitute : 139.4766055, Tweet Status : I'm at ラーメン二郎 川越店 in 川越市, 埼玉県 https://t.co/fepIU6C5y4
+User ID : 238103129,Tweet ID : 872447804655980545 , Lattitute : 35.90709361, Longitute : 139.48326421, Tweet Status : I'm at 東武東上線 川越駅 in 川越市, 埼玉県 https://t.co/DaruX5NrNo
+User ID : 238103129,Tweet ID : 872447549508071424 , Lattitute : 35.914138, Longitute : 139.477369, Tweet Status : I'm at 川越市駅 in 川越市, 埼玉県 https://t.co/HrpUChzNcO

@@ -1,0 +1,18 @@
+User ID : 135902097,Tweet ID : 874635280397082624 , Lattitute : 34.966893, Longitute : 137.065582, Tweet Status : I'm at 鶴亀堂 安城店 in 安城市, 愛知県 https://t.co/H6gdQxvfd7
+User ID : 135902097,Tweet ID : 874531596073828352 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at 東京駅 in 千代田区, 東京都 https://t.co/eTCkzHgDPH
+User ID : 135902097,Tweet ID : 874097428940681217 , Lattitute : 35.906525, Longitute : 139.62406365, Tweet Status : I'm at 大宮駅 in さいたま市, 埼玉県 https://t.co/kEFQ2DviHh
+User ID : 135902097,Tweet ID : 873843423303913472 , Lattitute : 35.6979909, Longitute : 139.41363643, Tweet Status : I'm at 立川駅 in 立川市, 東京都 https://t.co/zCgZneklO5
+User ID : 135902097,Tweet ID : 873745152787009538 , Lattitute : 35.81562941, Longitute : 139.70427809, Tweet Status : I'm at 西川口駅 in 川口市, 埼玉県 https://t.co/oFpjNEeeYK
+User ID : 135902097,Tweet ID : 873743418987511808 , Lattitute : 35.77783994, Longitute : 139.72091066, Tweet Status : I'm at 赤羽駅 in 北区, 東京都 https://t.co/i1lYnO5DnZ
+User ID : 135902097,Tweet ID : 873737696094670848 , Lattitute : 35.65886376, Longitute : 139.70102693, Tweet Status : I'm at 渋谷駅 in 渋谷区, 東京都 https://t.co/bMx4hz7QPr
+User ID : 135902097,Tweet ID : 873734628976320512 , Lattitute : 35.66527657, Longitute : 139.71203273, Tweet Status : I'm at 表参道駅 in 港区, 東京都 https://t.co/FeLzM8ub5i
+User ID : 135902097,Tweet ID : 873733912098480128 , Lattitute : 35.66441367, Longitute : 139.71156299, Tweet Status : I'm at ロンシャン表参道 in 港区, 日本 https://t.co/keFyPRQAiA
+User ID : 135902097,Tweet ID : 873728894939148288 , Lattitute : 35.67066675, Longitute : 139.70286192, Tweet Status : I'm at 原宿駅 in 渋谷区, 東京都 https://t.co/9YA8IdIQAB
+User ID : 135902097,Tweet ID : 873727207381905410 , Lattitute : 35.69012786, Longitute : 139.70006957, Tweet Status : I'm at 新宿駅 in 新宿区, 東京都 https://t.co/vHwaZvNb6R
+User ID : 135902097,Tweet ID : 873475779316862976 , Lattitute : 35.60716169, Longitute : 139.73474893, Tweet Status : I'm at 大井町駅 in 品川区, 東京都 https://t.co/Vae8NBS96U
+User ID : 135902097,Tweet ID : 873460279081934848 , Lattitute : 35.5318495, Longitute : 139.49476098, Tweet Status : I'm at 長津田駅 in Yokohama, 神奈川県 https://t.co/3TUARPVwQo
+User ID : 135902097,Tweet ID : 873442088939122688 , Lattitute : 35.57412366, Longitute : 139.36674026, Tweet Status : I'm at 北海道らーめん おやじ 本店 in 相模原市, 神奈川県 https://t.co/fAiCExhO9J
+User ID : 135902097,Tweet ID : 873363598470520832 , Lattitute : 35.51034989, Longitute : 139.45811167, Tweet Status : I'm at つきみ野駅 (Tsukimino Sta.)(DT26) in 大和市, 神奈川県 https://t.co/yqRK9Mow3j
+User ID : 135902097,Tweet ID : 873355303273865216 , Lattitute : 35.59980648, Longitute : 139.61058984, Tweet Status : I'm at 溝の口駅 in 川崎市, 神奈川県 https://t.co/vud7QLjVst
+User ID : 135902097,Tweet ID : 873350177461080064 , Lattitute : 35.66629207, Longitute : 139.47705477, Tweet Status : I'm at 府中本町駅 in 府中市, 東京都 https://t.co/PWpHbtnAVg
+User ID : 135902097,Tweet ID : 872248409893351424 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/qXvmiNn6Jj

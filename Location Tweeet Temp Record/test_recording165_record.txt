@@ -1,0 +1,5 @@
+User ID : 848614824 , Lattitute : 35.661521, Longitute : 139.700605
+User ID : 848614824 , Lattitute : 35.692675, Longitute : 139.703617
+User ID : 848614824 , Lattitute : 35.73190714, Longitute : 139.7102174
+User ID : 848614824 , Lattitute : 35.66182698, Longitute : 139.70112652
+User ID : 848614824 , Lattitute : 35.6895892, Longitute : 139.70159039

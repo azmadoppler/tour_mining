@@ -10,31 +10,6 @@ var T = new Twit(config);
 
 
 
-/////////////////////////////////////////////////////////
-/////User Search Part////////////////////////////////////
-/////////////////////////////////////////////////////////
-// function retrieveUser(err,data,response){
-//   if(err){
-//     console.log("Error has occured : " + err )
-//   }
-//   else {
-//     let tweets = data.statuses;
-//     console.log(tweets);
-//     for(let i = 0; i < tweets.length ; i ++){
-//       let user = tweets[i].user.name;
-//       let userID = tweets[i].user.id_str;
-//       let userParam = {
-//           user_id: userID,
-//           count: 3
-//
-//       }
-//       T.get('statuses/user_timeline', userParam, callBackUser);
-//
-//     }
-//   }
-// }
-
-
 
 var runner = 0;
 var userGeo = [];
@@ -54,13 +29,15 @@ var userBotApp = setInterval(function(){
   userTestID = unique.pop();
   console.log(userTestIDString);
   var userDummy = {
-      user_id: userTestID,
+      // user_id: userTestID,
+      user_id: currentUserID[runner],
       count: 900,
+      // since_id: 872362691473571843
   };
 
   T.get('statuses/user_timeline', userDummy, geoMining);
 
-} , 5*1000 )
+} , 3*1000 )
 
 
 
@@ -76,7 +53,7 @@ function geoMining(err,data,response){
           if(tweets[i].coordinates!=null)
           {
             // console.log("Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " + tweets[i].coordinates.coordinates[0]);
-            let writtingText = "User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] +" \n" ;
+            let writtingText = "Tweet ID : " + tweets[i].id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] + ", Tweet Status : " + tweets[i].text ;
             console.log(writtingText);
             userGeo.push(writtingText);
           }
@@ -85,14 +62,13 @@ function geoMining(err,data,response){
           currentID = tweets[i].id_str;
       }
       // console.log("Last Tweeted At "+ currentID + "\n");
-      writeFileToTxt();
+      // writeFileToTxt();
     }
 }
 function placeMining(err,data,response){
   if(err){
     console.log("ERROR OCCURED : " + err)
   }
-
   else{
       let tweets = data;
       for(let i = 0 ; i < tweets.length ; i++)

@@ -1,0 +1,5 @@
+User ID : 191831529 , Lattitute : 35.70751957, Longitute : 139.76063825
+User ID : 191831529 , Lattitute : 35.69375706, Longitute : 139.76137161
+User ID : 191831529 , Lattitute : 35.69551221, Longitute : 139.81215603
+User ID : 191831529 , Lattitute : 35.69375706, Longitute : 139.76137161
+User ID : 191831529 , Lattitute : 35.69431036, Longitute : 139.76026654

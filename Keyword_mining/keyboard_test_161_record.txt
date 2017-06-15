@@ -1,0 +1,5 @@
+User ID : 17989476,Tweet ID : 874915326286340096 , Lattitute : 35.674503, Longitute : 139.717057, Tweet Status : 明治学院大学 (@ 明治神宮野球場 - @jingu_stadiumpr in 新宿区, 東京都) https://t.co/vuQKwMc3l0
+User ID : 17989476,Tweet ID : 874553529402261504 , Lattitute : 35.674503, Longitute : 139.717057, Tweet Status : 明治大学 (@ 明治神宮野球場 - @jingu_stadiumpr in 新宿区, 東京都) https://t.co/w7BseziKCD
+User ID : 17989476,Tweet ID : 873845418618236930 , Lattitute : 35.10371602, Longitute : 139.0781826, Tweet Status : I'm at 熱海駅 in 熱海市, 静岡県 https://t.co/zjXpNOM4jZ
+User ID : 17989476,Tweet ID : 873801022812155904 , Lattitute : 35.70169899, Longitute : 139.9851156, Tweet Status : I'm at 船橋駅 in 船橋市, 千葉県 https://t.co/rmjUg7AX1B
+User ID : 17989476,Tweet ID : 873764046998306820 , Lattitute : 35.83792444, Longitute : 139.64940635, Tweet Status : I'm at ロッテ浦和球場 in さいたま市, 埼玉県 https://t.co/0afs4z7r8i

@@ -1,0 +1,11 @@
+User ID : 97675573,Tweet ID : 874904629733208064 , Lattitute : 35.17039814, Longitute : 136.88100639, Tweet Status : I'm at 東海道新幹線 名古屋駅 in 名古屋市, 愛知県 https://t.co/uoSrdnxXHB
+User ID : 97675573,Tweet ID : 874511890382237696 , Lattitute : 35.026394, Longitute : 135.757882, Tweet Status : I'm at 本田味噌本店 in 京都市, 京都府 https://t.co/YfXREPC5WK
+User ID : 97675573,Tweet ID : 874091593443233794 , Lattitute : 35.68093543, Longitute : 139.7676964, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/LDgYqy7N2X
+User ID : 97675573,Tweet ID : 873530015488647169 , Lattitute : 35.70814862, Longitute : 139.63595164, Tweet Status : I'm at Reposado in 杉並区, 東京都 https://t.co/HCvUgaVtjR
+User ID : 97675573,Tweet ID : 873372409818206209 , Lattitute : 35.70416311, Longitute : 139.62444709, Tweet Status : I'm at Anytime Fitness 荻窪 in 杉並区, 東京都 https://t.co/jAtcZSyJOv
+User ID : 97675573,Tweet ID : 873134360672731137 , Lattitute : 35.699267, Longitute : 139.749292, Tweet Status : I'm at 台所衆 一二三 in 千代田区, 東京都 https://t.co/D8kNyIMK6o
+User ID : 97675573,Tweet ID : 872772600572903424 , Lattitute : 35.71466646, Longitute : 139.63500738, Tweet Status : I'm at 丸山 https://t.co/428WhJU5fo
+User ID : 97675573,Tweet ID : 872733311428329472 , Lattitute : 35.5450074, Longitute : 139.76898909, Tweet Status : I'm at 羽田空港 国際線旅客ターミナル in 大田区, 東京都 https://t.co/vXvTrRawuc
+User ID : 97675573,Tweet ID : 872664378017026048 , Lattitute : 25.06367859, Longitute : 121.5520276, Tweet Status : I'm at 台北松山空港 in 臺北市, T’ai-pei Shih https://t.co/ci3iIQFcoj
+User ID : 97675573,Tweet ID : 872407971694772224 , Lattitute : 25.05248084, Longitute : 121.52125174, Tweet Status : I'm at Din Tai Fung in 中山區 https://t.co/btKQuxRhTF
+User ID : 97675573,Tweet ID : 871638933024722945 , Lattitute : 25.06367859, Longitute : 121.5520276, Tweet Status : I'm at 台北松山空港 in 臺北市, T’ai-pei Shih https://t.co/giFfKb42VU

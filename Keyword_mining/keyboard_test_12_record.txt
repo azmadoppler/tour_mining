@@ -1,0 +1,5 @@
+User ID : 155877625,Tweet ID : 874254639595749376 , Lattitute : 34.73526421, Longitute : 137.85912574, Tweet Status : I'm at サガミ 磐田店 in 磐田市, 静岡県 https://t.co/ErzKs7Ppig
+User ID : 155877625,Tweet ID : 873119018193829889 , Lattitute : 35.68286893, Longitute : 139.76415038, Tweet Status : I'm at 手打ちそば 石月 in 千代田区, 東京都 https://t.co/jwT10Nm9tR
+User ID : 155877625,Tweet ID : 873085440189841408 , Lattitute : 35.68339616, Longitute : 139.7665751, Tweet Status : I'm at 丸善 丸の内本店 in 千代田区, 東京都 https://t.co/eWX8o5LdO1
+User ID : 155877625,Tweet ID : 872813269446266880 , Lattitute : 50.04831967, Longitute : 8.56964574, Tweet Status : I'm at フランクフルト空港 - @airport_fra in Frankfurt am Main, Hessen https://t.co/wq1QqJx469
+User ID : 155877625,Tweet ID : 872582256937840641 , Lattitute : -23.42655748, Longitute : -46.48223817, Tweet Status : I'm at グアルーリョス国際空港 - @gruairportsp in Guarulhos, São Paulo https://t.co/wbHhmQ6rnM

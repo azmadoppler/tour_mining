@@ -1,0 +1,47 @@
+1. Hokkaidō, 43.2203° N, 142.8635° E
+2. Aomori ,40.8221° N, 140.7474° E
+3. Iwate, 39.7036° N, 141.1527° E
+4. Miyagi, 38.2688° N, 140.8721° E
+5. Akita,  39.7199° N, 140.1036° E
+6. Yamagata, 38.2404° N, 140.3636° E
+7. Fukushima, 37.7503° N, 140.4676° E
+8. Ibaraki, 36.3418° N, 140.4468° E
+9. Tochigi, 36.5657° N, 139.8836° E
+10. Gunma, 36.3907° N, 139.0604° E
+11. Saitama, 35.8617° N, 139.6455° E
+12. Chiba,35.6073° N, 140.1063° E
+13. Tōkyō,35.6895° N, 139.6917° E
+14. Kanagawa,35.4475° N, 139.6423° E
+15. Niigata,37.9162° N, 139.0364° E
+16. Toyama,36.6960° N, 137.2137° E
+17. Ishikawa,36.5947° N, 136.6256° E
+18. Fukui,36.0641° N, 136.2195° E
+19. Yamanashi,35.6642° N, 138.5684° E
+20. Nagano,36.6486° N, 138.1948° E
+21. Gifu, 35.3912° N, 136.7223° E
+22. Shizuoka,34.9771° N, 138.3831° E
+23. Aichi,
+24. Mie,
+25. Shiga,
+26. Kyōto,
+27. Ōsaka,
+28. Hyōgo,
+29. Nara,
+30. Wakayama,
+31. Tottori,
+32. Shimane,
+33. Okayama,
+34. Hiroshima,
+35. Yamaguchi,
+36. Tokushima,
+37. Kagawa,
+38. Ehime,
+39. Kōchi,
+40. Fukuoka,
+41. Saga,
+42. Nagasaki,
+43. Kumamoto,
+44. Ōita,
+45. Miyazaki,
+46. Kagoshima,
+47. Okinawa

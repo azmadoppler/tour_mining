@@ -1,0 +1,3 @@
+User ID : 25647016 , Lattitute : 35.70016038, Longitute : 139.77144045
+User ID : 25647016 , Lattitute : 35.69618384, Longitute : 139.68924547
+User ID : 25647016 , Lattitute : 35.661586, Longitute : 139.700596

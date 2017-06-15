@@ -8,24 +8,18 @@ var geoUser = [];
 var T = new Twit(config);
 
 var currentID ;
-
-
-var queryPlace = "tokyotower";
-// function mainApp(main_pointer){
-//   var searchingTweet = {
-//     q:'tokyotower OR 東京タワー -RT',
-//     count: 100,
-//     result_type: 'recent',
-//     max_id: 871946667066609664
-//   };
-// }
-
+var queryPlace = "akihabara";
 function loopingTwitter(){
+  var searchParams;
   var params = {
-    q:'akihabara OR 東京タワー -RT',
+    q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
+    // q: "I\'m at -RT",
     count: 100,
     result_type: 'recent',
-    max_id: currentID
+    max_id: currentID,
+    //YYYY-MM-DD
+    // until: '2017-06-08',
+    // geocode:'35.7022,139.7741,500km'
   };
   T.get('search/tweets', params, retrieveTweet);
 }
@@ -33,18 +27,10 @@ function loopingTwitter(){
 
 var miningApp = setInterval(function(){
   loopingTwitter();
-}, 10*1000);
-
-//
-// setTimeout(myStopFunction, 15 * 60 * 1000)
-//
-//
-// function myStopFunction() {
-//     console.log("The last tweeted ID is " + currentID)
-//     clearInterval(miningApp);
-// }
+}, 5*1000);
 
 function retrieveTweet(err, data, response) {
+  console.log("Getting the Data From Twitter")
   var counter = 0;
   if(err){
     console.log("Error has occured : " + err )
@@ -54,73 +40,66 @@ function retrieveTweet(err, data, response) {
     let tweets = data.statuses;
     for(var i = 0; i < tweets.length ; i ++){
         if(tweets[i].coordinates != null) {
-          console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
-          console.log("The Username is : " + tweets[i].user.name + "\n");
-          console.log("The Tweets ID is  : " + tweets[i].id_str + "\n");
-          console.log("Lattitute " + tweets[i].coordinates.coordinates[0] + tweets[i].coordinates.coordinates[1]);
-          let writtingText = "TokyoTower , User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] +" \n" ;
+          // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
+          // console.log("The Username ID : " + tweets[i].user.id_str + "\n");
+          // console.log("The Tweets ID is  : " + tweets[i].id_str + "\n");
+          // console.log("The User Location is  : " + tweets[i].user.location + "\n");
+          // console.log("Lattitute " + tweets[i].coordinates.coordinates[0] +", Longitute: "+ tweets[i].coordinates.coordinates[1]);
+          let writtingText = "User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +
+          tweets[i].coordinates.coordinates[0]+", Tweet Number : "+ tweets[i].id_str+ ", User Location : " + tweets[i].user.location + ", Tweet Status : "+ tweets[i].text  ;
+          console.log(writtingText);
           geoUser.push(writtingText);
         }
         else {
-          console.log("Twutter Number : " + i + " doesn't have coordinates")
+          // console.log("Twutter Number : " + i + " doesn't have coordinates")
+          // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
         }
         currentID = tweets[i].id_str;
     }
 
     //Writing to File Part
-    var toTxt = "";
-    console.log("Last Tweeted At "+ currentID);
-    for(let i = 0 ; i < geoUser.length ; i++)
-    {
-      if(geoUser[i] == 'undefined'){
-
-      }
-      else {
-        toTxt += geoUser[i] + "\n";
-      }
-    }
-    var textName = "test_recording"+queryPlace+".txt";
-    fs.appendFile(textName, toTxt , function (err) {
-      if (err) throw err;
-      console.log('Saved!');
-      toTxt = "";
-      geoUser = [];
-    });
+    // writeToText();
   }
 }
 
-
-/////////////////////////////////////////////////////////
-/////User Search Part////////////////////////////////////
-/////////////////////////////////////////////////////////
-function retrieveUser(err,data,response){
+function retrieveTweetNoGeo(err, data, response) {
+  console.log("Getting the Data From Twitter")
+  var counter = 0;
   if(err){
     console.log("Error has occured : " + err )
   }
   else {
+    //Data Collection Part
     let tweets = data.statuses;
-    console.log(tweets);
-    for(let i = 0; i < tweets.length ; i ++){
-      let user = tweets[i].user.name;
-      let userID = tweets[i].user.id_str;
-      let userParam = {
-          user_id: userID,
-          count: 3
-
-      }
-      T.get('statuses/user_timeline', userParam, callBackUser);
-
+    for(var i = 0; i < tweets.length ; i ++){
+          let writtingText = "User ID : " + tweets[i].user.id_str + ", Tweet Number : "+ tweets[i].id_str+ ", Tweet Status : "+ tweets[i].text  ;
+          console.log(writtingText);
+          geoUser.push(writtingText);
+        currentID = tweets[i].id_str;
     }
+
+    //Writing to File Part
+    writeToText();
   }
 }
 
-function callBackUser(err,data,response){
-  console.log(data);
-}
+function writeToText(){
+  var toTxt = "";
+  console.log("Last Tweeted At "+ currentID);
+  for(let i = 0 ; i < geoUser.length ; i++)
+  {
+    if(geoUser[i] == 'undefined'){
 
-function tweetByID(id){
-    var tweetDetail = {
-      q: 'tokyotower'
-
-    };
+    }
+    else {
+      toTxt += geoUser[i] + "\n";
+    }
+  }
+  var textName = "user_with_keywords.txt";
+  fs.appendFile(textName, toTxt , function (err) {
+    if (err) throw err;
+    console.log('Saved!');
+    toTxt = "";
+    geoUser = [];
+  });
 }

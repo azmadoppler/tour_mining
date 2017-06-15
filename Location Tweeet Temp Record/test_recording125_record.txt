@@ -1,0 +1,3 @@
+User ID : 122298761 , Lattitute : 35.6630822, Longitute : 139.73140866
+User ID : 122298761 , Lattitute : 35.661999, Longitute : 139.734555
+User ID : 122298761 , Lattitute : 35.682386, Longitute : 139.699878

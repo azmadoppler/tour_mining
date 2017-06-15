@@ -1,0 +1,8 @@
+User ID : 941569758 , Lattitute : 35.83206083, Longitute : 139.65525046
+User ID : 941569758 , Lattitute : 35.78119246, Longitute : 139.68983374
+User ID : 941569758 , Lattitute : 35.72961157, Longitute : 139.71786807
+User ID : 941569758 , Lattitute : 35.72961157, Longitute : 139.71786807
+User ID : 941569758 , Lattitute : 35.76224312, Longitute : 139.63008952
+User ID : 941569758 , Lattitute : 35.66985149, Longitute : 139.5090233
+User ID : 941569758 , Lattitute : 35.64185875, Longitute : 139.4608684
+User ID : 941569758 , Lattitute : 35.64522754, Longitute : 139.45218358

@@ -1,0 +1,5 @@
+User ID : 261205458,Tweet ID : 873006733114912769 , Lattitute : 42.78760624, Longitute : 141.68110371, Tweet Status : I'm at 新千歳空港 in 千歳市, 北海道 https://t.co/vF330EbmRW
+User ID : 261205458,Tweet ID : 872762929900343296 , Lattitute : 43.05883325, Longitute : 141.35240654, Tweet Status : I'm at 西4丁目停留場 in Sapporo, 北海道 https://t.co/2kNqfFhMXW
+User ID : 261205458,Tweet ID : 872424097975853058 , Lattitute : 42.6397836, Longitute : 141.59676433, Tweet Status : I'm at 苫小牧駅 in 苫小牧市, 北海道 https://t.co/zDktK2UN2P
+User ID : 261205458,Tweet ID : 872366526904631296 , Lattitute : 43.76268007, Longitute : 142.35828497, Tweet Status : I'm at 旭川駅 1-2番ホーム in Asahikawa, Hokkaidō https://t.co/8vlZPUaWUW
+User ID : 261205458,Tweet ID : 872274916552396801 , Lattitute : 45.39961876, Longitute : 141.79744774, Tweet Status : I'm at 稚内空港 in 稚内市, 北海道 https://t.co/sD2rpEU1A3

@@ -1,0 +1,6 @@
+User ID : 871776210 , Lattitute : 35.768575, Longitute : 139.420501
+User ID : 871776210 , Lattitute : 35.77059347, Longitute : 139.4194273
+User ID : 871776210 , Lattitute : 35.7515942, Longitute : 139.5456104
+User ID : 871776210 , Lattitute : 35.73028602, Longitute : 139.71108516
+User ID : 871776210 , Lattitute : 35.70039203, Longitute : 139.77203608
+User ID : 871776210 , Lattitute : 36.08202878, Longitute : 140.11124969

@@ -1,0 +1,11 @@
+User ID : 120454513,Tweet ID : 873452240580870144 , Lattitute : 35.48289973, Longitute : 134.20401165, Tweet Status : I'm at 鳥取IC in 鳥取市, 鳥取県 https://t.co/QZDj0mRTpw
+User ID : 120454513,Tweet ID : 873430940265197569 , Lattitute : 34.94629531, Longitute : 134.7993359, Tweet Status : I'm at 加西SA (下り) in 加西市, 兵庫県 https://t.co/1ESp8OnI2D
+User ID : 120454513,Tweet ID : 873421861488644096 , Lattitute : 34.80502958, Longitute : 135.43243647, Tweet Status : I'm at 中国池田IC in 池田市, 大阪府 https://t.co/zssyCk15fX
+User ID : 120454513,Tweet ID : 873391614491860993 , Lattitute : 34.70353529, Longitute : 135.49757262, Tweet Status : I'm at 梅田 in 大阪市, 大阪府 https://t.co/kRMZBTveyI
+User ID : 120454513,Tweet ID : 873145034941636610 , Lattitute : 34.70544748, Longitute : 135.49846552, Tweet Status : I'm at 阪急 梅田駅 in 大阪市, 大阪府 https://t.co/YEsEHW3j1j
+User ID : 120454513,Tweet ID : 873141368591396864 , Lattitute : 34.74594495, Longitute : 135.35665252, Tweet Status : I'm at 西宮北口駅 in 西宮市, 兵庫県 https://t.co/7ppqo7n0tb
+User ID : 120454513,Tweet ID : 873090152695975936 , Lattitute : 34.69408971, Longitute : 135.19559713, Tweet Status : I'm at 阪神 神戸三宮駅 in 神戸市, 兵庫県 https://t.co/X8ECBHPkYe
+User ID : 120454513,Tweet ID : 873053703451754496 , Lattitute : 34.668512, Longitute : 135.504051, Tweet Status : I'm at ファイナルファンタジー エオルゼアカフェ in OSAKA in 大阪市中央区, 大阪府 https://t.co/808sXIllTl
+User ID : 120454513,Tweet ID : 873032000050937856 , Lattitute : 34.699898, Longitute : 135.49478, Tweet Status : I'm at ソニーストア 大阪 in 大阪市, 大阪府 https://t.co/iK59fUYsGB
+User ID : 120454513,Tweet ID : 873022191511625728 , Lattitute : 34.70353529, Longitute : 135.49757262, Tweet Status : I'm at 梅田 in 大阪市, 大阪府 https://t.co/f0ACuiVyTc
+User ID : 120454513,Tweet ID : 872755615394914306 , Lattitute : 34.70265272, Longitute : 135.49835046, Tweet Status : I'm at 阪急うめだ本店 祝祭広場 in 大阪市, 大阪府 https://t.co/5VXEbrEMVF

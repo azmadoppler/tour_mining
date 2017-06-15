@@ -1,0 +1,14 @@
+User ID : 69305132,Tweet ID : 874911395678216192 , Lattitute : 35.69685558, Longitute : 139.70888587, Tweet Status : なんか派手なビルやな〜ギラギラしてる。 (@ Shinjuku Eastside Square in 新宿区, 東京都) https://t.co/atCQKei7AA
+User ID : 69305132,Tweet ID : 874832240701788163 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at Tokyo Station in 千代田区, 東京都 https://t.co/FZf6LOTnem
+User ID : 69305132,Tweet ID : 874824722353184769 , Lattitute : 35.67511277, Longitute : 139.76335858, Tweet Status : I'm at Yurakucho Station in 千代田区, 東京都 https://t.co/YsEY1k6q2o
+User ID : 69305132,Tweet ID : 874545246830551040 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at Tokyo Station in 千代田区, 東京都 https://t.co/31MdZ4uCxJ
+User ID : 69305132,Tweet ID : 874502565161046016 , Lattitute : 35.7300755, Longitute : 139.71126969, Tweet Status : I'm at Ikebukuro Station in 豊島区, 東京都 https://t.co/iopu3gHlTX
+User ID : 69305132,Tweet ID : 874461679366623232 , Lattitute : 35.69186567, Longitute : 139.77084139, Tweet Status : I'm at Kanda Station in 千代田区, 東京都 https://t.co/qcxUVVxq4u
+User ID : 69305132,Tweet ID : 874429658762182662 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at Tokyo Station in 千代田区, 東京都 https://t.co/4j1YC9LDHA
+User ID : 69305132,Tweet ID : 874391380512165888 , Lattitute : 34.9846826, Longitute : 135.7591303, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/EwmP5GDFFu
+User ID : 69305132,Tweet ID : 873817140826079232 , Lattitute : 34.98798294, Longitute : 135.75849652, Tweet Status : I'm at HUB 京都ヨドバシ店 in 京都市, 京都府 https://t.co/tK7Fn3YZi1
+User ID : 69305132,Tweet ID : 872739986935861249 , Lattitute : 34.98468553, Longitute : 135.75944038, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/bvQITbUO4Z
+User ID : 69305132,Tweet ID : 872702581222645760 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at Tokyo Station in 千代田区, 東京都 https://t.co/LECjWhalrH
+User ID : 69305132,Tweet ID : 872658601193742336 , Lattitute : 35.65880774, Longitute : 139.70154551, Tweet Status : I'm at Shibuya Station in 渋谷区, 東京都 https://t.co/IviJnT5bVl
+User ID : 69305132,Tweet ID : 872626744863461376 , Lattitute : 35.62867164, Longitute : 139.73853581, Tweet Status : I'm at Shinagawa Station in 港区, 東京都 https://t.co/2ipmhkR9BB
+User ID : 69305132,Tweet ID : 872587274550206469 , Lattitute : 34.98468553, Longitute : 135.75944038, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/gLAUWXqBTs

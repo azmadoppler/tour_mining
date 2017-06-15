@@ -1,0 +1,9 @@
+User ID : 65693178,Tweet ID : 873076492120358912 , Lattitute : 35.641509, Longitute : 139.715391, Tweet Status : I'm at ウェスティンホテル東京 in 目黒区, Tokyo https://t.co/eWZaqXGENg
+User ID : 65693178,Tweet ID : 872779933390712832 , Lattitute : 35.77284377, Longitute : 140.38731466, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/jCZq7601fO
+User ID : 65693178,Tweet ID : 872711849615249409 , Lattitute : 34.43501872, Longitute : 135.24393892, Tweet Status : I'm at 関西国際空港 - @kankun_sorayan in 泉佐野市, 大阪府 https://t.co/ifIaTKNk1S
+User ID : 65693178,Tweet ID : 872607749196132353 , Lattitute : 34.647254, Longitute : 135.51154, Tweet Status : I'm at ヴィアイン あべの天王寺 in 大阪市, 大阪府 https://t.co/Oo0K6kDkYB
+User ID : 65693178,Tweet ID : 872425698157371394 , Lattitute : 34.6461484, Longitute : 135.51354647, Tweet Status : I'm at あべのハルカス - @abenoharukas in 大阪市, 大阪府 https://t.co/SI8qjaUpb6
+User ID : 65693178,Tweet ID : 872362661710835712 , Lattitute : 34.69076764, Longitute : 135.53284584, Tweet Status : I'm at ホテルニューオータニ大阪 - @newotaniosaka in 大阪市, 大阪府 https://t.co/s0TUp7ObZf
+User ID : 65693178,Tweet ID : 872318392606355458 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/sQHLOaddXf
+User ID : 65693178,Tweet ID : 872281580781416449 , Lattitute : 35.55106553, Longitute : 139.78863358, Tweet Status : I'm at 羽田空港 第2旅客ターミナル in 大田区, 東京都 https://t.co/m0Ski9WXX4
+User ID : 65693178,Tweet ID : 871545599451176960 , Lattitute : 35.77288467, Longitute : 140.38802073, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/5zsewV0G3u

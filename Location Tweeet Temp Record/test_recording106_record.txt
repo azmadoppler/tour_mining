@@ -1,0 +1,12 @@
+User ID : 459026722 , Lattitute : 35.69816214, Longitute : 139.77152033
+User ID : 459026722 , Lattitute : 35.70087123, Longitute : 139.69721317
+User ID : 459026722 , Lattitute : 35.69647343, Longitute : 139.6980801
+User ID : 459026722 , Lattitute : 35.69906802, Longitute : 139.77547431
+User ID : 459026722 , Lattitute : 35.72939123, Longitute : 139.71004486
+User ID : 459026722 , Lattitute : 35.73160776, Longitute : 139.7124213
+User ID : 459026722 , Lattitute : 35.72989024, Longitute : 139.71104526
+User ID : 459026722 , Lattitute : 35.69911561, Longitute : 139.77028996
+User ID : 459026722 , Lattitute : 35.69886934, Longitute : 139.77548429
+User ID : 459026722 , Lattitute : 35.65553124, Longitute : 139.79279105
+User ID : 459026722 , Lattitute : 35.65508504, Longitute : 139.79597732
+User ID : 459026722 , Lattitute : 35.64599207, Longitute : 139.82686003

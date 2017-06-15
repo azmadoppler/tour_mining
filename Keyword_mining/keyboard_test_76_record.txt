@@ -1,0 +1,11 @@
+User ID : 241948222,Tweet ID : 874573469371052033 , Lattitute : 35.71333667, Longitute : 139.77629809, Tweet Status : I'm at 上野駅 in 台東区, 東京都 https://t.co/ek08aa4Fvt
+User ID : 241948222,Tweet ID : 874068822780760064 , Lattitute : 36.64322969, Longitute : 138.18824859, Tweet Status : I'm at 長野駅 in 長野市, 長野県 https://t.co/OXNMCb6zx0
+User ID : 241948222,Tweet ID : 873804791373328384 , Lattitute : 37.16756185, Longitute : 138.11213233, Tweet Status : I'm at 名立谷浜SA (下り) in 上越市, 新潟県 https://t.co/h5iV0jOj5K
+User ID : 241948222,Tweet ID : 873749239221944321 , Lattitute : 36.400223, Longitute : 136.469387, Tweet Status : I'm at しゃぶ菜 イオンモール新小松店 https://t.co/MPbkEKyCYW
+User ID : 241948222,Tweet ID : 873728596757630976 , Lattitute : 36.395662, Longitute : 136.465606, Tweet Status : I'm at イオンモール新小松 - @aeon_japan in 小松市, 石川県 https://t.co/XvBA9n1HIr
+User ID : 241948222,Tweet ID : 873692361716617216 , Lattitute : 36.92880521, Longitute : 138.21130111, Tweet Status : I'm at 妙高SA (下り) in 妙高市, 新潟県 https://t.co/G3obrSCWgo
+User ID : 241948222,Tweet ID : 873445306079358976 , Lattitute : 36.653277, Longitute : 138.214167, Tweet Status : I'm at ツルヤ 長野中央店 in 長野市, 長野県 https://t.co/YJSwOgQOxe
+User ID : 241948222,Tweet ID : 873413029794336768 , Lattitute : 36.64470122, Longitute : 138.18852046, Tweet Status : I'm at ながの東急百貨店 in 長野市, 長野県 https://t.co/hr8yxTGQbX
+User ID : 241948222,Tweet ID : 873372658896953345 , Lattitute : 36.66051101, Longitute : 138.23971971, Tweet Status : I'm at ザ・ビッグ 長野東店 in 長野市, 長野県 https://t.co/2r1fZZewwB
+User ID : 241948222,Tweet ID : 873286817340116995 , Lattitute : 40.82783714, Longitute : 140.69365601, Tweet Status : I'm at 新青森駅 - @jreast_official in 青森市, 青森県 https://t.co/KuX0GILFD6
+User ID : 241948222,Tweet ID : 873278122405351425 , Lattitute : 40.82871585, Longitute : 140.73467016, Tweet Status : I'm at 青森駅 in 青森市, 青森県 https://t.co/YE7n7L4W3N

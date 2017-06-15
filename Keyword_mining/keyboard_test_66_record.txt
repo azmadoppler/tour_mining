@@ -1,0 +1,53 @@
+User ID : 206511053,Tweet ID : 874205432994291713 , Lattitute : 35.70146624, Longitute : 139.74011749, Tweet Status : I'm at 神楽坂 in Shinjuku, 東京都 https://t.co/bwAofeO1ex
+User ID : 206511053,Tweet ID : 874205283643527168 , Lattitute : 35.70397503, Longitute : 139.73399058, Tweet Status : I'm at 神楽坂駅 - @t_line_info in 新宿区, 東京都 https://t.co/GRIO0PqzCw
+User ID : 206511053,Tweet ID : 874205178697854977 , Lattitute : 35.693975, Longitute : 139.753561, Tweet Status : I'm at 千代田区 in 東京都 https://t.co/SZS6eOtB9W
+User ID : 206511053,Tweet ID : 874204352080224256 , Lattitute : 35.68217056, Longitute : 139.77400152, Tweet Status : I'm at 東西線 日本橋駅 - @t_line_info in Chūō, 東京都 https://t.co/TpT9FpxXhP
+User ID : 206511053,Tweet ID : 874204319066845184 , Lattitute : 35.68114691, Longitute : 139.77894924, Tweet Status : I'm at 中央区 in 東京都 https://t.co/VomaF10VLC
+User ID : 206511053,Tweet ID : 874204236921413632 , Lattitute : 35.68192242, Longitute : 139.77570397, Tweet Status : I'm at 都営浅草線 日本橋駅 - @toeikotsu in Chūō, 東京都 https://t.co/jbsKKDhELI
+User ID : 206511053,Tweet ID : 874204137797406720 , Lattitute : 35.68219696, Longitute : 139.77377187, Tweet Status : I'm at 日本橋駅 in 中央区, 東京都 https://t.co/JJr72W6yd9
+User ID : 206511053,Tweet ID : 874203452045488128 , Lattitute : 35.64678671, Longitute : 139.74713826, Tweet Status : I'm at 都営浅草線 三田駅 - @toeikotsu in 港区, 東京都 https://t.co/DPLqM2JvBN
+User ID : 206511053,Tweet ID : 874203371594559490 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/piTd8LQdkV
+User ID : 206511053,Tweet ID : 873542692927623169 , Lattitute : 35.636564, Longitute : 139.763144, Tweet Status : I'm at レインボーブリッジ in 港区/江東区, 東京都 https://t.co/UJwEnNg0DX
+User ID : 206511053,Tweet ID : 873542668210638849 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/TToCPbUzgR
+User ID : 206511053,Tweet ID : 873411139148926976 , Lattitute : 35.65147, Longitute : 139.7525, Tweet Status : I'm at まいばすけっと 芝2丁目店 in Minato, Tōkyō https://t.co/GKESSfwvoo
+User ID : 206511053,Tweet ID : 873407045852160000 , Lattitute : 35.64795221, Longitute : 139.75217357, Tweet Status : I'm at 芝浦公園 in 港区, 東京都 https://t.co/ibB67JqsB2
+User ID : 206511053,Tweet ID : 873406978478964737 , Lattitute : 35.644008, Longitute : 139.757561, Tweet Status : I'm at 芝浦 in 東京都 https://t.co/teoXq9QOZx
+User ID : 206511053,Tweet ID : 873402631808483328 , Lattitute : 35.64857901, Longitute : 139.74868025, Tweet Status : I'm at 都営三田線 三田駅 - @toeikotsu in 港区, 東京都 https://t.co/hx8cYbv77t
+User ID : 206511053,Tweet ID : 873400525567479808 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/cBfOG9jkmK
+User ID : 206511053,Tweet ID : 873400485415444481 , Lattitute : 35.67513872, Longitute : 139.75986958, Tweet Status : I'm at 都営三田線 日比谷駅 - @toeikotsu in 千代田区, 東京都 https://t.co/5MUIb4AxTz
+User ID : 206511053,Tweet ID : 873400449210212354 , Lattitute : 35.67431504, Longitute : 139.75989455, Tweet Status : I'm at 日比谷駅 in 千代田区, 東京都 https://t.co/MHK43WXYjc
+User ID : 206511053,Tweet ID : 873399236859236352 , Lattitute : 35.67572153, Longitute : 139.76304411, Tweet Status : I'm at 有楽町線 有楽町駅 - @y_line_info in 千代田区, 東京都 https://t.co/jDpqOzgKN5
+User ID : 206511053,Tweet ID : 873399151446421504 , Lattitute : 35.693975, Longitute : 139.753561, Tweet Status : I'm at 千代田区 in 東京都 https://t.co/SKtvTBo9oR
+User ID : 206511053,Tweet ID : 873399119641014272 , Lattitute : 35.67499074, Longitute : 139.76313895, Tweet Status : I'm at 有楽町駅 in 千代田区, 東京都 https://t.co/wZEyPLOa5B
+User ID : 206511053,Tweet ID : 873389255183171585 , Lattitute : 35.77656531, Longitute : 139.63149905, Tweet Status : I'm at 地下鉄成増駅 - @y_line_info in 板橋区, 東京都 https://t.co/gDLWNyUn32
+User ID : 206511053,Tweet ID : 873389201072553984 , Lattitute : 35.77815819, Longitute : 139.63326931, Tweet Status : I'm at 西友 成増店 - @seiyu_japan in 板橋区, 東京都 https://t.co/OITaVPK0RC
+User ID : 206511053,Tweet ID : 873389062803116032 , Lattitute : 35.77709501, Longitute : 139.63252494, Tweet Status : I'm at 成増駅南口 バスターミナル in 板橋区, 東京都 https://t.co/GA0tkCSKGs
+User ID : 206511053,Tweet ID : 873388954745229312 , Lattitute : 35.77760438, Longitute : 139.63292733, Tweet Status : I'm at 成増駅 in 板橋区, 東京都 https://t.co/BzCtJsW1Rh
+User ID : 206511053,Tweet ID : 873388915146862593 , Lattitute : 35.751209, Longitute : 139.709221, Tweet Status : I'm at 板橋区 in 東京都 https://t.co/p06zHJmmM0
+User ID : 206511053,Tweet ID : 873339807073800192 , Lattitute : 35.77760438, Longitute : 139.63292733, Tweet Status : I'm at 成増駅 in 板橋区, 東京都 https://t.co/t0U9MMjDdO
+User ID : 206511053,Tweet ID : 873339713138171904 , Lattitute : 35.77656531, Longitute : 139.63149905, Tweet Status : I'm at 地下鉄成増駅 - @y_line_info in 板橋区, 東京都 https://t.co/6WqnvbfKUo
+User ID : 206511053,Tweet ID : 873339676266049536 , Lattitute : 35.751209, Longitute : 139.709221, Tweet Status : I'm at 板橋区 in 東京都 https://t.co/X8ikh8n0Ha
+User ID : 206511053,Tweet ID : 873337769413750784 , Lattitute : 35.74391735, Longitute : 139.67863083, Tweet Status : I'm at 有楽町線 小竹向原駅 - @y_line_info in 練馬区, 東京都 https://t.co/mqCuazKE5d
+User ID : 206511053,Tweet ID : 873337677000716288 , Lattitute : 35.74278067, Longitute : 139.68085579, Tweet Status : I'm at 小竹向原駅 3-4番線ホーム in 練馬区, 東京都 https://t.co/70GxHCk6LB
+User ID : 206511053,Tweet ID : 873337618372722689 , Lattitute : 35.74296642, Longitute : 139.68051684, Tweet Status : I'm at 小竹向原駅 in Nerima, 東京都 https://t.co/6dcowAYwka
+User ID : 206511053,Tweet ID : 873328063421042688 , Lattitute : 35.64678671, Longitute : 139.74713826, Tweet Status : I'm at 都営浅草線 三田駅 - @toeikotsu in 港区, 東京都 https://t.co/Ce0eOkX2E2
+User ID : 206511053,Tweet ID : 873328018554589189 , Lattitute : 35.64556298, Longitute : 139.74750255, Tweet Status : I'm at 田町駅 - @jreast_official in 港区, 東京都 https://t.co/bZqClmDU8e
+User ID : 206511053,Tweet ID : 873327921573875712 , Lattitute : 35.64345991, Longitute : 139.7427271, Tweet Status : I'm at 三田 in 港区, 東京都 https://t.co/POXRUkTlI1
+User ID : 206511053,Tweet ID : 873327881316950016 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/VS20nUTaZi
+User ID : 206511053,Tweet ID : 872800542933889024 , Lattitute : 35.636564, Longitute : 139.763144, Tweet Status : I'm at レインボーブリッジ in 港区/江東区, 東京都 https://t.co/vwXH10L90R
+User ID : 206511053,Tweet ID : 872768440838365184 , Lattitute : 35.64467058, Longitute : 139.75225841, Tweet Status : I'm at ローソンストア100 芝浦二丁目店 in 港区, 東京都 https://t.co/1o85JJBu8I
+User ID : 206511053,Tweet ID : 872763883785785344 , Lattitute : 35.64673862, Longitute : 139.74712329, Tweet Status : I'm at 田町駅西口交差点 in 港区, 東京都 https://t.co/D7yewFsqHE
+User ID : 206511053,Tweet ID : 872763854606004224 , Lattitute : 35.64668735, Longitute : 139.74689374, Tweet Status : I'm at 都営バス 田町駅前 - @toeikotsu in 港区, 東京都 https://t.co/TG7rwoQWBV
+User ID : 206511053,Tweet ID : 872763795462139905 , Lattitute : 35.64556298, Longitute : 139.74750255, Tweet Status : I'm at 田町駅 - @jreast_official in 港区, 東京都 https://t.co/7Yj6lI1gEk
+User ID : 206511053,Tweet ID : 872763769243521024 , Lattitute : 35.64678671, Longitute : 139.74713826, Tweet Status : I'm at 都営浅草線 三田駅 - @toeikotsu in 港区, 東京都 https://t.co/3vuGV33FKJ
+User ID : 206511053,Tweet ID : 872763739354910722 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/o4x5emooxq
+User ID : 206511053,Tweet ID : 872763712645550081 , Lattitute : 35.65509072, Longitute : 139.37207043, Tweet Status : I'm at 前田治療院 in 日野市, 東京都 https://t.co/QG1RjyBYDl
+User ID : 206511053,Tweet ID : 872752558342893568 , Lattitute : 35.65020854, Longitute : 139.75019234, Tweet Status : I'm at 株式会社MIRUCA https://t.co/dR8x2XDhsB
+User ID : 206511053,Tweet ID : 872752484703404032 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/73mjQDriSB
+User ID : 206511053,Tweet ID : 872351892499824640 , Lattitute : 35.6281383, Longitute : 139.73795703, Tweet Status : I'm at 京急品川駅 0km ポイント in 港区, 東京都 https://t.co/jcgMevkO0W
+User ID : 206511053,Tweet ID : 872351811948204032 , Lattitute : 35.62812531, Longitute : 139.73803686, Tweet Status : I'm at 京急 品川駅 - @keikyu_official in 港区, 東京都 https://t.co/qg8XF4CzFB
+User ID : 206511053,Tweet ID : 872351753139884032 , Lattitute : 35.65947115, Longitute : 139.75272753, Tweet Status : I'm at 港区 in Tōkyō-to https://t.co/tRhTEtmE1v
+User ID : 206511053,Tweet ID : 872346542249848832 , Lattitute : 35.55023897, Longitute : 139.78669866, Tweet Status : I'm at 羽田空港国内線ターミナル駅 in 大田区, 東京都 https://t.co/9cynegBUK9
+User ID : 206511053,Tweet ID : 872338297934278659 , Lattitute : 35.54873923, Longitute : 139.78384048, Tweet Status : I'm at 羽田空港 第1旅客ターミナル in 大田区, 東京都 https://t.co/odtPfX3vfL
+User ID : 206511053,Tweet ID : 872338199225520129 , Lattitute : 35.55069962, Longitute : 139.77954339, Tweet Status : I'm at 羽田空港 A滑走路 (16R/34L) in 大田区, 東京都 https://t.co/9DIWtBXRLq
+User ID : 206511053,Tweet ID : 872338012428009472 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/tvz3UmrsaR

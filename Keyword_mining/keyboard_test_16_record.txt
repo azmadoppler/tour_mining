@@ -1,0 +1,21 @@
+User ID : 135781931,Tweet ID : 874844531753197569 , Lattitute : 35.10544063, Longitute : 136.88749194, Tweet Status : I'm at 中国料理 四川 in 名古屋市, 愛知県 https://t.co/PaBLDcQHzl
+User ID : 135781931,Tweet ID : 874470066556997640 , Lattitute : 35.115079, Longitute : 136.85216, Tweet Status : I'm at とんかつハウスＭＯＢＵ in 名古屋市港区 https://t.co/LoD5rbM7ZC
+User ID : 135781931,Tweet ID : 874110949426376704 , Lattitute : 35.09047159, Longitute : 136.85752578, Tweet Status : I'm at 珈琲鞍馬 in 名古屋市, 愛知県 https://t.co/P9Qz5JKorl
+User ID : 135781931,Tweet ID : 873847540638208000 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at 東京駅 in 千代田区, 東京都 https://t.co/LZylmTUzTG
+User ID : 135781931,Tweet ID : 873781151839727616 , Lattitute : 35.6934895, Longitute : 139.7014408, Tweet Status : I'm at タイトーステーション 新宿東口店 - @taito_shinjuku in 新宿区, 東京都 https://t.co/COOUBo1kE8
+User ID : 135781931,Tweet ID : 873769050962362368 , Lattitute : 35.69276051, Longitute : 139.70212892, Tweet Status : I'm at とんかつ卯作 in 新宿区, 東京都 https://t.co/8KVNgdmYCA
+User ID : 135781931,Tweet ID : 873724112321097728 , Lattitute : 35.69536031, Longitute : 139.70106483, Tweet Status : I'm at 新宿BLAZE - @shinjuku_blaze in 新宿区, 東京都 https://t.co/rFpv8L9Czx
+User ID : 135781931,Tweet ID : 873601584344772609 , Lattitute : 35.69119, Longitute : 139.701686, Tweet Status : I'm at 酸素カプセルforest 新宿東口店 - @sanso_forest in 新宿区, 東京都 https://t.co/XxBH50TPqr
+User ID : 135781931,Tweet ID : 873573797558988801 , Lattitute : 35.69462186, Longitute : 139.70142692, Tweet Status : I'm at 清江苑 新宿店 in 新宿区, 東京都 https://t.co/al1eq65J6A
+User ID : 135781931,Tweet ID : 873495163229925376 , Lattitute : 35.6977031, Longitute : 139.77105605, Tweet Status : I'm at 秋葉原GiGO - @akihabaragigo in 千代田区, 東京都 https://t.co/1ifz5BHVo8
+User ID : 135781931,Tweet ID : 873462462716293120 , Lattitute : 35.66142387, Longitute : 139.70061806, Tweet Status : I'm at Starbucks Coffee 渋谷モディ店 - @starbucks_j in 渋谷区, 東京都 https://t.co/l3swirg9R0
+User ID : 135781931,Tweet ID : 873459027145097216 , Lattitute : 35.66015201, Longitute : 139.70047844, Tweet Status : I'm at 西武 渋谷店 in 渋谷区, 東京都 https://t.co/9qzeJkSluy
+User ID : 135781931,Tweet ID : 873428849115242496 , Lattitute : 35.66159486, Longitute : 139.69726239, Tweet Status : I'm at RISEL x.o.x.o in 渋谷区, 東京都 https://t.co/bsHCyQPkHo
+User ID : 135781931,Tweet ID : 873292194786009089 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/BVQE1gx27x
+User ID : 135781931,Tweet ID : 873121697250983937 , Lattitute : 35.69226528, Longitute : 139.70110173, Tweet Status : I'm at アルタ前 in 新宿区, 東京都 https://t.co/1jckk1YKyi
+User ID : 135781931,Tweet ID : 873019171851972609 , Lattitute : 35.695433, Longitute : 139.768613, Tweet Status : I'm at とんかつ やまいち in 千代田区, 東京都 https://t.co/zU99SH1kkq
+User ID : 135781931,Tweet ID : 872998060867104768 , Lattitute : 35.69951858, Longitute : 139.77044821, Tweet Status : I'm at AKIHABARAバックステ↔ジpass in 千代田区, 東京都 https://t.co/1EzdmTzfSK
+User ID : 135781931,Tweet ID : 872742973825589248 , Lattitute : 35.70129, Longitute : 139.77185, Tweet Status : かぼちゃパーチー (@ 秋葉原アイドルステージ - @sakucinderella in 千代田区, 東京都) https://t.co/AofEdORceY
+User ID : 135781931,Tweet ID : 872702806603554817 , Lattitute : 36.23600968, Longitute : 139.18833687, Tweet Status : I'm at 本庄駅 - @jreast_official in 本庄市, 埼玉県 https://t.co/xG7kGO0b1m
+User ID : 135781931,Tweet ID : 872677419467014144 , Lattitute : 36.23192978, Longitute : 139.19007874, Tweet Status : I'm at 手打ち中華そば 㐂八 in 本庄市, 埼玉県 https://t.co/qPwjTTRIsB
+User ID : 135781931,Tweet ID : 872570576782708739 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/HYXWAu2FUh

@@ -1,0 +1,4 @@
+User ID : 1022181600 , Lattitute : 35.73723789, Longitute : 139.67283113
+User ID : 1022181600 , Lattitute : 35.74764424, Longitute : 139.82751489
+User ID : 1022181600 , Lattitute : 35.65857854, Longitute : 139.74544197
+User ID : 1022181600 , Lattitute : 35.362814, Longitute : 139.30679561

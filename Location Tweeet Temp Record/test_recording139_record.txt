@@ -1,0 +1,3 @@
+User ID : 172774182 , Lattitute : 35.4641194, Longitute : 139.87461433
+User ID : 172774182 , Lattitute : 35.66478432, Longitute : 139.76005926
+User ID : 172774182 , Lattitute : 35.577475, Longitute : 140.12287438

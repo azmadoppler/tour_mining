@@ -1,0 +1,4 @@
+User ID : 2394340950,Tweet ID : 873800067530055681 , Lattitute : 35.18384638, Longitute : 136.90000715, Tweet Status : I'm at 名古屋城 - @citynagoyajo in Nagoya, 愛知県 https://t.co/6R1RQ05rJs
+User ID : 2394340950,Tweet ID : 873319406847369216 , Lattitute : 35.15944729, Longitute : 136.90487689, Tweet Status : I'm at コンパル 大須本店 in 名古屋市, 愛知県 https://t.co/7xc1QFH8Za
+User ID : 2394340950,Tweet ID : 872669303795011584 , Lattitute : 35.255136, Longitute : 136.979762, Tweet Status : I'm at 寿司・しゃぶしゃぶ  ゆず庵 in 春日井市, 愛知県 https://t.co/REJYibAbzG
+User ID : 2394340950,Tweet ID : 872418894983593985 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/IQBrHBuZ4i

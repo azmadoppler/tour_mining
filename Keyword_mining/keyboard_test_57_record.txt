@@ -1,0 +1,22 @@
+User ID : 330292303,Tweet ID : 872824620407283712 , Lattitute : 35.93031978, Longitute : 140.13817279, Tweet Status : I'm at 佐貫駅 in 龍ケ崎市, 茨城県 https://t.co/R1yui2Kxf9
+User ID : 330292303,Tweet ID : 872811588872536064 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at 東京駅 in 千代田区, 東京都 https://t.co/tkNra0gWsM
+User ID : 330292303,Tweet ID : 872811395364118529 , Lattitute : 35.68066913, Longitute : 139.76787611, Tweet Status : I'm at 東海道新幹線 東京駅 in Chiyoda, 東京都 https://t.co/OiUcmhbRrv
+User ID : 330292303,Tweet ID : 872770599281717248 , Lattitute : 34.73362299, Longitute : 135.50070245, Tweet Status : I'm at 東海道・山陽新幹線 新大阪駅 in Osaka, Ōsaka https://t.co/P1IgmyScIa
+User ID : 330292303,Tweet ID : 872770548698370050 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : I'm at 新大阪駅 in 大阪市, 大阪府 https://t.co/Vkyasm5a2t
+User ID : 330292303,Tweet ID : 872734665030995968 , Lattitute : 34.70332808, Longitute : 135.49776133, Tweet Status : I'm at 御堂筋線 梅田駅 - @osakatransport in 大阪市, 大阪府 https://t.co/IGdRTgoF4t
+User ID : 330292303,Tweet ID : 872699737862004736 , Lattitute : 34.67390391, Longitute : 135.5004631, Tweet Status : I'm at 御堂筋線 心斎橋駅 - @osakatransport in 大阪市, 大阪府 https://t.co/p7YP2iu6UO
+User ID : 330292303,Tweet ID : 872695691373666304 , Lattitute : 34.67378803, Longitute : 135.50080061, Tweet Status : I'm at 大丸 心斎橋店 北館 - @sakura_panda in 大阪市, 大阪府 https://t.co/0hznbTrNC3
+User ID : 330292303,Tweet ID : 872694988546736128 , Lattitute : 34.67058824, Longitute : 135.50133304, Tweet Status : I'm at 心斎橋筋商店街 in 大阪市, 大阪府 https://t.co/u3DnWNs7o5
+User ID : 330292303,Tweet ID : 872688769551527939 , Lattitute : 34.66602336, Longitute : 135.50041247, Tweet Status : I'm at 御堂筋線 なんば駅 - @osakatransport in 大阪市, 大阪府 https://t.co/8zqdl1M77o
+User ID : 330292303,Tweet ID : 872645906394427392 , Lattitute : 34.70245282, Longitute : 135.49589733, Tweet Status : I'm at 大阪駅 in 大阪市, 大阪府 https://t.co/EwKCVSxmzb
+User ID : 330292303,Tweet ID : 872631644380942336 , Lattitute : 34.6468585, Longitute : 135.51499183, Tweet Status : I'm at JR 天王寺駅 in 大阪市, 大阪府 https://t.co/QOtopnHbjK
+User ID : 330292303,Tweet ID : 872624252905811971 , Lattitute : 34.6964162, Longitute : 135.53402499, Tweet Status : I'm at JR 京橋駅 in 大阪市, 大阪府 https://t.co/YAjLMTOm76
+User ID : 330292303,Tweet ID : 872603345667719169 , Lattitute : 34.71103222, Longitute : 135.49687386, Tweet Status : I'm at 御堂筋線 中津駅 in 大阪市, 大阪府 https://t.co/oEd7GaPshr
+User ID : 330292303,Tweet ID : 872466663995736064 , Lattitute : 34.7134749, Longitute : 135.50067483, Tweet Status : I'm at 東横イン 梅田中津2 in Kita, 大阪府 https://t.co/OmCutwxqLX
+User ID : 330292303,Tweet ID : 872422062224285697 , Lattitute : 34.81016533, Longitute : 135.51922202, Tweet Status : I'm at 源気温泉 万博おゆば - @banpakuoyuba in 吹田市, 大阪府 https://t.co/PLmMtt8ZPO
+User ID : 330292303,Tweet ID : 872406300063354881 , Lattitute : 34.80588672, Longitute : 135.53533314, Tweet Status : I'm at ららぽーとEXPOCITY - @lalafanlalaport in 吹田市, 大阪府 https://t.co/GIUa6wQQZj
+User ID : 330292303,Tweet ID : 872387263765913601 , Lattitute : 34.71103222, Longitute : 135.49687386, Tweet Status : I'm at 御堂筋線 中津駅 in 大阪市, 大阪府 https://t.co/7ohwSW78M0
+User ID : 330292303,Tweet ID : 872384957955674112 , Lattitute : 34.73233127, Longitute : 135.4986082, Tweet Status : I'm at 御堂筋線 新大阪駅 in 大阪市, 大阪府 https://t.co/I2gVpZD0dG
+User ID : 330292303,Tweet ID : 872384177030746116 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : I'm at 新大阪駅 in 大阪市, 大阪府 https://t.co/mGpi6akTEL
+User ID : 330292303,Tweet ID : 872384150946418688 , Lattitute : 34.73362299, Longitute : 135.50070245, Tweet Status : I'm at 東海道・山陽新幹線 新大阪駅 in Osaka, Ōsaka https://t.co/IoweHah0z8
+User ID : 330292303,Tweet ID : 872362691473571843 , Lattitute : 34.39849582, Longitute : 132.47497277, Tweet Status : I'm at JR 広島駅 新幹線ホーム in 広島市, 広島県 https://t.co/oKkMYTL1UI

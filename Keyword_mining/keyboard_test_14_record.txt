@@ -1,0 +1,9 @@
+User ID : 16285524,Tweet ID : 874593708095746048 , Lattitute : 35.692675, Longitute : 139.703617, Tweet Status : I'm at 新宿ピカデリー - @shinpicca in 新宿区, 東京都 w/ @_kurax3 @mackiepen https://t.co/NbXlGeTnZx
+User ID : 16285524,Tweet ID : 874591466449981440 , Lattitute : 35.6908472, Longitute : 139.70003467, Tweet Status : I'm at 新宿駅 in 新宿区, 東京都 https://t.co/zq8QJ8c2GK
+User ID : 16285524,Tweet ID : 874239501471801344 , Lattitute : 35.64672008, Longitute : 139.71089066, Tweet Status : I'm at ASO:VIBA! in 渋谷区, 東京都 https://t.co/DHDjPNmFpO
+User ID : 16285524,Tweet ID : 874238615588663296 , Lattitute : 35.64709087, Longitute : 139.70985335, Tweet Status : I'm at 恵比寿駅 in 渋谷区, 東京都 https://t.co/BpachRpLy4
+User ID : 16285524,Tweet ID : 873907256047398912 , Lattitute : 35.66611444, Longitute : 139.75819255, Tweet Status : I'm at JR 新橋駅 - @jreast_official in 港区, 東京都 https://t.co/RSOH87zBkd
+User ID : 16285524,Tweet ID : 873905321911226370 , Lattitute : 35.698545, Longitute : 139.773275, Tweet Status : I'm at JR 秋葉原駅 - @jreast_official in 千代田区, 東京都 https://t.co/lWOmPzg9O9
+User ID : 16285524,Tweet ID : 873856593384833024 , Lattitute : 35.70022346, Longitute : 139.77144544, Tweet Status : I'm at タイトーステーション 秋葉原店 in 千代田区, 東京都 https://t.co/VrVhBenId2
+User ID : 16285524,Tweet ID : 873850080909983744 , Lattitute : 35.70023741, Longitute : 139.77051689, Tweet Status : I'm at 野郎ラーメン 秋葉原店 in 千代田区, 東京都 https://t.co/wrlqPYD7GP
+User ID : 16285524,Tweet ID : 873846628800765952 , Lattitute : 35.69808319, Longitute : 139.77517475, Tweet Status : I'm at 日比谷線 秋葉原駅 - @h_line_info in Chiyoda, 東京都 https://t.co/qOD7hFchIP

@@ -1,0 +1,19 @@
+User ID : 1376873455,Tweet ID : 874749508839714818 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/TkHMRVVW3g
+User ID : 1376873455,Tweet ID : 874743545650974720 , Lattitute : 35.65548084, Longitute : 139.7568849, Tweet Status : I'm at モノレール浜松町駅 in 港区, 東京都 https://t.co/8oXl9wR54X
+User ID : 1376873455,Tweet ID : 874743515967885312 , Lattitute : 35.65570846, Longitute : 139.7570496, Tweet Status : I'm at 浜松町駅 in 港区, 東京都 https://t.co/IW1cFKrSr6
+User ID : 1376873455,Tweet ID : 874734979720388609 , Lattitute : 35.76452682, Longitute : 139.72661718, Tweet Status : I'm at 東十条駅 - @jreast_official in 北区, 東京都 https://t.co/kn0Q0m6Ehi
+User ID : 1376873455,Tweet ID : 874485620940451840 , Lattitute : 35.77783994, Longitute : 139.72091066, Tweet Status : I'm at 赤羽駅 - @jreast_official in 北区, 東京都 https://t.co/XYHZ4cReZ6
+User ID : 1376873455,Tweet ID : 874478552510582784 , Lattitute : 35.75324048, Longitute : 139.73777243, Tweet Status : I'm at 王子駅 in 北区, 東京都 https://t.co/z7OPFIH9CJ
+User ID : 1376873455,Tweet ID : 874475354802577409 , Lattitute : 35.75666792, Longitute : 139.73746308, Tweet Status : I'm at ソフトバンク 王子駅前 in 北区, 東京都 https://t.co/qf5z1d5Bp2
+User ID : 1376873455,Tweet ID : 874458675183857668 , Lattitute : 35.76156384, Longitute : 139.71884069, Tweet Status : I'm at 十条仲通り商店街 - @nakadoori in 北区, 東京都 https://t.co/nAE0rGsaAO
+User ID : 1376873455,Tweet ID : 873831809057992704 , Lattitute : 35.75666792, Longitute : 139.73746308, Tweet Status : I'm at ソフトバンク 王子駅前 in 北区, 東京都 https://t.co/692vmRraHz
+User ID : 1376873455,Tweet ID : 873822536492044288 , Lattitute : 35.65570846, Longitute : 139.7570496, Tweet Status : も (@ 浜松町駅 in 港区, 東京都) https://t.co/w6UwRT0bs6
+User ID : 1376873455,Tweet ID : 873650274283515906 , Lattitute : 35.76452682, Longitute : 139.72661718, Tweet Status : I'm at 東十条駅 - @jreast_official in 北区, 東京都 https://t.co/JzTffn69XG
+User ID : 1376873455,Tweet ID : 873287742695899136 , Lattitute : 35.76452682, Longitute : 139.72661718, Tweet Status : I'm at 東十条駅 - @jreast_official in 北区, 東京都 https://t.co/Ps7ZcqXUJp
+User ID : 1376873455,Tweet ID : 872922967033958401 , Lattitute : 35.76452682, Longitute : 139.72661718, Tweet Status : I'm at 東十条駅 - @jreast_official in 北区, 東京都 https://t.co/Mk2HAkJTiP
+User ID : 1376873455,Tweet ID : 872675970116931584 , Lattitute : 35.76057406, Longitute : 139.72222251, Tweet Status : I'm at 十条駅 - @jreast_official in 北区, 東京都 https://t.co/tiuSdBxww3
+User ID : 1376873455,Tweet ID : 872666970491170817 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at 東京駅 in 千代田区, 東京都 https://t.co/hgTLX91mkN
+User ID : 1376873455,Tweet ID : 872632630306643968 , Lattitute : 35.31458857, Longitute : 136.28979659, Tweet Status : I'm at 米原駅 in 米原市, 滋賀県 https://t.co/gdplwa08QV
+User ID : 1376873455,Tweet ID : 872605478798471169 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : I'm at 福井駅 in 福井市, 福井県 https://t.co/wSPNeSrXWT
+User ID : 1376873455,Tweet ID : 872603126490181634 , Lattitute : 36.06172788, Longitute : 136.22381687, Tweet Status : I'm at えちぜん鉄道 福井駅 - @echizenrail in 福井市, 福井県 https://t.co/mr9lf3qX21
+User ID : 1376873455,Tweet ID : 872589696446148608 , Lattitute : 36.05609022, Longitute : 136.49199486, Tweet Status : I'm at 勝山駅 - @echizenrail in 勝山市, 福井県 https://t.co/esZVQbOsO4

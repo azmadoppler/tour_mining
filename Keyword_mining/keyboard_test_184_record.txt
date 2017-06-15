@@ -1,0 +1,3 @@
+User ID : 129211944,Tweet ID : 874446809804021760 , Lattitute : 35.6296015, Longitute : 139.74029711, Tweet Status : I'm at 東海道新幹線 品川駅 in 港区, 東京都 https://t.co/KVD803MkwJ
+User ID : 129211944,Tweet ID : 873715428912242688 , Lattitute : 35.23348697, Longitute : 139.10382444, Tweet Status : I'm at 箱根湯本駅 in 箱根町, 神奈川県 https://t.co/zQ78DWgIhm
+User ID : 129211944,Tweet ID : 871909794466189316 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/znNBdtEiM2

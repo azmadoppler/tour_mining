@@ -1,0 +1,14 @@
+User ID : 2356692602,Tweet ID : 873700508359417856 , Lattitute : 42.78760624, Longitute : 141.68110371, Tweet Status : I'm at 新千歳空港 in 千歳市, 北海道 https://t.co/q9Eqq8R4X6
+User ID : 2356692602,Tweet ID : 873417311407026177 , Lattitute : 43.19875584, Longitute : 141.00253275, Tweet Status : I'm at 小樽運河 in 小樽市, 北海道 https://t.co/EcnzqafJzJ
+User ID : 2356692602,Tweet ID : 873364320440201219 , Lattitute : 43.19766785, Longitute : 140.99368572, Tweet Status : I'm at 小樽駅 in 小樽市, 北海道 https://t.co/RvWZa46ghD
+User ID : 2356692602,Tweet ID : 873348349742723072 , Lattitute : 43.06859058, Longitute : 141.35055721, Tweet Status : I'm at 札幌駅 in 札幌市, 北海道 https://t.co/NnJfDE9AiW
+User ID : 2356692602,Tweet ID : 873171883918864384 , Lattitute : 43.20406532, Longitute : 141.75988555, Tweet Status : I'm at 岩見沢駅 in 岩見沢市, 北海道 https://t.co/r8EcAq6A2s
+User ID : 2356692602,Tweet ID : 873112774439600129 , Lattitute : 45.01448287, Longitute : 141.84572697, Tweet Status : I'm at 幌延駅 in 幌延町, 北海道 https://t.co/S0nuqbPvcd
+User ID : 2356692602,Tweet ID : 873060480025153537 , Lattitute : 45.37765044, Longitute : 141.46171537, Tweet Status : I'm at 海の上  鴛泊_稚内 https://t.co/JWESlk9hd6
+User ID : 2356692602,Tweet ID : 873060216304054272 , Lattitute : 45.260175, Longitute : 141.271184, Tweet Status : I'm at 阪神タイガースこの辺に眠れ https://t.co/idU94GgU1L
+User ID : 2356692602,Tweet ID : 872727038473515008 , Lattitute : 45.24146053, Longitute : 141.22830391, Tweet Status : I'm at 鴛泊港フェリーターミナル in 利尻富士町, 北海道 https://t.co/rOPqEZ6nBv
+User ID : 2356692602,Tweet ID : 872654567812603904 , Lattitute : 45.2984447, Longitute : 141.04634761, Tweet Status : I'm at 香深港フェリーターミナル in 礼文郡礼文町, 北海道 https://t.co/6wkbETo8Rg
+User ID : 2356692602,Tweet ID : 872276981840269313 , Lattitute : 45.52251437, Longitute : 141.93662858, Tweet Status : I'm at 宗谷岬 in 稚内市, 北海道 https://t.co/jdniLpY41S
+User ID : 2356692602,Tweet ID : 872272847670042624 , Lattitute : 45.52221175, Longitute : 141.93741036, Tweet Status : I'm at 宗谷岬公園 in 稚内市, 北海道 https://t.co/tL2gfkdjTr
+User ID : 2356692602,Tweet ID : 872015159715409920 , Lattitute : 45.41699439, Longitute : 141.67702004, Tweet Status : 日本最北端の駅！ (@ 稚内駅 (W80) in 稚内市, 北海道) https://t.co/rhNQ75wszZ
+User ID : 2356692602,Tweet ID : 872002998108606464 , Lattitute : 45.39961876, Longitute : 141.79744774, Tweet Status : I'm at 稚内空港 in 稚内市, 北海道 https://t.co/KXADFWqk5T

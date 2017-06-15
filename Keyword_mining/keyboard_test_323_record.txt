@@ -1,0 +1,20 @@
+User ID : 17211224,Tweet ID : 873796882799239168 , Lattitute : 35.61005155, Longitute : 139.57346678, Tweet Status : I'm at 藤子・F・不二雄ミュージアム - @fujikomuseum in 川崎市, 神奈川県 https://t.co/JBW5gMLMe2
+User ID : 17211224,Tweet ID : 873728524493914112 , Lattitute : 35.56040842, Longitute : 139.487338, Tweet Status : I'm at こどもの国 - @kodomo_no_kuni in あおばく, 神奈川県, 神奈川県 https://t.co/hSGBUcdb4z
+User ID : 17211224,Tweet ID : 873721873560895496 , Lattitute : 35.5588219, Longitute : 139.48348777, Tweet Status : I'm at パナデリア シエスタ in 横浜市, 神奈川県 https://t.co/RnuURYyWR7
+User ID : 17211224,Tweet ID : 873547700205125633 , Lattitute : 35.672868, Longitute : 139.763171, Tweet Status : I'm at 丸ノ内線 銀座駅 in 中央区, 東京都 https://t.co/QcX4Gq2GiM
+User ID : 17211224,Tweet ID : 873521205067776001 , Lattitute : 35.67419745, Longitute : 139.76204753, Tweet Status : I'm at 大衆酒場 新日の基 in 千代田区, 東京都 https://t.co/jPqA60fM8b
+User ID : 17211224,Tweet ID : 873403000181727232 , Lattitute : 35.56883087, Longitute : 139.47005118, Tweet Status : I'm at 玉川大学 グリーンヒル食堂 in 町田市, 東京都 https://t.co/zoK7sgPPUg
+User ID : 17211224,Tweet ID : 873402801384239105 , Lattitute : 35.56569074, Longitute : 139.46437944, Tweet Status : I'm at 玉川大学 教育学術情報図書館 in 町田市, 東京都 https://t.co/TQ84wLwGjO
+User ID : 17211224,Tweet ID : 873328018399342594 , Lattitute : 35.56577242, Longitute : 139.46458802, Tweet Status : I'm at 玉川大学 ラーニングコモンズ in 町田市, 東京都 https://t.co/Gu5bXmMcEO
+User ID : 17211224,Tweet ID : 873110000016572416 , Lattitute : 35.67624794, Longitute : 139.77972813, Tweet Status : I'm at 内田洋行 東京 ユビキタス協創広場 CANVAS in 中央区 https://t.co/fyeliF4iQS
+User ID : 17211224,Tweet ID : 873024412995301376 , Lattitute : 35.64712642, Longitute : 140.03628548, Tweet Status : I'm at 幕張メッセ in 千葉市, 千葉県 https://t.co/KWscF1G7Kl
+User ID : 17211224,Tweet ID : 873012612803559428 , Lattitute : 35.64852715, Longitute : 140.04161096, Tweet Status : I'm at 海浜幕張駅 - @jreast_official in 千葉市, 千葉県 https://t.co/LEKnWZxFTW
+User ID : 17211224,Tweet ID : 873008001489272833 , Lattitute : 35.63632821, Longitute : 139.88354087, Tweet Status : I'm at 舞浜駅 1-2番線ホーム in 浦安市, 千葉県 https://t.co/93vdhQhbaX
+User ID : 17211224,Tweet ID : 873007628741378049 , Lattitute : 35.63616195, Longitute : 139.88362159, Tweet Status : I'm at 舞浜駅 - @jreast_official in 浦安市, 千葉県 https://t.co/jKpZG9dttm
+User ID : 17211224,Tweet ID : 872986425540714496 , Lattitute : 35.67358235, Longitute : 139.77194399, Tweet Status : I'm at 三つ橋跡 in 中央区, 東京都 https://t.co/bAI9nGZ9FP
+User ID : 17211224,Tweet ID : 872749541329653761 , Lattitute : 35.67358235, Longitute : 139.77194399, Tweet Status : I'm at 三つ橋跡 in 中央区, 東京都 https://t.co/PDTnHtsnN5
+User ID : 17211224,Tweet ID : 872260737254776832 , Lattitute : 35.67358235, Longitute : 139.77194399, Tweet Status : I'm at 三つ橋跡 in 中央区, 東京都 https://t.co/p361DAzDhF
+User ID : 17211224,Tweet ID : 871685050336727041 , Lattitute : 35.628406, Longitute : 139.73861564, Tweet Status : I'm at 品川駅 in 港区, 東京都 https://t.co/SdnnLTqXjA
+User ID : 17211224,Tweet ID : 871534195625119744 , Lattitute : 35.67358235, Longitute : 139.77194399, Tweet Status : I'm at 三つ橋跡 in 中央区, 東京都 https://t.co/JCqwZMGe90
+User ID : 17211224,Tweet ID : 871515806722600960 , Lattitute : 35.54873923, Longitute : 139.78384048, Tweet Status : I'm at 羽田空港 第1旅客ターミナル in 大田区, 東京都 https://t.co/6P1yKVaEjz
+User ID : 17211224,Tweet ID : 871515717526593536 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/26PmEyC7Af

@@ -1,0 +1,100 @@
+User ID : 83024007,Tweet ID : 874894845017563137 , Lattitute : 35.41143368, Longitute : 136.76003337, Tweet Status : I'm at 名鉄岐阜駅 in 岐阜市, 岐阜県 https://t.co/iiarI5lNPm
+User ID : 83024007,Tweet ID : 874892487961305088 , Lattitute : 35.40961512, Longitute : 136.7574016, Tweet Status : I'm at 三省堂書店 岐阜店 - @gifu_sanseido in 岐阜市, 岐阜県 https://t.co/tea6VFVjV8
+User ID : 83024007,Tweet ID : 874883474691428353 , Lattitute : 35.40950558, Longitute : 136.75651431, Tweet Status : I'm at ミスタードーナツ JRアスティ岐阜ショップ - @misterdonut_jp in 岐阜市, 岐阜県 https://t.co/Kx5v05U5ye
+User ID : 83024007,Tweet ID : 874878445507026946 , Lattitute : 35.40980003, Longitute : 136.75784089, Tweet Status : I'm at アスティ岐阜 in 岐阜市, 岐阜県 https://t.co/Hh5MW1oDr3
+User ID : 83024007,Tweet ID : 874878411243737089 , Lattitute : 35.41143368, Longitute : 136.76003337, Tweet Status : I'm at 名鉄岐阜駅 in 岐阜市, 岐阜県 https://t.co/6l2DOlelU8
+User ID : 83024007,Tweet ID : 874864373155733504 , Lattitute : 35.14284928, Longitute : 136.90124899, Tweet Status : I'm at 名鉄 金山駅 in Nagoya, 愛知県 https://t.co/gARM5bMBAD
+User ID : 83024007,Tweet ID : 874864336338071552 , Lattitute : 35.14313128, Longitute : 136.90128612, Tweet Status : I'm at 地下鉄 金山駅 in 名古屋市, 愛知県 https://t.co/TB50a1CXNz
+User ID : 83024007,Tweet ID : 874860412629639174 , Lattitute : 35.09346325, Longitute : 136.88200951, Tweet Status : I'm at 名古屋港駅 - @nagoya_kotsu in 名古屋市, 愛知県, 愛知県 https://t.co/QnCEggTaBY
+User ID : 83024007,Tweet ID : 874860364453773312 , Lattitute : 35.09176459, Longitute : 136.87759723, Tweet Status : I'm at アンダーウォータービュー https://t.co/28Mk8MGLeA
+User ID : 83024007,Tweet ID : 874834537267810306 , Lattitute : 35.09190066, Longitute : 136.87763751, Tweet Status : I'm at 名古屋港水族館スタジアム in 名古屋市, 愛知県 https://t.co/Tj50J0eIX4
+User ID : 83024007,Tweet ID : 874827429080166402 , Lattitute : 35.09188367, Longitute : 136.87879515, Tweet Status : I'm at 名古屋港水族館 in 名古屋市, 愛知県 https://t.co/taIdulN9a7 https://t.co/AYM2nmUBfk
+User ID : 83024007,Tweet ID : 874819965685297158 , Lattitute : 35.092224, Longitute : 136.87978, Tweet Status : I'm at スガキヤ 名古屋港JETTY店 in 名古屋市, 愛知県 https://t.co/yQ5ajqYaEA
+User ID : 83024007,Tweet ID : 874819900509999109 , Lattitute : 35.09211168, Longitute : 136.87970425, Tweet Status : I'm at JETTY WEST in 名古屋市, 愛知県 https://t.co/G6Iq55Q2nx
+User ID : 83024007,Tweet ID : 874816590973468673 , Lattitute : 35.09346325, Longitute : 136.88200951, Tweet Status : I'm at 名古屋港駅 - @nagoya_kotsu in 名古屋市, 愛知県, 愛知県 https://t.co/9Ap2zunxMO
+User ID : 83024007,Tweet ID : 874811916958523392 , Lattitute : 35.14313128, Longitute : 136.90128612, Tweet Status : I'm at 地下鉄 金山駅 in 名古屋市, 愛知県 https://t.co/X6pGQfMHCz
+User ID : 83024007,Tweet ID : 874811861262323712 , Lattitute : 35.14292166, Longitute : 136.90128386, Tweet Status : I'm at 金山総合駅 in 名古屋市, 愛知県 https://t.co/tKnHFRXAju
+User ID : 83024007,Tweet ID : 874811810427396097 , Lattitute : 35.14284928, Longitute : 136.90124899, Tweet Status : I'm at 名鉄 金山駅 in Nagoya, 愛知県 https://t.co/IHnMeLR8eD
+User ID : 83024007,Tweet ID : 874808280467603456 , Lattitute : 35.169548, Longitute : 136.88416, Tweet Status : I'm at 名鉄名古屋駅 サービスセンター in 名古屋市, 愛知県 https://t.co/pXiBMKAglw
+User ID : 83024007,Tweet ID : 874808154114203648 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/lc4MeKqQug
+User ID : 83024007,Tweet ID : 874791873453461504 , Lattitute : 34.89031618, Longitute : 136.83566456, Tweet Status : I'm at 常滑駅 in 常滑市, 愛知県 https://t.co/TGAmRFHsi9
+User ID : 83024007,Tweet ID : 874782272460902400 , Lattitute : 34.894613, Longitute : 136.854268, Tweet Status : I'm at なの花薬局常滑市民病院前店 https://t.co/D2mfat1ymh
+User ID : 83024007,Tweet ID : 874780967893958658 , Lattitute : 34.89553742, Longitute : 136.85360237, Tweet Status : I'm at 新常滑市民病院 in 常滑市, 愛知県 https://t.co/rk2nGCYLAR
+User ID : 83024007,Tweet ID : 874752713627664384 , Lattitute : 34.889552, Longitute : 136.835283, Tweet Status : I'm at 常滑駅 バス停 in 常滑市, 愛知県 https://t.co/vKMTO8zb7y
+User ID : 83024007,Tweet ID : 874752398241275905 , Lattitute : 34.89031618, Longitute : 136.83566456, Tweet Status : I'm at 常滑駅 in 常滑市, 愛知県 https://t.co/5kx5XW2k0Y
+User ID : 83024007,Tweet ID : 874750166405873664 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/3H0Y031Wx3
+User ID : 83024007,Tweet ID : 874567865692815360 , Lattitute : 34.93551718, Longitute : 136.82749629, Tweet Status : I'm at 大野町駅 in 常滑市, 愛知県 https://t.co/14pzOESrNf
+User ID : 83024007,Tweet ID : 874562165738528769 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/CMH6s8hp3e
+User ID : 83024007,Tweet ID : 874540296993898496 , Lattitute : 35.41143368, Longitute : 136.76003337, Tweet Status : I'm at 名鉄岐阜駅 in 岐阜市, 岐阜県 https://t.co/2XLC662SPA
+User ID : 83024007,Tweet ID : 874534081081561088 , Lattitute : 35.30211682, Longitute : 136.79730258, Tweet Status : I'm at 名鉄一宮駅 in 一宮市, 愛知県 https://t.co/GvpSlO57uL
+User ID : 83024007,Tweet ID : 874500850542104577 , Lattitute : 35.3027452, Longitute : 136.79774694, Tweet Status : I'm at 一宮市立中央図書館 in 一宮市, 愛知県 https://t.co/egbrVgPCEa
+User ID : 83024007,Tweet ID : 874485505198522370 , Lattitute : 35.30203167, Longitute : 136.79699421, Tweet Status : I'm at ロッテリア 名鉄一宮駅店 - @lotteria_pr in 一宮市, 愛知県 https://t.co/RB5ZFFsIsu
+User ID : 83024007,Tweet ID : 874480439351795713 , Lattitute : 35.3025715, Longitute : 136.79696222, Tweet Status : I'm at 大阪王将  名鉄一宮駅店 in 一宮市 https://t.co/ow1EpnYPzI
+User ID : 83024007,Tweet ID : 874480314453823489 , Lattitute : 35.30211682, Longitute : 136.79730258, Tweet Status : I'm at 名鉄一宮駅 in 一宮市, 愛知県 https://t.co/nntPoxQuQ6
+User ID : 83024007,Tweet ID : 874473849945026561 , Lattitute : 35.2538419, Longitute : 136.80297554, Tweet Status : I'm at 国府宮駅 in 稲沢市, 愛知県 https://t.co/TebDv9WOQ2
+User ID : 83024007,Tweet ID : 874466953615880197 , Lattitute : 35.41143368, Longitute : 136.76003337, Tweet Status : I'm at 名鉄岐阜駅 in 岐阜市, 岐阜県 https://t.co/rCGPWToqh8
+User ID : 83024007,Tweet ID : 874458768100274176 , Lattitute : 35.40896998, Longitute : 136.76339082, Tweet Status : I'm at コメダ珈琲店 岐阜駅東店 in 岐阜市, 岐阜県 https://t.co/aliegN1HAt
+User ID : 83024007,Tweet ID : 874437156441395201 , Lattitute : 35.41143368, Longitute : 136.76003337, Tweet Status : I'm at 名鉄岐阜駅 in 岐阜市, 岐阜県 https://t.co/CkpEnczCSp
+User ID : 83024007,Tweet ID : 874401693374480384 , Lattitute : 34.86026146, Longitute : 136.81532131, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/FzAxvpoXyN
+User ID : 83024007,Tweet ID : 874394191194882049 , Lattitute : 34.85922511, Longitute : 136.81612524, Tweet Status : I'm at セントレア動く歩道 in 常滑市, 愛知県 https://t.co/Kfff0CwphE
+User ID : 83024007,Tweet ID : 874394137428193284 , Lattitute : 34.85933067, Longitute : 136.8163383, Tweet Status : I'm at アクセスプラザ in 常滑市, 愛知県 https://t.co/heLO5pG40k
+User ID : 83024007,Tweet ID : 874394081010626561 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/TbGcpN1PP4
+User ID : 83024007,Tweet ID : 874202969306267649 , Lattitute : 34.87953692, Longitute : 136.82810247, Tweet Status : I'm at りんくう常滑駅 in 常滑市, 愛知県 https://t.co/FivhUt4vvz
+User ID : 83024007,Tweet ID : 874190581014114304 , Lattitute : 34.88210227, Longitute : 136.82648756, Tweet Status : I'm at イオンモール常滑 - @aeon_japan in 常滑市, 愛知県 https://t.co/nMmF95oiNq
+User ID : 83024007,Tweet ID : 874189639330009088 , Lattitute : 34.87953692, Longitute : 136.82810247, Tweet Status : I'm at りんくう常滑駅 in 常滑市, 愛知県 https://t.co/lVJsf10EHL
+User ID : 83024007,Tweet ID : 874183750992703488 , Lattitute : 34.889552, Longitute : 136.835283, Tweet Status : I'm at 常滑駅 バス停 in 常滑市, 愛知県 https://t.co/DJLrSz3Sws
+User ID : 83024007,Tweet ID : 874183287174029312 , Lattitute : 34.89031618, Longitute : 136.83566456, Tweet Status : I'm at 常滑駅 in 常滑市, 愛知県 https://t.co/7fITXwXQIg
+User ID : 83024007,Tweet ID : 874171321848139776 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/BldvKyvSQX
+User ID : 83024007,Tweet ID : 874170160491450368 , Lattitute : 35.16916236, Longitute : 136.88429207, Tweet Status : I'm at 近鉄パッセ - @passe_kintetsu in 名古屋市, 愛知県 https://t.co/hQtrJZo6Yf
+User ID : 83024007,Tweet ID : 874166793178419201 , Lattitute : 35.16856359, Longitute : 136.88362496, Tweet Status : I'm at 名鉄バスセンター in 名古屋市, 愛知県 https://t.co/DTo9W4o1Bs
+User ID : 83024007,Tweet ID : 874166739256455168 , Lattitute : 35.1687352, Longitute : 136.88378123, Tweet Status : I'm at ドトールコーヒーショップ 名鉄百貨店店 in 名古屋市, 愛知県 https://t.co/qX3M3Vaj4s
+User ID : 83024007,Tweet ID : 874166647501860864 , Lattitute : 35.16963998, Longitute : 136.88438262, Tweet Status : I'm at 名鉄百貨店 本店 in Nagoya, 愛知県 https://t.co/4ULEufgVnr
+User ID : 83024007,Tweet ID : 874166451225194497 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/UwweQ26bBz
+User ID : 83024007,Tweet ID : 874146866522447872 , Lattitute : 34.79415561, Longitute : 137.07077899, Tweet Status : I'm at 吉良吉田駅 in 西尾市, 愛知県 https://t.co/kSnh50dIst
+User ID : 83024007,Tweet ID : 874136752377778177 , Lattitute : 34.82288451, Longitute : 137.22596055, Tweet Status : I'm at 名鉄 蒲郡駅 in 蒲郡市, 愛知県 https://t.co/Z94YWOIAnG
+User ID : 83024007,Tweet ID : 874134956477480963 , Lattitute : 34.82259813, Longitute : 137.22393751, Tweet Status : I'm at セブンイレブン 蒲郡港町店 - @711sej in 蒲郡市, 愛知県 https://t.co/GfjTDvUVoE
+User ID : 83024007,Tweet ID : 874129601546657793 , Lattitute : 34.82023987, Longitute : 137.22527407, Tweet Status : I'm at 生命の海科学館 in 蒲郡市, 愛知県 https://t.co/Qs9x981xY5
+User ID : 83024007,Tweet ID : 874120445708185601 , Lattitute : 34.81496823, Longitute : 137.23491311, Tweet Status : I'm at 海辺の文学記念館 in 蒲郡市, 愛知県 https://t.co/RCmU0HTeVM https://t.co/69MoF5s5PT
+User ID : 83024007,Tweet ID : 874117691161944065 , Lattitute : 34.81121545, Longitute : 137.23178643, Tweet Status : I'm at 八百富神社 in 蒲郡市, 愛知県 https://t.co/hJVyfHbOPq
+User ID : 83024007,Tweet ID : 874117592646115328 , Lattitute : 34.8150901, Longitute : 137.23337889, Tweet Status : I'm at 竹島 in 蒲郡市, 愛知県 https://t.co/yne2rqJKrY
+User ID : 83024007,Tweet ID : 874117541085536256 , Lattitute : 34.81466883, Longitute : 137.23367927, Tweet Status : I'm at 竹島橋 in 蒲郡市, 愛知県 https://t.co/MJoio2VeZu
+User ID : 83024007,Tweet ID : 874112495090356225 , Lattitute : 34.81713286, Longitute : 137.23213434, Tweet Status : I'm at 竹島水族館 in 蒲郡市, 愛知県 https://t.co/BwbtZTBrIX
+User ID : 83024007,Tweet ID : 874104063444561920 , Lattitute : 34.821515, Longitute : 137.22524, Tweet Status : I'm at 鞍馬 アピタ蒲郡店 in 蒲郡市, 愛知県 https://t.co/rcKnUqv1Qb
+User ID : 83024007,Tweet ID : 874103568919388161 , Lattitute : 34.82092089, Longitute : 137.22560301, Tweet Status : I'm at アピタ 蒲郡店 in 蒲郡市, 愛知県 https://t.co/bKkvUC1rLH
+User ID : 83024007,Tweet ID : 874099580652146694 , Lattitute : 34.82291521, Longitute : 137.22615838, Tweet Status : I'm at 蒲郡駅 in 蒲郡市, 愛知県 https://t.co/lIsPm2r7Xq
+User ID : 83024007,Tweet ID : 874099525048303617 , Lattitute : 34.82288451, Longitute : 137.22596055, Tweet Status : I'm at 名鉄 蒲郡駅 in 蒲郡市, 愛知県 https://t.co/oFxL37Ygbi
+User ID : 83024007,Tweet ID : 874095674224193537 , Lattitute : 34.78984953, Longitute : 137.17862964, Tweet Status : I'm at 西浦駅 in 蒲郡市, 愛知県 https://t.co/RLmM9TlQle
+User ID : 83024007,Tweet ID : 874090566384050177 , Lattitute : 34.79415561, Longitute : 137.07077899, Tweet Status : I'm at 吉良吉田駅 in 西尾市, 愛知県 https://t.co/iNSX7iyUEF
+User ID : 83024007,Tweet ID : 874084405232496640 , Lattitute : 34.86388202, Longitute : 137.05786049, Tweet Status : I'm at 西尾駅 in 西尾市, 愛知県 https://t.co/1Uarnh9cKq
+User ID : 83024007,Tweet ID : 874077226370772992 , Lattitute : 34.98704242, Longitute : 137.08521366, Tweet Status : I'm at 新安城駅 in 安城市, 愛知県 https://t.co/wAdGo7Ofci
+User ID : 83024007,Tweet ID : 874072536291700737 , Lattitute : 35.07855809, Longitute : 136.95046103, Tweet Status : I'm at 鳴海駅 in 名古屋市, 愛知県 https://t.co/ZcCDj794ma
+User ID : 83024007,Tweet ID : 874068025065996288 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/EWkkG9ooxg
+User ID : 83024007,Tweet ID : 874030306369703937 , Lattitute : 34.85900934, Longitute : 136.81487207, Tweet Status : I'm at Cafe De Crie Plus セントレア店 in 常滑市, 愛知県 https://t.co/AXRzRafHiB
+User ID : 83024007,Tweet ID : 874027937569394688 , Lattitute : 34.85851642, Longitute : 136.81221923, Tweet Status : I'm at センターピアガーデン in Tokoname, Aichi https://t.co/OJTikuOsjf
+User ID : 83024007,Tweet ID : 874027808674152451 , Lattitute : 34.86026146, Longitute : 136.81532131, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/p9HAKZvTtH
+User ID : 83024007,Tweet ID : 874027728093290496 , Lattitute : 34.85922511, Longitute : 136.81612524, Tweet Status : I'm at セントレア動く歩道 in 常滑市, 愛知県 https://t.co/feWdtqn4R7
+User ID : 83024007,Tweet ID : 874027680093614081 , Lattitute : 34.85933067, Longitute : 136.8163383, Tweet Status : I'm at アクセスプラザ in 常滑市, 愛知県 https://t.co/QbZpTGtXUb
+User ID : 83024007,Tweet ID : 874027617460125696 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/ZoqwlOVjbY
+User ID : 83024007,Tweet ID : 873807577477513216 , Lattitute : 34.90552, Longitute : 136.830569, Tweet Status : I'm at ファミリーマート 常滑榎戸店 - @famima_now in 常滑市, 愛知県 https://t.co/Y4u0UwAOgY
+User ID : 83024007,Tweet ID : 873803270908719104 , Lattitute : 34.90293229, Longitute : 136.83784962, Tweet Status : I'm at クリーニングさかえ in 常滑市, 愛知県 https://t.co/tFysod5Wlk
+User ID : 83024007,Tweet ID : 873802609186009088 , Lattitute : 34.90265266, Longitute : 136.83815777, Tweet Status : I'm at ベイシア フードセンター 常滑店 in 常滑市, 愛知県 https://t.co/tBY3g1f7n7
+User ID : 83024007,Tweet ID : 873802562385973249 , Lattitute : 34.90293255, Longitute : 136.83817196, Tweet Status : I'm at カインズモール常滑 in 常滑市, 愛知県 https://t.co/tiIkkINkIu
+User ID : 83024007,Tweet ID : 873801538111668225 , Lattitute : 34.90243342, Longitute : 136.83827132, Tweet Status : I'm at カインズホーム 常滑店 in 常滑市, 愛知県 https://t.co/CDFdFe8qr3
+User ID : 83024007,Tweet ID : 873791108391866368 , Lattitute : 34.89012001, Longitute : 136.84895396, Tweet Status : I'm at Cafe &amp; Rest ユニーク ピアゴ常滑店 in 常滑市, 愛知県 https://t.co/R7PBZ8SffP
+User ID : 83024007,Tweet ID : 873783081081155584 , Lattitute : 34.89017281, Longitute : 136.84881449, Tweet Status : I'm at ピアゴ 常滑店 in 常滑市, 愛知県 https://t.co/1BanhlWXMp
+User ID : 83024007,Tweet ID : 873442021884735489 , Lattitute : 34.89925864, Longitute : 136.83975935, Tweet Status : I'm at コメダ珈琲店 155号常滑店 in 常滑市, 愛知県 https://t.co/J8YsHlFCcS https://t.co/NrzdMG7bhW
+User ID : 83024007,Tweet ID : 872756885195284484 , Lattitute : 34.93551718, Longitute : 136.82749629, Tweet Status : I'm at 大野町駅 in 常滑市, 愛知県 https://t.co/3CnO1h9AZ2
+User ID : 83024007,Tweet ID : 872734735956680705 , Lattitute : 34.85950234, Longitute : 136.81609154, Tweet Status : I'm at FamilyMart Estació セントレアホテルプラザ店 in 常滑市, 愛知県 https://t.co/XJW6xqp8XO
+User ID : 83024007,Tweet ID : 872661986622021632 , Lattitute : 34.86026146, Longitute : 136.81532131, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/RNKHu4io3w
+User ID : 83024007,Tweet ID : 872661932347711495 , Lattitute : 34.85922511, Longitute : 136.81612524, Tweet Status : I'm at セントレア動く歩道 in 常滑市, 愛知県 https://t.co/3cY7L9XSmS
+User ID : 83024007,Tweet ID : 872661890698276865 , Lattitute : 34.85933067, Longitute : 136.8163383, Tweet Status : I'm at アクセスプラザ in 常滑市, 愛知県 https://t.co/BNmelt9nqF
+User ID : 83024007,Tweet ID : 872661844225339394 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/CBsfqLKoru
+User ID : 83024007,Tweet ID : 872648042582769666 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/vow3KLXVxc
+User ID : 83024007,Tweet ID : 872644861534633985 , Lattitute : 35.173533, Longitute : 136.90795625, Tweet Status : I'm at 久屋大通駅 (S05/M06) - @nagoya_kotsu in 名古屋市, 愛知県 https://t.co/T7fcjqwfQX
+User ID : 83024007,Tweet ID : 872636929766043648 , Lattitute : 35.13695554, Longitute : 136.96446014, Tweet Status : I'm at 八事駅 (T15/M20) in 名古屋市, 愛知県 https://t.co/pmjXuAQ45H
+User ID : 83024007,Tweet ID : 872630540393906177 , Lattitute : 35.13711732, Longitute : 136.96335506, Tweet Status : I'm at イオン 八事店 - @aeon_japan in 名古屋市, 愛知県 https://t.co/sElNe6Umjw
+User ID : 83024007,Tweet ID : 872621482601566208 , Lattitute : 35.13807722, Longitute : 136.9658024, Tweet Status : I'm at 中京大学 センタービル in Nagoya-shi, Aichi https://t.co/u1b1Idh6Pe
+User ID : 83024007,Tweet ID : 872615646210785285 , Lattitute : 35.13695554, Longitute : 136.96446014, Tweet Status : I'm at 八事駅 (T15/M20) in 名古屋市, 愛知県 https://t.co/1Tjt1NkjgL
+User ID : 83024007,Tweet ID : 872612147708272642 , Lattitute : 35.16368518, Longitute : 136.96369654, Tweet Status : I'm at 本山駅 in 名古屋市, 愛知県 https://t.co/gkIzq85iRL
+User ID : 83024007,Tweet ID : 872605778867347456 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/2Vgg0gpz9m
+User ID : 83024007,Tweet ID : 872579494560792582 , Lattitute : 34.86026146, Longitute : 136.81532131, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/S8s0UqPVo4

@@ -1,0 +1,5 @@
+User ID : 58783718 , Lattitute : 13.74443817, Longitute : 100.54125465
+User ID : 58783718 , Lattitute : 13.72429192, Longitute : 100.5786262
+User ID : 58783718 , Lattitute : 35.77380365, Longitute : 140.3875063
+User ID : 58783718 , Lattitute : 35.688695, Longitute : 139.700602
+User ID : 58783718 , Lattitute : 35.67083854, Longitute : 138.57166149

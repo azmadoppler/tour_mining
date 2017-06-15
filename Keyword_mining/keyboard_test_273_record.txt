@@ -1,0 +1,5 @@
+User ID : 3591321492,Tweet ID : 873760222673862656 , Lattitute : 35.66119117, Longitute : 139.74674903, Tweet Status : I'm at 芝中学校・芝高等学校 in 港区, 東京都 https://t.co/leyD2oOWT7
+User ID : 3591321492,Tweet ID : 873740001934290944 , Lattitute : 35.62867164, Longitute : 139.73853581, Tweet Status : I'm at 品川駅 in 港区, 東京都 https://t.co/Pb0BRvdoH2
+User ID : 3591321492,Tweet ID : 872777429718372352 , Lattitute : 35.54462037, Longitute : 139.76894938, Tweet Status : I'm at 入国審査場 in Ōta, Tōkyō-to https://t.co/cMpJfFGOxT
+User ID : 3591321492,Tweet ID : 871720738633416705 , Lattitute : 22.99721668, Longitute : 120.21083301, Tweet Status : I'm at 台南大飯店 Hotel Tainan in Tainan, Taiwan https://t.co/3hzNsFj8YF
+User ID : 3591321492,Tweet ID : 871608304224677888 , Lattitute : 25.06367859, Longitute : 121.5520276, Tweet Status : I'm at 台北松山空港 in 臺北市, T’ai-pei Shih https://t.co/ac6dQeHt37

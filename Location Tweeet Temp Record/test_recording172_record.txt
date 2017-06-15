@@ -1,0 +1,3 @@
+User ID : 423748196 , Lattitute : 35.65852915, Longitute : 139.74557
+User ID : 423748196 , Lattitute : 35.89531664, Longitute : 139.93971165
+User ID : 423748196 , Lattitute : 35.66530396, Longitute : 139.72579985

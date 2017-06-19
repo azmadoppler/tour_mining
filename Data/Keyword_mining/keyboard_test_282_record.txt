@@ -1,0 +1,9 @@
+User ID : 113041388,Tweet ID : 875189856175095808 , Lattitute : 41.81486191, Longitute : 140.75431309, Tweet Status : I'm at CoCo壱番屋 函館美原店 in 函館市, 北海道 https://t.co/GcFdA0K1dW
+User ID : 113041388,Tweet ID : 875157426277928960 , Lattitute : 42.57756025, Longitute : 140.72237492, Tweet Status : I'm at 道の駅 とようら in 豊浦町, 北海道 https://t.co/zLFjjNw7Xd
+User ID : 113041388,Tweet ID : 872080073398128640 , Lattitute : 42.78760624, Longitute : 141.68110371, Tweet Status : ただいま (@ 新千歳空港 in 千歳市, 北海道) https://t.co/ZOdlElrPr7
+User ID : 113041388,Tweet ID : 872047098757296128 , Lattitute : 35.55106553, Longitute : 139.78863358, Tweet Status : I'm at 羽田空港 第2旅客ターミナル in 大田区, 東京都 https://t.co/XgdpUj0ovR
+User ID : 113041388,Tweet ID : 872014197487521793 , Lattitute : 35.5265858, Longitute : 134.16769445, Tweet Status : 帰るよ (@ 鳥取空港 / 鳥取砂丘コナン空港 in 鳥取市, 鳥取県) https://t.co/6cyhP0A78B
+User ID : 113041388,Tweet ID : 871939354847055872 , Lattitute : 35.51482703, Longitute : 134.18979974, Tweet Status : I'm at 上海茶楼 湖山店 in 鳥取市, 鳥取県,日本 https://t.co/6Qd4s5cKxt
+User ID : 113041388,Tweet ID : 871681265770147840 , Lattitute : 35.49748205, Longitute : 134.22976111, Tweet Status : I'm at あいうえお in 鳥取市 https://t.co/YCZNHWECTO
+User ID : 113041388,Tweet ID : 871679833708875776 , Lattitute : 35.4980885, Longitute : 134.23147848, Tweet Status : I'm at 鳥取シティホテル in 鳥取市, 鳥取県 https://t.co/O0u9kocm9g
+User ID : 113041388,Tweet ID : 871615456452509696 , Lattitute : 35.51521673, Longitute : 134.19011479, Tweet Status : I'm at 日本海自動車学校 https://t.co/IGjVKyDYDw

@@ -1,6 +1,0 @@
-User ID : 3123358392,Tweet ID : 874543632858087424 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @797oka https://t.co/MHL6YzU90a
-User ID : 3123358392,Tweet ID : 874538054240829440 , Lattitute : 35.4660169, Longitute : 139.62270916, Tweet Status : I'm at 横浜駅 in 横浜市, 神奈川県 https://t.co/hMYfh0i2iK
-User ID : 3123358392,Tweet ID : 873321179477671936 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/lEEW1r3H7h
-User ID : 3123358392,Tweet ID : 873314256434982916 , Lattitute : 35.46578478, Longitute : 139.62200204, Tweet Status : I'm at 横浜駅 in 横浜市, 神奈川県 w/ @ttk0720 https://t.co/DlnNsfsxZM
-User ID : 3123358392,Tweet ID : 872075801201696769 , Lattitute : 35.55023897, Longitute : 139.78669866, Tweet Status : I'm at 羽田空港国内線ターミナル駅 in 大田区, 東京都 https://t.co/CdRhXtlSEs
-User ID : 3123358392,Tweet ID : 872016866813902849 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/hBbGKmgGeC

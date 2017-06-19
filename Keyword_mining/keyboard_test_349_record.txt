@@ -1,8 +1,0 @@
-User ID : 243133199,Tweet ID : 873846339439865857 , Lattitute : 35.67996388, Longitute : 139.76857997, Tweet Status : I'm at 東京ラーメンストリート in 千代田区, 東京都 https://t.co/y5y6jpihVI
-User ID : 243133199,Tweet ID : 873755542690426881 , Lattitute : 35.645262, Longitute : 140.030936, Tweet Status : I'm at ZOZOマリンスタジアム in 千葉市, 千葉県 https://t.co/g1Vr5g8LRA
-User ID : 243133199,Tweet ID : 873375122442334208 , Lattitute : 35.645262, Longitute : 140.030936, Tweet Status : I'm at ZOZOマリンスタジアム in 千葉市, 千葉県 https://t.co/F8d6ETOHID
-User ID : 243133199,Tweet ID : 873100545233371136 , Lattitute : 35.645262, Longitute : 140.030936, Tweet Status : I'm at ZOZOマリンスタジアム in 千葉市, 千葉県 https://t.co/4VbEC9aCGp
-User ID : 243133199,Tweet ID : 873064638199382016 , Lattitute : 35.62976639, Longitute : 139.79408383, Tweet Status : I'm at 東京ビッグサイト (東京国際展示場) - @t_bigsight in 江東区, 東京都 https://t.co/BbEFDcs5g7
-User ID : 243133199,Tweet ID : 872398983016198144 , Lattitute : 35.645262, Longitute : 140.030936, Tweet Status : I'm at ZOZOマリンスタジアム in 千葉市, 千葉県 https://t.co/xNfF3VmzoX
-User ID : 243133199,Tweet ID : 872036963527905280 , Lattitute : 35.645262, Longitute : 140.030936, Tweet Status : I'm at ZOZOマリンスタジアム in 千葉市, 千葉県 https://t.co/Z0199yaDyZ
-User ID : 243133199,Tweet ID : 871447076923682816 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/TZ9tftXYIC

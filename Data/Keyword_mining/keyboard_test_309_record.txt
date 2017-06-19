@@ -1,0 +1,15 @@
+User ID : 384901426,Tweet ID : 875181942634942465 , Lattitute : 39.29334145, Longitute : 140.54620743, Tweet Status : I'm at 秋田ふるさと村 - @nobu_akifuru in 横手市, 秋田県 https://t.co/J94vxchLhm
+User ID : 384901426,Tweet ID : 873411347429687296 , Lattitute : 40.77902222, Longitute : 140.2103734, Tweet Status : I'm at 海の駅 わんど in 西津軽郡, 青森県 https://t.co/io3S5XW17K
+User ID : 384901426,Tweet ID : 873368653324058624 , Lattitute : 40.81060406, Longitute : 140.44329629, Tweet Status : I'm at 立佞武多の館 in 五所川原市, 青森県 https://t.co/qrccqXc2CZ
+User ID : 384901426,Tweet ID : 873349467088572416 , Lattitute : 40.75214991, Longitute : 140.37732482, Tweet Status : I'm at 鶴の舞橋 in 鶴田町, 青森県 https://t.co/OhzTCMbqAe
+User ID : 384901426,Tweet ID : 873347346616242179 , Lattitute : 40.7515796, Longitute : 140.3741021, Tweet Status : I'm at つがる富士見湖パーク in Tsuruta Machi, 青森県 https://t.co/cXo7CRbR2k
+User ID : 384901426,Tweet ID : 873332879408943105 , Lattitute : 40.73655949, Longitute : 140.44204116, Tweet Status : I'm at 道の駅 つるた 鶴の里 あるじゃ in 北津軽郡, 青森県 https://t.co/Dre2BN7cMb
+User ID : 384901426,Tweet ID : 873317422874468353 , Lattitute : 40.60984754, Longitute : 140.49846411, Tweet Status : I'm at ガスト 弘前城東店 in 弘前市, 青森県 https://t.co/exhpJpbVFz
+User ID : 384901426,Tweet ID : 873085941904097280 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ci7qR4FZz0
+User ID : 384901426,Tweet ID : 873028776661204993 , Lattitute : 35.69841254, Longitute : 139.77322769, Tweet Status : I'm at 秋葉原駅 in 千代田区, 東京都 https://t.co/y2lYq5mVHx
+User ID : 384901426,Tweet ID : 872998142026887169 , Lattitute : 35.99882342, Longitute : 139.56400394, Tweet Status : I'm at 桶川駅 - @jreast_official in 桶川市, 埼玉県 https://t.co/Wu121cgsiv
+User ID : 384901426,Tweet ID : 872982978510675968 , Lattitute : 35.72989024, Longitute : 139.71104526, Tweet Status : I'm at 池袋駅 in 豊島区, 東京都 https://t.co/AOe3PikGE9
+User ID : 384901426,Tweet ID : 872760121272696832 , Lattitute : 35.66124105, Longitute : 139.7022436, Tweet Status : I'm at もんごろーや - @mongoroya in 渋谷区, 東京都 w/ @gonganao https://t.co/JSF7lobuVd
+User ID : 384901426,Tweet ID : 872295186747019264 , Lattitute : 35.58930621, Longitute : 139.57752647, Tweet Status : I'm at 丸源ラーメン 宮前平店 in 川崎市, 神奈川県 https://t.co/ojfDyvxfD0
+User ID : 384901426,Tweet ID : 872000006940753920 , Lattitute : 35.59980648, Longitute : 139.61058984, Tweet Status : I'm at 溝の口駅 in 川崎市, 神奈川県 https://t.co/ndiWDb7t4d
+User ID : 384901426,Tweet ID : 871552074428944384 , Lattitute : 35.56147218, Longitute : 139.72444724, Tweet Status : I'm at 京急蒲田駅 - @keikyu_official in 大田区, Tōkyō-to https://t.co/70Zmp36JWk

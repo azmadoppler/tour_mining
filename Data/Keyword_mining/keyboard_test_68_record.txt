@@ -1,0 +1,7 @@
+User ID : 487547668,Tweet ID : 875098002179985408 , Lattitute : 35.68386618, Longitute : 139.76932877, Tweet Status : I'm at 東京駅日本橋口バスターミナル in 千代田区, 東京都 https://t.co/SWdsRAijdn
+User ID : 487547668,Tweet ID : 874978008427360257 , Lattitute : 34.70342359, Longitute : 135.49490783, Tweet Status : I'm at 大阪駅JR高速バスターミナル in 大阪市, 大阪府 https://t.co/oAEzpIDQx4
+User ID : 487547668,Tweet ID : 874924089449885697 , Lattitute : 34.66500032, Longitute : 135.50332154, Tweet Status : I'm at なんばグランド花月 - @namba_g_kagetsu in 大阪市, 大阪府 https://t.co/RY2PqFYLMk
+User ID : 487547668,Tweet ID : 874825959425413122 , Lattitute : 34.44089238, Longitute : 135.25769667, Tweet Status : I'm at 関空展望ホール スカイビュー in 泉佐野市, 大阪府 https://t.co/RZWoSoJ8xU
+User ID : 487547668,Tweet ID : 874816145806807040 , Lattitute : 34.4350853, Longitute : 135.24370089, Tweet Status : I'm at 関西国際空港 - @kankun_sorayan in 泉佐野市, 大阪府 https://t.co/LpW2q28gCU
+User ID : 487547668,Tweet ID : 874768779171028992 , Lattitute : 35.77807157, Longitute : 140.38433918, Tweet Status : I'm at 成田空港 第3ターミナル in 成田市, 千葉県 https://t.co/7Hra4ICNu3
+User ID : 487547668,Tweet ID : 872322454731063296 , Lattitute : 40.07645086, Longitute : 116.60638876, Tweet Status : I'm at Air China Business Class Lounge in Beijing https://t.co/NV2hihEfkK

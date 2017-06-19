@@ -4,7 +4,7 @@ var googleMapsClient = require('@google/maps').createClient({
 });
 
 //Reach Data from txt and remove dupplicate
-var array = fs.readFileSync('all_user_geo.txt').toString().split("\n");
+var array = fs.readFileSync('combine_keyword_record.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
     return index == self.indexOf(elem);
 })
@@ -13,15 +13,24 @@ var currentUserID = [] ;
 var arrayLat = [];
 var arrayLon = [];
 var counter = 0;
+var noID = 0;
 
 for(let i = 0 ; i < unique.length ; i++){
+  if(!(unique[i].includes("User ID") ) ){
+    continue;
+  }
+
   let originalText = unique[i].replace(/ /g, '').replace("UserID:","").replace("Lattitute:","").replace("Longitute:","");
   let arrayData = originalText.split(",");
   // [0] = ID , [1] = Lat , [2] = Lon
   currentUserID.push(arrayData[0]);
-  arrayLat.push(arrayData[1]);
-  arrayLon.push(arrayData[2]);
+  arrayLat.push(arrayData[2]);
+  arrayLon.push(arrayData[3]);
 }
+// for( k in arrayLat){
+//   console.log(noID++)
+  // console.log(arrayLat[k])
+// }
 
 var writtingID = "";
 var myAddress = [];
@@ -67,7 +76,7 @@ function writeFileToTxt(rec_data){
   // }
 
   toTxt += "User ID : " + writtingID + ", Location : " + rec_data +"\n" ;
-  var textName = "API_Recording.txt";
+  var textName = "Keyword_Mapped.txt";
   fs.appendFile(textName, toTxt , function (err) {
     if (err) throw err;
     console.log('Saved!');

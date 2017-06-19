@@ -1,0 +1,18 @@
+User ID : 19102051,Tweet ID : 873110470852354048 , Lattitute : 35.93925656, Longitute : 139.96948957, Tweet Status : I'm at 守谷SA (上り) - @driveplaza in 守谷市, 茨城県 https://t.co/rv3OLRna2i
+User ID : 19102051,Tweet ID : 872400012688457728 , Lattitute : 35.69849553, Longitute : 139.77397156, Tweet Status : I'm at つくばエクスプレス 秋葉原駅 in 千代田区, 東京都 https://t.co/AinW4zJPm9
+User ID : 19102051,Tweet ID : 872367325147787267 , Lattitute : 35.17030618, Longitute : 136.88236538, Tweet Status : I'm at 名古屋駅 in 名古屋市, 愛知県 https://t.co/EcsplZPgOO
+User ID : 19102051,Tweet ID : 872354958481526786 , Lattitute : 34.73362299, Longitute : 135.50070245, Tweet Status : I'm at 東海道・山陽新幹線 新大阪駅 in Osaka, Ōsaka https://t.co/jBFseFhLpc
+User ID : 19102051,Tweet ID : 872342333257375745 , Lattitute : 34.66620034, Longitute : 133.91803418, Tweet Status : I'm at 岡山駅 in 岡山市, 岡山県 https://t.co/O1BxLvBqtZ
+User ID : 19102051,Tweet ID : 872332755488714753 , Lattitute : 34.39831414, Longitute : 132.47549415, Tweet Status : I'm at 山陽新幹線 広島駅 in 広島市, 広島県 https://t.co/irAe3fxfmT
+User ID : 19102051,Tweet ID : 872325238255738882 , Lattitute : 34.09382108, Longitute : 131.39666897, Tweet Status : I'm at 新山口駅 ホーム in 山口市, 山口県 https://t.co/UIxmK5A6eC
+User ID : 19102051,Tweet ID : 872316411850498048 , Lattitute : 34.00312102, Longitute : 131.22193319, Tweet Status : I'm at 宇部駅 in 宇部市, 山口県 https://t.co/Ca7CCgLxdA
+User ID : 19102051,Tweet ID : 872286624662642689 , Lattitute : 33.95836826, Longitute : 131.2424773, Tweet Status : I'm at 宇部新川駅 in 宇部市, 山口県 https://t.co/UdrqTsKTyR
+User ID : 19102051,Tweet ID : 872277184584572929 , Lattitute : 33.95631814, Longitute : 131.27208352, Tweet Status : I'm at 山口大学 常盤キャンパス(工学部) in 宇部市, 山口県 https://t.co/1XbtoSU30D
+User ID : 19102051,Tweet ID : 872004638731620352 , Lattitute : 33.95672, Longitute : 131.243469, Tweet Status : I'm at 鉄なべ餃子 https://t.co/LcG61DjNin
+User ID : 19102051,Tweet ID : 871925375705763840 , Lattitute : 34.09370326, Longitute : 131.39662006, Tweet Status : I'm at 新山口駅 in 山口市, 山口県 https://t.co/umGFzbARBo
+User ID : 19102051,Tweet ID : 871916014627323904 , Lattitute : 34.39831414, Longitute : 132.47549415, Tweet Status : I'm at 山陽新幹線 広島駅 in 広島市, 広島県 https://t.co/hR5IvqjcaJ
+User ID : 19102051,Tweet ID : 871898795260473345 , Lattitute : 34.70651578, Longitute : 135.19620075, Tweet Status : I'm at JR 新神戸駅 in 神戸市, 兵庫県 https://t.co/8Aj3WHQfPz
+User ID : 19102051,Tweet ID : 871891486106939392 , Lattitute : 34.98465551, Longitute : 135.75895444, Tweet Status : I'm at 東海道新幹線 京都駅 in Kyoto, 京都府 https://t.co/p1JYgbqQuj
+User ID : 19102051,Tweet ID : 871882045022248960 , Lattitute : 35.17008267, Longitute : 136.88211915, Tweet Status : I'm at 名古屋駅 in 名古屋市, 愛知県 https://t.co/Bk246Dmmn3
+User ID : 19102051,Tweet ID : 871861185804726272 , Lattitute : 35.50728572, Longitute : 139.61740602, Tweet Status : I'm at 東海道新幹線 新横浜駅 in 横浜市, 神奈川県 https://t.co/HvyzNa12tZ
+User ID : 19102051,Tweet ID : 871858441907830784 , Lattitute : 35.628406, Longitute : 139.73861564, Tweet Status : I'm at 品川駅 in 港区, 東京都 https://t.co/VqA6tNdsAC

@@ -1,0 +1,5 @@
+User ID : 559290662,Tweet ID : 873450871547461633 , Lattitute : 35.669601, Longitute : 139.708447, Tweet Status : I'm at 台湾カフェ Zen in 渋谷区, 東京都 https://t.co/Epx3xuxeUa
+User ID : 559290662,Tweet ID : 873363348016041985 , Lattitute : 35.654648, Longitute : 139.70844, Tweet Status : I'm at 渋谷CLUB @CRAWL_tweet in 渋谷区, 東京都 https://t.co/ZAEOwW3Iif
+User ID : 559290662,Tweet ID : 873357946645880832 , Lattitute : 35.65904255, Longitute : 139.70143581, Tweet Status : I'm at 渋谷駅 in 渋谷区, 東京都 https://t.co/OQhdLLfu8T
+User ID : 559290662,Tweet ID : 873354869645639680 , Lattitute : 35.66131895, Longitute : 139.66729923, Tweet Status : I'm at 下北沢駅 in 世田谷区, 東京都 https://t.co/pOFSxcNlUp
+User ID : 559290662,Tweet ID : 873150622958276608 , Lattitute : 35.68957565, Longitute : 139.70786854, Tweet Status : I'm at 焼鳥の鉄人 新宿通り店 in 新宿区, 東京都 https://t.co/VRXNltS6s4

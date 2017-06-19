@@ -1,0 +1,12 @@
+User ID : 361354453,Tweet ID : 874179343983026176 , Lattitute : 35.6979909, Longitute : 139.41363643, Tweet Status : I'm at 立川駅 in 立川市, 東京都 https://t.co/yDSTExOUXD
+User ID : 361354453,Tweet ID : 874169483014934528 , Lattitute : 35.67247043, Longitute : 139.52962781, Tweet Status : I'm at 調布飛行場 in 調布市, 東京都 https://t.co/lxpeKNPKZ5
+User ID : 361354453,Tweet ID : 874157989640511489 , Lattitute : 34.78248315, Longitute : 139.36333179, Tweet Status : I'm at 大島空港 in 大島町, 東京都 https://t.co/hnDSRTHGyt
+User ID : 361354453,Tweet ID : 873795165663756288 , Lattitute : 34.78248315, Longitute : 139.36333179, Tweet Status : I'm at 大島空港 in 大島町, 東京都 https://t.co/K4jVBsWc0h
+User ID : 361354453,Tweet ID : 873779936649236481 , Lattitute : 35.67247043, Longitute : 139.52962781, Tweet Status : I'm at 調布飛行場 in 調布市, 東京都 https://t.co/HgP5c8pt2y
+User ID : 361354453,Tweet ID : 873751919029833728 , Lattitute : 35.65679936, Longitute : 139.70110238, Tweet Status : I'm at RUIDO K2 in 渋谷区, 東京都 https://t.co/2dE4DzOSvk
+User ID : 361354453,Tweet ID : 873723741129379840 , Lattitute : 35.65886376, Longitute : 139.70102693, Tweet Status : I'm at 渋谷駅 in 渋谷区, 東京都 https://t.co/ZTEXAYtL2H
+User ID : 361354453,Tweet ID : 873394917690793984 , Lattitute : 35.69567108, Longitute : 139.41600037, Tweet Status : I'm at 蒙古タンメン中本 立川店 in 立川市, 東京都 https://t.co/93dJs4F4Se
+User ID : 361354453,Tweet ID : 872755976901885953 , Lattitute : 35.64709087, Longitute : 139.70985335, Tweet Status : I'm at 恵比寿駅 in 渋谷区, 東京都 https://t.co/hydYHQK3gX
+User ID : 361354453,Tweet ID : 871939057298886656 , Lattitute : 35.57091084, Longitute : 139.37068513, Tweet Status : I'm at つわの in 相模原市, 神奈川県 https://t.co/V5jEiqCONs
+User ID : 361354453,Tweet ID : 871744280460763137 , Lattitute : 35.69717002, Longitute : 139.4156659, Tweet Status : I'm at 一蘭 立川店 in 立川市, 東京都 https://t.co/GC6NJpnmb3
+User ID : 361354453,Tweet ID : 871742846004600832 , Lattitute : 35.69802056, Longitute : 139.41369101, Tweet Status : I'm at 立川駅 in 立川市, 東京都 https://t.co/p60Jac29Mr

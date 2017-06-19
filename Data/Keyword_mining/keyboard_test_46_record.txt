@@ -1,0 +1,12 @@
+User ID : 138701095,Tweet ID : 875006353621876736 , Lattitute : 35.51096341, Longitute : 139.56713676, Tweet Status : I'm at 鴨居駅 - @jreast_official in Yokohama, 神奈川県 https://t.co/8aOg6QkxHo
+User ID : 138701095,Tweet ID : 874924299274072065 , Lattitute : 35.54873923, Longitute : 139.78384048, Tweet Status : I'm at 羽田空港 第1旅客ターミナル in 大田区, 東京都 https://t.co/ImObVmBhBY
+User ID : 138701095,Tweet ID : 874924222690320384 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/oM482y1GE9
+User ID : 138701095,Tweet ID : 874749859588431872 , Lattitute : 35.51096341, Longitute : 139.56713676, Tweet Status : I'm at 鴨居駅 - @jreast_official in Yokohama, 神奈川県 https://t.co/YGKDcR7nvT
+User ID : 138701095,Tweet ID : 874501525128785924 , Lattitute : 35.58900332, Longitute : 139.72838312, Tweet Status : I'm at 大森駅 - @jreast_official in 大田区, 東京都 https://t.co/88V5Kvjm7h
+User ID : 138701095,Tweet ID : 874239140065312770 , Lattitute : 35.62029557, Longitute : 139.70414345, Tweet Status : I'm at 武蔵小山駅 - @tokyu_official in 品川区, 東京都 https://t.co/EloX7bHgBe
+User ID : 138701095,Tweet ID : 873926333943996416 , Lattitute : 35.51096341, Longitute : 139.56713676, Tweet Status : I'm at 鴨居駅 - @jreast_official in Yokohama, 神奈川県 https://t.co/26kt6qlGAT
+User ID : 138701095,Tweet ID : 873745159095242752 , Lattitute : 35.51056742, Longitute : 139.56856998, Tweet Status : I'm at ダイエー 鴨居店 in 横浜市, 神奈川県 https://t.co/HVrZHgEHo3
+User ID : 138701095,Tweet ID : 873563986914152449 , Lattitute : 35.51096341, Longitute : 139.56713676, Tweet Status : I'm at 鴨居駅 - @jreast_official in Yokohama, 神奈川県 https://t.co/zLvH55qLyH
+User ID : 138701095,Tweet ID : 873341003910053888 , Lattitute : 35.54873923, Longitute : 139.78384048, Tweet Status : I'm at 羽田空港 第1旅客ターミナル in 大田区, 東京都 https://t.co/PJdDm04RX6
+User ID : 138701095,Tweet ID : 873340931302445057 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/gsAoeDptvI
+User ID : 138701095,Tweet ID : 873184813498462208 , Lattitute : 35.62867164, Longitute : 139.73853581, Tweet Status : I'm at 品川駅 in 港区, 東京都 https://t.co/kVrDXEnbv8

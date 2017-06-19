@@ -1,0 +1,8 @@
+User ID : 119329596,Tweet ID : 875004920017154052 , Lattitute : 35.45270743, Longitute : 139.39090423, Tweet Status : I'm at 小田急 海老名駅 in 海老名市, 神奈川県 https://t.co/YTA9wfusna
+User ID : 119329596,Tweet ID : 874995515829747713 , Lattitute : 35.46477288, Longitute : 139.62068246, Tweet Status : I'm at 相鉄 横浜駅 in Yokohama, 神奈川県 https://t.co/ihs1Evubd6
+User ID : 119329596,Tweet ID : 874896744395550720 , Lattitute : 32.87755985, Longitute : 130.86601853, Tweet Status : I'm at 肥後大津駅 in 菊池郡 大津町, 熊本県 https://t.co/MzvA272T3x
+User ID : 119329596,Tweet ID : 874884144462999554 , Lattitute : 32.78886015, Longitute : 130.68839051, Tweet Status : I'm at 0A-0B番線ホーム in Kumamoto, 熊本県 https://t.co/1izNk0Le2A
+User ID : 119329596,Tweet ID : 873720654138421248 , Lattitute : 32.801136, Longitute : 130.70543, Tweet Status : I'm at 熊本市電 花畑町電停 in 熊本市, 熊本県 https://t.co/vdhFlT5Rkk
+User ID : 119329596,Tweet ID : 873717260640243712 , Lattitute : 32.78976369, Longitute : 130.68976748, Tweet Status : I'm at 熊本市電 熊本駅前電停 in 熊本市, 熊本県 https://t.co/9Ho4FAPcgP
+User ID : 119329596,Tweet ID : 873712585572589569 , Lattitute : 32.78951077, Longitute : 130.68924245, Tweet Status : I'm at SEATTLE'S BEST COFFEE JR熊本店 in 熊本市, 熊本県 https://t.co/H0ThtTAsYw
+User ID : 119329596,Tweet ID : 871939550347751424 , Lattitute : 32.78972084, Longitute : 130.68899975, Tweet Status : I was at 熊本駅 in 熊本市, 熊本県 https://t.co/Sv7y4jQd3l

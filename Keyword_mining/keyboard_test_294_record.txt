@@ -1,4 +1,0 @@
-User ID : 4882399471,Tweet ID : 874836853433794560 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/wLLbt6U4Z0
-User ID : 4882399471,Tweet ID : 874794915074584578 , Lattitute : 35.680943, Longitute : 139.767202, Tweet Status : I'm at 東京駅 in 千代田区, 東京都 https://t.co/HsGpNK7Yly
-User ID : 4882399471,Tweet ID : 873775725429612544 , Lattitute : 35.9501921, Longitute : 139.992342, Tweet Status : I'm at 守谷駅 in 守谷市, 茨城県 https://t.co/Hq4FUwrNwI
-User ID : 4882399471,Tweet ID : 871572952227217408 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/Ayvnqj8bLJ

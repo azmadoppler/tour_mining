@@ -1,0 +1,7 @@
+User ID : 105731048,Tweet ID : 874477118213771266 , Lattitute : 34.89031618, Longitute : 136.83566456, Tweet Status : I'm at 常滑駅 in 常滑市, 愛知県 https://t.co/fapkZG589P
+User ID : 105731048,Tweet ID : 874470968852451336 , Lattitute : 35.12562667, Longitute : 136.91235295, Tweet Status : I'm at 神宮前駅 in 名古屋市, 愛知県 https://t.co/lrPwZbjaHT
+User ID : 105731048,Tweet ID : 874453654836740096 , Lattitute : 34.82219299, Longitute : 137.39632308, Tweet Status : I'm at 豊川稲荷駅 in 豊川市, 愛知県 https://t.co/I1PZ6wZ1bP
+User ID : 105731048,Tweet ID : 872718381656543232 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/pd8EwBGYjD
+User ID : 105731048,Tweet ID : 872711532802703360 , Lattitute : 35.30211682, Longitute : 136.79730258, Tweet Status : I'm at 名鉄一宮駅 in 一宮市, 愛知県 https://t.co/Mrfr6cgjYJ
+User ID : 105731048,Tweet ID : 872597074315010050 , Lattitute : 34.76297719, Longitute : 137.38201774, Tweet Status : I'm at 豊橋駅 in 豊橋市, 愛知県 https://t.co/C8udd48NLq
+User ID : 105731048,Tweet ID : 872422884546891776 , Lattitute : 34.90479832, Longitute : 137.49629523, Tweet Status : 新城にもイタリアンがあるのか（失礼） (@ イタリアンレストラン  チェスティーノ in 新城市, 愛知県) https://t.co/CjVWgfDMcq

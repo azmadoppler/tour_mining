@@ -1,0 +1,4 @@
+User ID : 2288399941,Tweet ID : 874517603867389953 , Lattitute : 34.13477459, Longitute : 134.61796045, Tweet Status : I'm at 徳島阿波おどり空港 in 松茂町, 徳島県 https://t.co/btltIs5t8K
+User ID : 2288399941,Tweet ID : 874219567010238464 , Lattitute : 34.66593802, Longitute : 133.91826714, Tweet Status : I'm at 山陽新幹線 岡山駅 in 岡山市, 岡山県 https://t.co/q5v2nNEDsF
+User ID : 2288399941,Tweet ID : 873025508505657345 , Lattitute : 35.16980156, Longitute : 136.88389014, Tweet Status : I'm at 名鉄名古屋駅 in 名古屋市, 愛知県 https://t.co/yt830CUwcu
+User ID : 2288399941,Tweet ID : 872719836547358720 , Lattitute : 34.96704457, Longitute : 136.61860076, Tweet Status : I'm at 近鉄四日市駅 in 四日市市, 三重県 https://t.co/6L5EwTIu0w

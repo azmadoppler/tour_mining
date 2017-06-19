@@ -1,7 +1,0 @@
-User ID : 103524114,Tweet ID : 873472613636550657 , Lattitute : 32.80415657, Longitute : 130.72539899, Tweet Status : I'm at ケーズデンキ 熊本中央店 in Kumamoto https://t.co/t9OcBP9OE6
-User ID : 103524114,Tweet ID : 873433770350850048 , Lattitute : 32.36468005, Longitute : 130.51224963, Tweet Status : I'm at 道の駅 たのうら in 芦北町, 熊本県 https://t.co/gLuAD7oY2B
-User ID : 103524114,Tweet ID : 873432183402311680 , Lattitute : 32.389825, Longitute : 130.519763, Tweet Status : I'm at 芦北広域農道おれんじロード in 葦北郡芦北町, 熊本県 https://t.co/I1EAB5K0CD
-User ID : 103524114,Tweet ID : 873167673030529026 , Lattitute : 32.758846, Longitute : 130.592302, Tweet Status : I'm at 熊本新港 in 熊本市, 熊本県 https://t.co/yv4Nbt4bbl
-User ID : 103524114,Tweet ID : 872306684340965376 , Lattitute : 35.55173355, Longitute : 139.78849397, Tweet Status : I'm at ANAラウンジ 本館北 in 大田区, 東京都 https://t.co/gws9bxTajp
-User ID : 103524114,Tweet ID : 872306487091236866 , Lattitute : 35.55068105, Longitute : 139.78860122, Tweet Status : I'm at ANA Premium CHECK-IN in 大田区, 東京都 https://t.co/DL0GyE1OBU
-User ID : 103524114,Tweet ID : 872300140538867712 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/x5GKDeq2uz

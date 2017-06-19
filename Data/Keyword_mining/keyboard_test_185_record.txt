@@ -1,0 +1,15 @@
+User ID : 128485069,Tweet ID : 874925659356876801 , Lattitute : 33.01853273, Longitute : 133.00069213, Tweet Status : 大泉洋が数珠を忘れたとこ (@ いろりや in 黒潮町, 高知県) https://t.co/jjTpzWyYbs
+User ID : 128485069,Tweet ID : 874483918115917824 , Lattitute : 33.32889677, Longitute : 133.23083639, Tweet Status : うつぼ食らう (@ 市場のめし屋 浜ちゃん in 高岡郡, 高知県) https://t.co/3hyRmJYNUz
+User ID : 128485069,Tweet ID : 874214011902070784 , Lattitute : 33.55969357, Longitute : 133.5424879, Tweet Status : 帰宅。 (@ 西鉄イン高知 はりまや橋 in 高知市, 高知県) https://t.co/RjlKRX8nzS
+User ID : 128485069,Tweet ID : 874103712733700096 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/J4XiPo4NHm
+User ID : 128485069,Tweet ID : 873716020392976384 , Lattitute : 34.7567345, Longitute : 135.47649315, Tweet Status : I'm at 大阪スバル 豊中店 in 豊中市, 大阪府 https://t.co/1btJNCgYOE
+User ID : 128485069,Tweet ID : 873385724862713864 , Lattitute : 34.49113387, Longitute : 133.31378277, Tweet Status : I'm at 福山SA (上り) in 福山市, 広島県 https://t.co/8QWFHhT0DG
+User ID : 128485069,Tweet ID : 873335713361735681 , Lattitute : 34.33710491, Longitute : 132.99368074, Tweet Status : I'm at 忠海港 in 竹原市, 広島県 https://t.co/TOqZHXF4uh
+User ID : 128485069,Tweet ID : 873313195208978432 , Lattitute : 34.34504495, Longitute : 132.91184651, Tweet Status : I'm at 竹原町並み保存地区 in 竹原市, 広島県 https://t.co/LhscTX8eS0
+User ID : 128485069,Tweet ID : 873067547377123328 , Lattitute : 34.24137563, Longitute : 132.55635344, Tweet Status : I'm at 呉市海事歴史科学館（大和ミュージアム） in 呉市, 広島県 https://t.co/jrqFgChVKF
+User ID : 128485069,Tweet ID : 873015326992211969 , Lattitute : 34.36113731, Longitute : 132.49088422, Tweet Status : I'm at マツダ宇品工場 https://t.co/qmk7h7HcpF
+User ID : 128485069,Tweet ID : 873000000057430016 , Lattitute : 34.47339546, Longitute : 133.10004115, Tweet Status : I'm at 八幡PA (下り) in 三原市, 広島県 https://t.co/svHmfOFfpC
+User ID : 128485069,Tweet ID : 872975955479977988 , Lattitute : 34.70178187, Longitute : 133.90174527, Tweet Status : I'm at DCMダイキ 津高店 in 岡山市, 岡山県 https://t.co/RCFadyqS1H
+User ID : 128485069,Tweet ID : 872734661801381889 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/ytbJLMzgX1
+User ID : 128485069,Tweet ID : 872405750349516800 , Lattitute : 33.92778259, Longitute : 133.18380117, Tweet Status : I'm at ホテル ルートイン西条 in 西条市, 愛媛県 https://t.co/LbjbdFtP03
+User ID : 128485069,Tweet ID : 872023569852661760 , Lattitute : 33.56049787, Longitute : 133.53566945, Tweet Status : I'm at ひろめ市場 in 高知市, 高知県 https://t.co/xiSNf5YSrq

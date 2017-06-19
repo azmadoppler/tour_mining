@@ -1,0 +1,4 @@
+User ID : 14190355,Tweet ID : 873780301549326336 , Lattitute : 33.31443811, Longitute : 130.51900132, Tweet Status : ナスとベーコンのピザ食べよう！ @ トラノコカフェ https://t.co/OU1UYToY8g
+User ID : 14190355,Tweet ID : 872048777632169984 , Lattitute : 31.58366667, Longitute : 130.54172222, Tweet Status : ただいま鹿児島中央駅 @ Kagoshima-Chūō Station https://t.co/RE83k1X2hj
+User ID : 14190355,Tweet ID : 872034930053718016 , Lattitute : 31.80333333, Longitute : 130.71694444, Tweet Status : ありがとう鹿児島空港。 @ Kagoshima Airport https://t.co/2UWZ8sP1cg
+User ID : 14190355,Tweet ID : 872013505418846210 , Lattitute : 28.43083333, Longitute : 129.7125, Tweet Status : #帰りの翼 @ Amami Airport https://t.co/hZmQdI1RxR

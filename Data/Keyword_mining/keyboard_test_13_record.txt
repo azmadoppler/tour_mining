@@ -1,0 +1,4 @@
+User ID : 16285524,Tweet ID : 874593708095746048 , Lattitute : 35.692675, Longitute : 139.703617, Tweet Status : I'm at 新宿ピカデリー - @shinpicca in 新宿区, 東京都 w/ @_kurax3 @mackiepen https://t.co/NbXlGeTnZx
+User ID : 16285524,Tweet ID : 874591466449981440 , Lattitute : 35.6908472, Longitute : 139.70003467, Tweet Status : I'm at 新宿駅 in 新宿区, 東京都 https://t.co/zq8QJ8c2GK
+User ID : 16285524,Tweet ID : 874239501471801344 , Lattitute : 35.64672008, Longitute : 139.71089066, Tweet Status : I'm at ASO:VIBA! in 渋谷区, 東京都 https://t.co/DHDjPNmFpO
+User ID : 16285524,Tweet ID : 874238615588663296 , Lattitute : 35.64709087, Longitute : 139.70985335, Tweet Status : I'm at 恵比寿駅 in 渋谷区, 東京都 https://t.co/BpachRpLy4

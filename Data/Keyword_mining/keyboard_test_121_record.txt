@@ -1,0 +1,8 @@
+User ID : 1612158540,Tweet ID : 874900326981173252 , Lattitute : 35.44330309, Longitute : 139.64066368, Tweet Status : I'm at 横浜スタジアム一塁側内野指定席 in 横浜市, 神奈川県 https://t.co/LN49gtHiWj
+User ID : 1612158540,Tweet ID : 873338123748610048 , Lattitute : 35.45899209, Longitute : 139.63582277, Tweet Status : I'm at パシフィコ横浜 in Yokohama, Kanagawa https://t.co/NBfcIlvw1K
+User ID : 1612158540,Tweet ID : 872360240293056513 , Lattitute : 38.25628729, Longitute : 140.9025979, Tweet Status : I'm at Koboパーク宮城 in 仙台市, 宮城県 https://t.co/gpOfzIRggj
+User ID : 1612158540,Tweet ID : 872341627163070468 , Lattitute : 38.36825864, Longitute : 141.05907678, Tweet Status : I'm at 松島海岸駅 in 松島町, 宮城県, 宮城県 https://t.co/9nOJS1lDYp
+User ID : 1612158540,Tweet ID : 872297781981048832 , Lattitute : 38.26074387, Longitute : 140.87851167, Tweet Status : I'm at あおば通駅 in 仙台市, 宮城県 https://t.co/jCTtNeHakI
+User ID : 1612158540,Tweet ID : 872277128997416960 , Lattitute : 38.25554124, Longitute : 140.83584771, Tweet Status : I'm at 青葉山駅 in 仙台市, 宮城県 https://t.co/TkUmPkxePt
+User ID : 1612158540,Tweet ID : 872260105542279168 , Lattitute : 38.25326095, Longitute : 140.85635566, Tweet Status : I'm at 仙台城跡 in 仙台市, 宮城県 https://t.co/UllCH1d41g
+User ID : 1612158540,Tweet ID : 872236889050406912 , Lattitute : 38.26006884, Longitute : 140.88195687, Tweet Status : I'm at 仙台駅 in 仙台市, 宮城県 https://t.co/YDzPlEcl13

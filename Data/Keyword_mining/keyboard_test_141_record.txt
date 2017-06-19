@@ -1,0 +1,4 @@
+User ID : 313287772,Tweet ID : 874830304124567552 , Lattitute : 34.15407757, Longitute : 135.17633578, Tweet Status : I'm at 和歌山マリーナシティ in 和歌山市, 和歌山県 https://t.co/knlS3qqhJt
+User ID : 313287772,Tweet ID : 874812329371873281 , Lattitute : 34.50781113, Longitute : 135.39651785, Tweet Status : I'm at 泉大津PA (下り/陸側) in 泉大津市, 大阪府 https://t.co/xiTWM0wN8r
+User ID : 313287772,Tweet ID : 874247409081229313 , Lattitute : 34.63985297, Longitute : 135.02512604, Tweet Status : I'm at Starbucks Coffee 神戸西舞子店 - @starbucks_j in 神戸市, 兵庫県 https://t.co/3jQKNIP130
+User ID : 313287772,Tweet ID : 872320260569001984 , Lattitute : 34.69254013, Longitute : 135.19551694, Tweet Status : I'm at 神戸ロフト in 神戸市, 兵庫県 https://t.co/RgtcIA90I8

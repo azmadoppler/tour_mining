@@ -1,5 +1,0 @@
-User ID : 1048453933,Tweet ID : 873800132738908160 , Lattitute : 35.61897123, Longitute : 140.13147438, Tweet Status : I'm at 杉田家 千葉店 in Chiba, 千葉県 https://t.co/QV4LySUSF0
-User ID : 1048453933,Tweet ID : 873514773773774848 , Lattitute : 35.65959706, Longitute : 140.02898566, Tweet Status : I'm at Starbucks Coffee 湾岸幕張パーキングエリア(上り線)店 - @starbucks_j in 千葉市, 千葉県 https://t.co/1PluGZ9CkL
-User ID : 1048453933,Tweet ID : 873464233106825216 , Lattitute : 35.66017657, Longitute : 140.13828329, Tweet Status : I'm at スーパーオートバックス 千葉長沼店 in 千葉市, 千葉県 https://t.co/qq9PU5Zf87
-User ID : 1048453933,Tweet ID : 871901470374932480 , Lattitute : 35.59918254, Longitute : 140.10001659, Tweet Status : I'm at 千葉ポートパーク in 千葉市, 千葉県 https://t.co/gUW7TeeRp5
-User ID : 1048453933,Tweet ID : 871638402432716800 , Lattitute : 35.77288467, Longitute : 140.38802073, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/n1WuA2ko7v

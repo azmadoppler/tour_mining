@@ -1,0 +1,23 @@
+User ID : 892260289,Tweet ID : 874798114707841028 , Lattitute : 36.29822181, Longitute : 139.8723346, Tweet Status : I'm at 結城駅 - @jreast_official in 結城市, 茨城県 https://t.co/pZkMFIKW2J
+User ID : 892260289,Tweet ID : 874775758660567040 , Lattitute : 35.68066913, Longitute : 139.76787611, Tweet Status : I'm at 東海道新幹線 東京駅 in Chiyoda, 東京都 https://t.co/dEZTliqz8b
+User ID : 892260289,Tweet ID : 874737020698013697 , Lattitute : 34.73361514, Longitute : 135.50156319, Tweet Status : I'm at JR 新大阪駅 in 大阪市, 大阪府 https://t.co/WiNEd3EFRo
+User ID : 892260289,Tweet ID : 874725001630494720 , Lattitute : 34.55625155, Longitute : 135.50601214, Tweet Status : I'm at 御堂筋線 なかもず駅 (M30) in 堺市, 大阪府 https://t.co/ugFErjzNI8
+User ID : 892260289,Tweet ID : 874588016626601984 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/XyYSLndC0S
+User ID : 892260289,Tweet ID : 874556159205801984 , Lattitute : 37.95203185, Longitute : 139.11313534, Tweet Status : I'm at 新潟空港 - @niigata_airport in 新潟市, 新潟県 https://t.co/ydTUn5DB3F
+User ID : 892260289,Tweet ID : 874408014979239936 , Lattitute : 37.64710892, Longitute : 138.94058311, Tweet Status : I'm at ホテルルートイン燕三条駅前 in 三条市, 新潟県 https://t.co/8qb90U2KGI
+User ID : 892260289,Tweet ID : 874193486702137344 , Lattitute : 37.64871122, Longitute : 138.93919945, Tweet Status : I'm at 燕三条駅 in 三条市, 新潟県 https://t.co/27YBs5huQH
+User ID : 892260289,Tweet ID : 874046015078367232 , Lattitute : 37.95203185, Longitute : 139.11313534, Tweet Status : I'm at 新潟空港 - @niigata_airport in 新潟市, 新潟県 https://t.co/MZIex8Ip8t
+User ID : 892260289,Tweet ID : 874012281222422529 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/PXPEjsnjO4
+User ID : 892260289,Tweet ID : 873539420175179777 , Lattitute : 34.56525931, Longitute : 135.49278617, Tweet Status : I'm at 南海 三国ヶ丘駅 in 堺市, 大阪府 https://t.co/SAhzDhM2A2
+User ID : 892260289,Tweet ID : 873523287183290368 , Lattitute : 34.43501872, Longitute : 135.24393892, Tweet Status : I'm at 関西国際空港 - @kankun_sorayan in 泉佐野市, 大阪府 https://t.co/jR8s7ThbNz
+User ID : 892260289,Tweet ID : 873489638912126976 , Lattitute : 35.77807157, Longitute : 140.38433918, Tweet Status : I'm at 成田空港 第3ターミナル in 成田市, 千葉県 https://t.co/yzkbGFP80t
+User ID : 892260289,Tweet ID : 873456961190342656 , Lattitute : 35.77308847, Longitute : 140.38686076, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/HjO4CK4Rfk
+User ID : 892260289,Tweet ID : 873440948474302464 , Lattitute : 35.64535311, Longitute : 139.89570676, Tweet Status : I'm at 浦安出入口 in 浦安市, 千葉県 https://t.co/JIhjhSa5Dl
+User ID : 892260289,Tweet ID : 872960955361234945 , Lattitute : 36.10216228, Longitute : 139.79507836, Tweet Status : I'm at 道の駅 さかい in 境町, 茨城県 https://t.co/k0SFLAMh85
+User ID : 892260289,Tweet ID : 872767229565206529 , Lattitute : 36.10200388, Longitute : 139.7990439, Tweet Status : I'm at 御老公の湯 境店 in 猿島郡境町, 茨城県 https://t.co/xlXN6kUFZl
+User ID : 892260289,Tweet ID : 872616693083889664 , Lattitute : 35.64943817, Longitute : 139.91245295, Tweet Status : I'm at 新浦安駅 in 浦安市, 千葉県 https://t.co/y1tW1nFxb8
+User ID : 892260289,Tweet ID : 872607491275669504 , Lattitute : 35.68066913, Longitute : 139.76787611, Tweet Status : I'm at 東海道新幹線 東京駅 in Chiyoda, 東京都 https://t.co/UdrMwVT9nA
+User ID : 892260289,Tweet ID : 872561511813844994 , Lattitute : 34.73377848, Longitute : 135.50175191, Tweet Status : I'm at JR 新大阪駅 in 大阪市, 大阪府 https://t.co/GALu1vim0d
+User ID : 892260289,Tweet ID : 872550766178967552 , Lattitute : 34.55625155, Longitute : 135.50601214, Tweet Status : I'm at 御堂筋線 なかもず駅 (M30) in 堺市, 大阪府 https://t.co/RrHXZrZcnW
+User ID : 892260289,Tweet ID : 872036192010858496 , Lattitute : 34.66349988, Longitute : 135.50180714, Tweet Status : I'm at 南海 なんば駅 in 大阪市, 大阪府 https://t.co/Xxbb0GjctL
+User ID : 892260289,Tweet ID : 872022901473587200 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/NruJWQA2RD

@@ -1,0 +1,5 @@
+User ID : 59464659,Tweet ID : 873761783189778432 , Lattitute : 35.65886376, Longitute : 139.70102693, Tweet Status : I'm at 渋谷駅 in 渋谷区, 東京都 https://t.co/5Yr9xwDWMR
+User ID : 59464659,Tweet ID : 873740169282826240 , Lattitute : 35.66943382, Longitute : 139.69756155, Tweet Status : I'm at 代々木公園 in 渋谷区, 東京都 https://t.co/TwEysaL4QG
+User ID : 59464659,Tweet ID : 873732349711831041 , Lattitute : 35.67066675, Longitute : 139.70286192, Tweet Status : I'm at 原宿駅 in 渋谷区, 東京都 https://t.co/8o06j5J5Id
+User ID : 59464659,Tweet ID : 872610175399731200 , Lattitute : 35.65548084, Longitute : 139.7568849, Tweet Status : I'm at モノレール浜松町駅 in 港区, 東京都 https://t.co/udxOWPT2Sc
+User ID : 59464659,Tweet ID : 872603077077065728 , Lattitute : 35.54917132, Longitute : 139.78479266, Tweet Status : I'm at 羽田空港第1ビル駅 in 大田区, 東京都 https://t.co/IziDYaKfzl

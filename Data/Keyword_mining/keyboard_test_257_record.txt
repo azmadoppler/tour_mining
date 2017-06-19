@@ -1,0 +1,4 @@
+User ID : 629404104,Tweet ID : 875154540177358848 , Lattitute : 43.61293986, Longitute : 144.87047554, Tweet Status : I'm at 開陽台 in 中標津町, 北海道 https://t.co/EtIgN9Nfdp
+User ID : 629404104,Tweet ID : 874222413235486720 , Lattitute : 43.55792239, Longitute : 144.99075988, Tweet Status : I'm at トーヨーグランドホテル in 標津郡中標津町, 北海道 https://t.co/WKorm7eew1
+User ID : 629404104,Tweet ID : 871954941761474560 , Lattitute : 43.57297851, Longitute : 144.95607521, Tweet Status : I'm at 中標津空港 in Nakashibetsu-chō, 北海道 https://t.co/UANYQdW9gS
+User ID : 629404104,Tweet ID : 871892755047473152 , Lattitute : 35.62180769, Longitute : 139.75082113, Tweet Status : I'm at 天王洲アイル駅 in 品川区, 東京都 https://t.co/2anLPpiNR4

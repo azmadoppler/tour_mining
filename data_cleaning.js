@@ -1,97 +1,25 @@
-var fs = require('fs');
-var googleMapsClient = require('@google/maps').createClient({
-  key: 'AIzaSyDZA6lUixjsRpfgzaeBpVJHODCvOfriIGo'
-});
+  var fs = require('fs');
 
-//Reach Data from txt and remove dupplicate
-var array = fs.readFileSync('all_user_geo.txt').toString().split("\n");
-var unique = array.filter(function(elem, index, self) {
-    return index == self.indexOf(elem);
-})
-unique.pop();
-var currentUserID = [] ;
-var arrayLat = [];
-var arrayLon = [];
-var counter = 0;
+  //Reach Data from txt and remove dupplicate
 
-for(let i = 0 ; i < unique.length ; i++){
-  let originalText = unique[i].replace(/ /g, '').replace("UserID:","").replace("Lattitute:","").replace("Longitute:","");
-  let arrayData = originalText.split(",");
-  // [0] = ID , [1] = Lat , [2] = Lon
-  currentUserID.push(arrayData[0]);
-  arrayLat.push(arrayData[1]);
-  arrayLon.push(arrayData[2]);
-}
+  // module.exports = function (){
+  var array = fs.readFileSync('all_user_geo.txt').toString().split("\n");
+  var unique = array.filter(function(elem, index, self) {
+      return index == self.indexOf(elem);
+  })
+  unique.pop();
 
-var writtingID = "";
-var myAddress = [];
+  console.log("eyyyy");
 
-
-var mapBotApp = setInterval(function(){
-  writtingID = currentUserID[counter];
-  mapAPIApp(arrayLat[counter],arrayLon[counter]);
-  counter++;
-
-} , 2*1000 )
-
-
-var actualLocation = [];
-var api_result = "";
-
-function mapAPIApp(lat,lon){
-  googleMapsClient.reverseGeocode({
-    latlng: [lat, lon]
-  }, function(err, response) {
-    if (!err) {
-      api_result = response.json.results[0].formatted_address;
-      writeFileToTxt(api_result);
-      // console.log(JSON.parse(response.body).results);
-    }
-    else{
-      throw err;
-    }
+  var array = fs.readFileSync('location_keyword.txt').toString().split("\n");
+  var unique = array.filter(function(elem, index, self) {
+      return index == self.indexOf(elem);
   });
 
-}
+  console.log();
 
 
-function writeFileToTxt(rec_data){
-  var toTxt = "";
-  // for(let i = 0 ; i < currentUserID.length ; i++)
-  // {
-  //   if(writtingID == 'undefined' || writtingID == null){
-  //
-  //   }
-  //   else {
-  //   }
-  // }
-
-  toTxt += "User ID : " + writtingID + ", Location : " + rec_data +"\n" ;
-  var textName = "API_Recording.txt";
-  fs.appendFile(textName, toTxt , function (err) {
-    if (err) throw err;
-    console.log('Saved!');
-    toTxt = "";
-    userGeo = [];
-  });
-}
-
-//coordinates_to_address(35.6573965 , 139.74830925);
-function coordinates_to_address(lat, lng) {
-    var latlng = new google.maps.LatLng(lat, lng);
-
-    geocoder.geocode({'latLng': latlng}, function(results, status) {
-        if(status == google.maps.GeocoderStatus.OK) {
-            if(results[0]) {
-                console.log((results[0].formatted_address));
-            } else {
-                alert('No results found');
-            }
-        } else {
-            var error = {
-                'ZERO_RESULTS': 'Kunde inte hitta adress'
-            }
-            console.log(error[status]);
-        }
-    });
-}
+  function greet(){
+    console.log("Hello")
+  }
+// }

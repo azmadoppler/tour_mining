@@ -1,0 +1,7 @@
+User ID : 218077695,Tweet ID : 873702405434736644 , Lattitute : 35.45899209, Longitute : 139.63582277, Tweet Status : I'm at パシフィコ横浜 in Yokohama, Kanagawa https://t.co/2CgP7pS7cw
+User ID : 218077695,Tweet ID : 873699828546629632 , Lattitute : 35.4584459, Longitute : 139.63183701, Tweet Status : I'm at みなとみらい駅 - @mm21railway in 横浜市, Kanagawa-ken https://t.co/IqDL0Muc9Y
+User ID : 218077695,Tweet ID : 873696292744114176 , Lattitute : 35.46578478, Longitute : 139.62200204, Tweet Status : I'm at 横浜駅 in 横浜市, 神奈川県 https://t.co/TUOVGYXG6Q
+User ID : 218077695,Tweet ID : 872330899999907840 , Lattitute : 33.598744, Longitute : 130.447059, Tweet Status : I'm at 福岡空港 in 福岡市, 福岡県 https://t.co/2NaNAcAYjK
+User ID : 218077695,Tweet ID : 871987396631572480 , Lattitute : 33.58999664, Longitute : 130.39928701, Tweet Status : I'm at HKT48劇場 in 福岡市, 福岡県 https://t.co/Jcb0q99N7O
+User ID : 218077695,Tweet ID : 871953949426946048 , Lattitute : 33.587543, Longitute : 130.39424, Tweet Status : I'm at Red Rock 博多大名店 in 福岡市, 福岡県 https://t.co/SFNe4EuiIb
+User ID : 218077695,Tweet ID : 871942648784879616 , Lattitute : 33.598744, Longitute : 130.447059, Tweet Status : I'm at 福岡空港 in 福岡市, 福岡県 https://t.co/jTuFKp3T8l

@@ -1,0 +1,9 @@
+User ID : 331751255,Tweet ID : 875168894125834240 , Lattitute : 31.80122976, Longitute : 130.71588422, Tweet Status : 今日明日は鹿児島 (@ 鹿児島空港 in 霧島市, 鹿児島県) https://t.co/eIE4NLcl6i
+User ID : 331751255,Tweet ID : 875142120084000768 , Lattitute : 34.7907923, Longitute : 135.440813, Tweet Status : I'm at 大阪国際空港 / 伊丹空港 in 豊中市, 大阪府 https://t.co/78bldDeKcX
+User ID : 331751255,Tweet ID : 875098830076866560 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : ねむ (@ 福井駅 in 福井市, 福井県) https://t.co/p9gCtfI2f3
+User ID : 331751255,Tweet ID : 873175447818915840 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : I'm at 福井駅 in 福井市, 福井県 https://t.co/ouU4o1CNXW
+User ID : 331751255,Tweet ID : 873141905261027328 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : 行くぜ #ENCOUNT (@ 新大阪駅 in 大阪市, 大阪府) https://t.co/79c6SmDQcX
+User ID : 331751255,Tweet ID : 872942141449936896 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : I'm at 福井駅 in 福井市, 福井県 https://t.co/4IOCFKEOKx
+User ID : 331751255,Tweet ID : 872410173410877440 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : I'm at 福井駅 in 福井市, 福井県 https://t.co/eKYy44A3yb
+User ID : 331751255,Tweet ID : 872296004950908928 , Lattitute : 34.727309, Longitute : 135.491508, Tweet Status : I'm at 塩元帥 本店 in Osaka, 大阪府 https://t.co/Z7wKFR5cz2
+User ID : 331751255,Tweet ID : 872218886292353028 , Lattitute : 36.06216514, Longitute : 136.22340329, Tweet Status : I'm at 福井駅 in 福井市, 福井県 https://t.co/DDExha49hi

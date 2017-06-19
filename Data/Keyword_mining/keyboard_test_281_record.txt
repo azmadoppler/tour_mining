@@ -1,0 +1,5 @@
+User ID : 83333180,Tweet ID : 873858112503066624 , Lattitute : 35.72930659, Longitute : 139.71339426, Tweet Status : I'm at ビヤホールライオン 池袋東口店 in 豊島区, 東京都 https://t.co/6jL9uR3j18
+User ID : 83333180,Tweet ID : 873479027700498432 , Lattitute : 35.710413, Longitute : 139.773884, Tweet Status : 超ウマやんな (@ みはし 上野本店 in 台東区, 東京都) https://t.co/bn9BTHuYJJ
+User ID : 83333180,Tweet ID : 873463652254445568 , Lattitute : 35.70759708, Longitute : 139.77222383, Tweet Status : ウマす！ (@ 炭火焼 だるま in 文京区, 東京都) https://t.co/HoSv23bJ5m
+User ID : 83333180,Tweet ID : 873008043558096896 , Lattitute : 35.59106907, Longitute : 140.12236476, Tweet Status : I'm at 餃子の王将 千葉寒川店 in 千葉市, 千葉県 https://t.co/5VRBgT5eW5
+User ID : 83333180,Tweet ID : 871658766076452865 , Lattitute : 35.77807157, Longitute : 140.38433918, Tweet Status : I'm at 成田空港 第3ターミナル in 成田市, 千葉県 https://t.co/Oe5xLkQGi4

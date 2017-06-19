@@ -1,0 +1,8 @@
+User ID : 59419052,Tweet ID : 874448853663195138 , Lattitute : 35.68217074, Longitute : 139.78591968, Tweet Status : I'm at 水天宮前駅 - @z_line_info in 中央区, 東京都 https://t.co/F1w5iAAAqt
+User ID : 59419052,Tweet ID : 873479725561241600 , Lattitute : 35.67225993, Longitute : 139.79484363, Tweet Status : I'm at 門前仲町駅 in Koto, 東京都 https://t.co/zWSVMXTrHf
+User ID : 59419052,Tweet ID : 873137370266251266 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/EheqIAED2C
+User ID : 59419052,Tweet ID : 873097547471962112 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : I'm at 新大阪駅 in 大阪市, 大阪府 https://t.co/DSyT6tFXoE
+User ID : 59419052,Tweet ID : 872981861735202820 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : I'm at 新大阪駅 in 大阪市, 大阪府 https://t.co/vR0Ceijxt0
+User ID : 59419052,Tweet ID : 872785313441218561 , Lattitute : 34.73341819, Longitute : 135.49974967, Tweet Status : I'm at 新大阪駅 in 大阪市, 大阪府 https://t.co/5Yb5ixKlTj
+User ID : 59419052,Tweet ID : 872742478503391232 , Lattitute : 33.590138, Longitute : 130.420685, Tweet Status : I'm at JR 博多駅 in Fukuoka, Fukuoka Prefecture https://t.co/KwRKDCFrsF
+User ID : 59419052,Tweet ID : 872337813873799169 , Lattitute : 33.598744, Longitute : 130.447059, Tweet Status : I'm at 福岡空港 in 福岡市, 福岡県 https://t.co/LRMn9dUW4F

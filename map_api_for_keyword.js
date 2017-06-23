@@ -3,8 +3,10 @@ var googleMapsClient = require('@google/maps').createClient({
   key: 'AIzaSyDZA6lUixjsRpfgzaeBpVJHODCvOfriIGo'
 });
 
+var cleaner = require('./data_cleaning.js')
+
 //Reach Data from txt and remove dupplicate
-var array = fs.readFileSync('combine_keyword_record.txt').toString().split("\n");
+var array = fs.readFileSync('leftover.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
     return index == self.indexOf(elem);
 })
@@ -27,10 +29,6 @@ for(let i = 0 ; i < unique.length ; i++){
   arrayLat.push(arrayData[2]);
   arrayLon.push(arrayData[3]);
 }
-// for( k in arrayLat){
-//   console.log(noID++)
-  // console.log(arrayLat[k])
-// }
 
 var writtingID = "";
 var myAddress = [];
@@ -38,7 +36,9 @@ var myAddress = [];
 
 var mapBotApp = setInterval(function(){
   writtingID = currentUserID[counter];
+  // console.log("HERE in loop");
   mapAPIApp(arrayLat[counter],arrayLon[counter]);
+  // coordinates_to_address(30,140);
   counter++;
 
 } , 2*1000 )
@@ -46,15 +46,34 @@ var mapBotApp = setInterval(function(){
 
 var actualLocation = [];
 var api_result = "";
+var last_result = "";
 
 function mapAPIApp(lat,lon){
+  // console.log("HELOOOO" + lat + lon)
   googleMapsClient.reverseGeocode({
     latlng: [lat, lon]
   }, function(err, response) {
+    // console.log(err);
     if (!err) {
       api_result = response.json.results[0].formatted_address;
-      writeFileToTxt(api_result);
-      // console.log(JSON.parse(response.body).results);
+      // console.log("HERE")
+
+      //cleaner do something here
+      console.log(api_result)
+
+      let clean_result = cleaner(api_result);
+
+
+      if(clean_result=="No Location Match"){
+        //do nothing
+      }
+      else if(last_result==clean_result){
+        //do nothing
+      }
+      else{
+        last_result = clean_result;
+        writeFileToTxt(clean_result);
+      }
     }
     else{
       throw err;
@@ -66,15 +85,6 @@ function mapAPIApp(lat,lon){
 
 function writeFileToTxt(rec_data){
   var toTxt = "";
-  // for(let i = 0 ; i < currentUserID.length ; i++)
-  // {
-  //   if(writtingID == 'undefined' || writtingID == null){
-  //
-  //   }
-  //   else {
-  //   }
-  // }
-
   toTxt += "User ID : " + writtingID + ", Location : " + rec_data +"\n" ;
   var textName = "Keyword_Mapped.txt";
   fs.appendFile(textName, toTxt , function (err) {
@@ -87,7 +97,7 @@ function writeFileToTxt(rec_data){
 
 //coordinates_to_address(35.6573965 , 139.74830925);
 function coordinates_to_address(lat, lng) {
-    var latlng = new google.maps.LatLng(lat, lng);
+    var latlng = new googleMapsClient.maps.LatLng(lat, lng);
 
     geocoder.geocode({'latLng': latlng}, function(results, status) {
         if(status == google.maps.GeocoderStatus.OK) {

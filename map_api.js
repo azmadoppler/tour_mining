@@ -4,7 +4,7 @@ var googleMapsClient = require('@google/maps').createClient({
 });
 
 //Reach Data from txt and remove dupplicate
-var array = fs.readFileSync('all_user_geo.txt').toString().split("\n");
+var array = fs.readFileSync('leftover.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
     return index == self.indexOf(elem);
 })

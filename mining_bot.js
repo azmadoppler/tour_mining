@@ -24,32 +24,11 @@ function loopingTwitter(){
   T.get('search/tweets', params, retrieveTweet);
 }
 
-var fav = {
-  user_id: 569102761,
-  // q: "I\'m at -RT",
-  count: 200,
-  //YYYY-MM-DD
-  // until: '2017-06-08',
-  // geocode:'35.7022,139.7741,500km'
-};
-
 
 var miningApp = setInterval(function(){
   loopingTwitter();
 }, 5*1000);
 
-function favouriteMining(){
-  T.get('favorites/list', fav, printFav);
-}
-
-function printFav(err,data,response){
-
-  let tweets = data;
-  for(var i = 0; i < tweets.length ; i ++){
-      console.log("Favorite Tweet Number "+i+": "+tweets[i].text+"\n")
-  }
-
-}
 
 function retrieveTweet(err, data, response) {
   console.log("Getting the Data From Twitter")

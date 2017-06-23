@@ -12,6 +12,7 @@ Gunma
 Saitama
 Chiba
 Tōkyō
+Tokyo
 Kanagawa
 Niigata
 Toyama
@@ -25,6 +26,7 @@ Aichi
 Mie
 Shiga
 Kyōto
+Kyoto
 Ōsaka
 Osaka
 Hyōgo

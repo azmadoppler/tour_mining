@@ -1,0 +1,34 @@
+User Keyword Input => Tokyo
+
+Search All the Record for the keyword [Tokyo]
+
+User ID : 124176013, Location : Tōkyō
+User ID : 124176013, Location : Fukuoka
+User ID 	166052077	 Location 	 Tōkyō
+User ID 	166052077	 Location 	 Ōsaka
+User ID 	122707120	 Location 	 Tōkyō
+User ID 	122707120	 Location 	 Saitama
+User ID 	69305132	 Location 	 Tōkyō
+User ID 	69305132	 Location 	 Kyōto
+User ID 	220209716	 Location 	 Tōkyō
+User ID 	220209716	 Location 	 Fukushima
+User ID 	220209716	 Location 	 Tōkyō
+User ID 	220209716	 Location 	 Ibaraki
+User ID 	59462066	 Location 	 Tōkyō
+User ID 	59462066	 Location 	 Tochigi
+User ID 	59462066	 Location 	 Tōkyō
+User ID 	59462066	 Location 	 Saitama
+User ID 	1376873455	 Location 	 Tōkyō
+User ID 	1376873455	 Location 	 Shiga
+User ID 	459932653	 Location 	 Tōkyō
+User ID 	459932653	 Location 	 Saitama
+User ID 	2794774168	 Location 	 Tōkyō
+User ID 	2794774168	 Location 	 Aichi
+User ID 	1336968948	 Location 	 Tōkyō
+User ID 	1336968948	 Location 	 Hokkaidō
+User ID 	135902097	 Location 	 Tōkyō
+User ID 	135902097	 Location 	 Kanagawa
+User ID 	135902097	 Location 	 Tōkyō
+User ID 	135902097	 Location 	 Saitama
+
+Using the Collaborative Filtering for the searching

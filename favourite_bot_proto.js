@@ -39,7 +39,7 @@ function readFileFromText(){
 
 function favouriteMining(){
     var fav = {
-      user_id: 569102761,
+      user_id: 123521037,
       count: 200
     };
     T.get('favorites/list', fav, printFav);
@@ -58,23 +58,34 @@ function printFav(err,data,response){
 function frequencyCounting(){
   console.log(favoriteText.length);
   var kuromojiDictionary =   kuromoji.builder({ dicPath: "node_modules/kuromoji/dict" });
-  for(let i = 0 ; i < favoriteText.length ; i++){
-  kuromojiDictio
-  nary.build(function (err, tokenizer) {
+
+  kuromojiDictionary.build(function (err, tokenizer) {
+    for(let i = 0 ; i < favoriteText.length ; i++){
       // tokenizer is ready
       var path = tokenizer.tokenize(favoriteText[i]);
       // console.log(path);
+      var data = [];
+      var trueWord = [];
       for(k in path)
       {
         if(path[k].pos=="名詞"&&path[k].word_type=='KNOWN'){
-          console.log(path[k].surface_form)
+          for ( var j in data){
+            if(data[j] === path[k].surface_form){
+              trueWord.push(path[k].surface_form)
+            }
+          }
+          data.push(path[k].surface_form)
         }
       }
-    });
 
-
+      var unique = trueWord.filter(function(elem, index, self) {
+          return index == self.indexOf(elem);
+      })
+      for(var l in unique){
+        console.log(unique[l])
+      }
   }
-
+    });
 
 }
 

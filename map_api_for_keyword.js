@@ -1,9 +1,11 @@
+//google map api -> real text
+
 var fs = require('fs');
 var googleMapsClient = require('@google/maps').createClient({
   key: 'AIzaSyDZA6lUixjsRpfgzaeBpVJHODCvOfriIGo'
 });
 
-var cleaner = require('./data_cleaning.js')
+var cleaner = require('./data_cleaning_for_google_map.js')
 
 //Reach Data from txt and remove dupplicate
 var array = fs.readFileSync('leftover.txt').toString().split("\n");
@@ -86,7 +88,7 @@ function mapAPIApp(lat,lon){
 function writeFileToTxt(rec_data){
   var toTxt = "";
   toTxt += "User ID : " + writtingID + ", Location : " + rec_data +"\n" ;
-  var textName = "Keyword_Mapped.txt";
+  var textName = "Keyword_Mapped_v2.txt";
   fs.appendFile(textName, toTxt , function (err) {
     if (err) throw err;
     console.log('Saved!');

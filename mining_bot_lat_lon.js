@@ -12,13 +12,14 @@ var queryPlace = "akihabara";
 function loopingTwitter(){
   var searchParams;
   var params = {
-    q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
+    // q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
     // q: "I\'m at -RT",
+    q: "常盤公園 -RT",
     count: 100,
     result_type: 'recent',
     max_id: currentID,
-    until: '2017-06-07',
-    // geocode:'35.7022,139.7741,500km'
+    // until: '2017-06-27',
+    geocode:　'33.945638,131.283114,5mi'
   };
   T.get('search/tweets', params, retrieveTweet);
 }
@@ -26,7 +27,7 @@ function loopingTwitter(){
 
 var miningApp = setInterval(function(){
   loopingTwitter();
-}, 4*1000);
+}, 3*1000);
 
 function retrieveTweet(err, data, response) {
   console.log("Getting the Data From Twitter")
@@ -38,21 +39,24 @@ function retrieveTweet(err, data, response) {
     //Data Collection Part
     let tweets = data.statuses;
     for(var i = 0; i < tweets.length ; i ++){
-        if(tweets[i].coordinates != null) {
-          // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
-          // console.log("The Username ID : " + tweets[i].user.id_str + "\n");
-          // console.log("The Tweets ID is  : " + tweets[i].id_str + "\n");
-          // console.log("The User Location is  : " + tweets[i].user.location + "\n");
-          // console.log("Lattitute " + tweets[i].coordinates.coordinates[0] +", Longitute: "+ tweets[i].coordinates.coordinates[1]);
-          let writtingText = "User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +
-          tweets[i].coordinates.coordinates[0]+", Tweet Number : "+ tweets[i].id_str+ ", Tweet Status : "+ tweets[i].text +" \n" ;
-          console.log(writtingText);
-          geoUser.push(writtingText);
-        }
-        else {
-          // console.log("Twutter Number : " + i + " doesn't have coordinates")
-          // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
-        }
+        let writtingText = "User ID : " + tweets[i].user.id_str + ", Tweet Number : "+ tweets[i].id_str+ ", Tweet Status : "+ tweets[i].text +" \n" ;
+        console.log(writtingText);
+        geoUser.push(writtingText);
+        // if(tweets[i].coordinates != null) {
+        //   // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
+        //   // console.log("The Username ID : " + tweets[i].user.id_str + "\n");
+        //   // console.log("The Tweets ID is  : " + tweets[i].id_str + "\n");
+        //   // console.log("The User Location is  : " + tweets[i].user.location + "\n");
+        //   // console.log("Lattitute " + tweets[i].coordinates.coordinates[0] +", Longitute: "+ tweets[i].coordinates.coordinates[1]);
+        //   let writtingText = "User ID : " + tweets[i].user.id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +
+        //   tweets[i].coordinates.coordinates[0]+", Tweet Number : "+ tweets[i].id_str+ ", Tweet Status : "+ tweets[i].text +" \n" ;
+        //   console.log(writtingText);
+        //   geoUser.push(writtingText);
+        // }
+        // else {
+        //   // console.log("Twutter Number : " + i + " doesn't have coordinates")
+        //   // console.log("The Tweet Number : " + i +  " | The Tweet is " + tweets[i].text + "\n");
+        // }
         currentID = tweets[i].id_str;
     }
 

@@ -1,5 +1,4 @@
 Hokkaidō
-Hokkaido
 Aomori
 Iwate
 Miyagi
@@ -12,7 +11,6 @@ Gunma
 Saitama
 Chiba
 Tōkyō
-Tokyo
 Kanagawa
 Niigata
 Toyama
@@ -26,11 +24,8 @@ Aichi
 Mie
 Shiga
 Kyōto
-Kyoto
 Ōsaka
-Osaka
 Hyōgo
-Hyogo
 Nara
 Wakayama
 Tottori
@@ -48,7 +43,6 @@ Saga
 Nagasaki
 Kumamoto
 Ōita
-Oita
 Miyazaki
 Kagoshima
 Okinawa

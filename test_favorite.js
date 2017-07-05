@@ -1,26 +1,53 @@
-var obj = {
-    'test1': 100,
-    'test2': 10
-};
-var text = 'text1'
-console.log(obj.test1)
+var fs = require('fs');
 
-
-
-function frequencyCounting(){
-  console.log(favoriteText.length);
-  var kuromojiDictionary =   kuromoji.builder({ dicPath: "node_modules/kuromoji/dict" });
-  for(let i = 0 ; i < favoriteText.length ; i++){
-  kuromojiDictionary.build(function (err, tokenizer) {
-      // tokenizer is ready
-      var path = tokenizer.tokenize(favoriteText[i]);
-      // console.log(path);
-      for(k in path)
-      {
-        if(path[k].pos=="名詞"&&path[k].word_type=='KNOWN'){
-          console.log(path[k])
-        }
-      }
-    });
+var array = fs.readFileSync('tags_and_location.txt').toString().split("\r\n");
+var unique = array.filter(function(elem, index, self) {
+    return index == self.indexOf(elem);
+})
+unique.pop();
+var currentUserID = [] ;
+var locations = [];
+var counter = 0;
+var noID = 0;
+for(let i = 0 ; i < unique.length ; i++){
+  if(!(unique[i].includes("User ID") ) ){
+    continue;
   }
+  //clean read data process
+  let originalText = unique[i].replace(/ /g, '').replace("InputKeyword:","").replace("UserID:","").replace("Location:","");
+  let arrayData = originalText.split(",");
+  // [0] = ID , [1] = Lat , [2] = Lon
+  // console.log(arrayData)
+  currentUserID.push(arrayData[0]);
+  locations.push(arrayData[1]);
+
+}
+var resultCollection = {};
+
+for(let i = 0 ; i < locations.length ; i++){
+  let text = location[i]
+  if(text in resultCollection) {
+    let oldValue = resultCollection[text]
+    resultCollection[tester] = oldValue+1;
+    console.log(obj)
+  }
+  else {
+    resultCollection[text] = 0
+    console.log(obj)
+  }
+}
+console.log(resultCollection)
+
+
+
+function writeFileToTxt(){
+  var toTxt = "";
+  toTxt += "User ID : " + writtingID + ", Location : " + rec_data+ ", Input Keyword : " + writtingLocation   +"\n" ;
+  var textName = "tags_and_location.txt";
+  fs.appendFile(textName, toTxt , function (err) {
+    if (err) throw err;
+    console.log('Saved!');
+    toTxt = "";
+    userGeo = [];
+  });
 }

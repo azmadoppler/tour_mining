@@ -3,7 +3,6 @@ console.log('testing bot is started');
 var Twit = require('twit');
 var config = require('./config');
 var fs = require('fs');
-var geoUser = [];
 
 var T = new Twit(config);
 
@@ -12,18 +11,15 @@ var queryPlace = "akihabara";
 function loopingTwitter(){
   var searchParams;
   var params = {
-    // q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
-    // q: "I\'m at -RT",
-    q: "常盤公園 -RT",
+    q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
     count: 100,
     result_type: 'recent',
     max_id: currentID,
-    // until: '2017-06-27',
-    geocode:　'33.945638,131.283114,5mi'
   };
   T.get('search/tweets', params, retrieveTweet);
 }
 
+var geoUser = [];
 
 var miningApp = setInterval(function(){
   loopingTwitter();

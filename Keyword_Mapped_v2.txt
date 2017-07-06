@@ -42,9 +42,6 @@ User ID : 996115633, Location : Fukushima
 User ID : 996115633, Location : Miyagi
 User ID : 996115633, Location : Iwate
 User ID : 996115633, Location : Akita
-User ID : 996115633, Location : 秋田県
-User ID : 996115633, Location : Akita
-User ID : 996115633, Location : 秋田県
 User ID : 996115633, Location : Iwate
 User ID : 996115633, Location : Miyagi
 User ID : 996115633, Location : Fukushima

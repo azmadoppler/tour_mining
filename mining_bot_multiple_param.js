@@ -15,6 +15,7 @@ function loopingTwitter(){
   var params = {
     q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
     // q: "I\'m at -RT",
+    // q: "常盤公園 -RT",
     count: 100,
     result_type: 'recent',
     max_id: currentID,

@@ -123,7 +123,6 @@ function writeFileToTxt(){
       toTxt += userGeo[i] + "\n";
     }
   }
-
   var textName = "keyboard_test_"+runner+"_record.txt";
   runner++;
   fs.appendFile(textName, toTxt , function (err) {

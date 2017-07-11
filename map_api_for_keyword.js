@@ -4,9 +4,7 @@ var fs = require('fs');
 var googleMapsClient = require('@google/maps').createClient({
   key: 'AIzaSyDZA6lUixjsRpfgzaeBpVJHODCvOfriIGo'
 });
-
 var cleaner = require('./data_cleaning_for_google_map.js')
-
 //Reach Data from txt and remove dupplicate
 var array = fs.readFileSync('leftover.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
@@ -24,7 +22,8 @@ for(let i = 0 ; i < unique.length ; i++){
     continue;
   }
 
-  let originalText = unique[i].replace(/ /g, '').replace("UserID:","").replace("Lattitute:","").replace("Longitute:","");
+  let originalText = unique[i].replace(/ /g, '').replace("UserID:","")
+  .replace("Lattitute:","").replace("Longitute:","");
   let arrayData = originalText.split(",");
   // [0] = ID , [1] = Lat , [2] = Lon
   currentUserID.push(arrayData[0]);

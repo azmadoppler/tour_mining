@@ -1,0 +1,26 @@
+#greeting_text {
+  font-size: 220%;
+}
+
+.active a {
+  color: white !important;
+  background-color: black !important;
+}
+
+#register_content {
+  margin-left: 34.5%;
+  margin-bottom: 2%;
+}
+
+#register_field {
+  width: 40%;
+  text-align: left;
+}
+
+.tooltip-inner {
+  text-align: center;
+}
+
+#profile-container {
+  margin-top: 80px;
+}

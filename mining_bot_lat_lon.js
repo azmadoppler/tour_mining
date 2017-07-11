@@ -11,7 +11,10 @@ var queryPlace = "akihabara";
 function loopingTwitter(){
   var searchParams;
   var params = {
-    q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
+    // q: "\"I"  +   "\'"   +"m at\"    "   +     " (空港 OR 新幹線) -RT" ,
+    // q: "at あの花 -RT" ,
+    q: "\"I"  +   "\'"   +"m at\"    "   +     " 沼津市 -RT" ,
+    // q: "あの花　聖地　-RT",
     count: 100,
     result_type: 'recent',
     max_id: currentID,

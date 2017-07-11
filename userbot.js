@@ -29,10 +29,12 @@ var userBotApp = setInterval(function(){
   userTestID = unique.pop();
   console.log(userTestIDString);
   var userDummy = {
-      // user_id: userTestID,
-      user_id: currentUserID[runner],
-      count: 900,
-      // since_id: 872362691473571843
+      // user_id: 728200423941627906,
+      screen_name: 'coharu105',
+      // user_id: currentUserID[runner],
+      count: 300,
+      // since_id: 877934347197628420,
+      max_id: 877678811096248321
   };
 
   T.get('statuses/user_timeline', userDummy, geoMining);
@@ -50,15 +52,17 @@ function geoMining(err,data,response){
       let tweets = data;
       for(let i = 0 ; i < tweets.length ; i++)
       {
-          if(tweets[i].coordinates!=null)
-          {
+          // if(tweets[i].coordinates!=null)
+          // {
             // console.log("Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " + tweets[i].coordinates.coordinates[0]);
-            let writtingText = "Tweet ID : " + tweets[i].id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] + ", Tweet Status : " + tweets[i].text ;
+            let writtingText = "Tweet ID : " + tweets[i].id_str +
+            //  " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] +
+             ", Tweet Status : " + tweets[i].text ;
             console.log(writtingText);
             userGeo.push(writtingText);
-          }
-          else{
-          }
+          // }
+          // else{
+          // }
           currentID = tweets[i].id_str;
       }
       // console.log("Last Tweeted At "+ currentID + "\n");

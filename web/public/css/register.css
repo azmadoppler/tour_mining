@@ -1,0 +1,15 @@
+#register_content{
+  margin-left: 34.5%;
+  margin-bottom:2%;
+}
+#register_field{
+  width:40%;
+  text-align:left;
+}
+.tooltip-inner {
+    text-align: center;
+}
+#register_legend{
+  text-align:center;
+  margin-left:-50%;
+}

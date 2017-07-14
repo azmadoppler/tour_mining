@@ -44,23 +44,25 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="nav navbar-nav collapse navbar-collapse pullRight col-md-9" id="bs-example-navbar-collapse-1">
           <!-- <div class="col-md-12"> -->
+          <form action="/searching-keyword" method="POST">
           <ul class="nav navbar-nav">
             <li><a href="">Browse</a></li>
             <li>
               <section class="main">
-                <form class="search navbar-form" autocomplete="off">
+                <div class="search navbar-form" autocomplete="off">
 
                   <div class="form-group content">
-                    <input type="text" style="width:150%;" class="form-control searching" id="search" placeholder="Search..." name="search" autocomplete="off" />
+                    <input type="text" style="width:150%;" class="form-control searching" id="search"  name="input_keyword" autocomplete="off" />
 
                   </div>
-                </form>
+                </div>
               </section>
             </li>
-            <li style="margin-left:100px"><a href="/result">Search &ensp; <span class="glyphicon glyphicon-search"></span></a></li>
-            <li><a href="/search">Advance Search   <span class="glyphicon glyphicon-cog"></span></a></li>
+            <li style="margin-left:100px;margin-top:14px"><button type="submit" style=" 4padding: 0;border: none;background: none;">Search &ensp; <span class="glyphicon glyphicon-search"></span></button></li>
+            <li><a href="/">Advance Search   <span class="glyphicon glyphicon-cog"></span></a></li>
 
           </ul>
+          </form>
         </div>
         <div class="col-md-3 nav navbar-nav navbar-right navbar-collapse pullRight collapse" id="navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
@@ -91,10 +93,15 @@
   </div>
 
   <h1 style="color: white;text-shadow: 4px 4px 8px #000000;position: absolute;
-    left:170px;
+    left:300px;
     top: 400px;
-    font-size: 80px">LET US DESIGN YOUR JOURNEY !</h1>
-  <a href="/search"><button type="button" class="btn btn-trans btn-trans-default" style="margin-left:0em;background: black; border: 2px solid white; font-size: 20px;position:absolute;left:540;top:530"><div style="font-size:150%;color:white">Start Your Journey Now !</div></button></a>
+    font-size: 4vw">LET US DESIGN YOUR JOURNEY !</h1>
+  <a href="/search"><button type="button" class="btn btn-trans btn-trans-default" style="background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 2px solid white;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none; font-size: 1.5vw;position:absolute;left:540;top:530"><div style="font-size:150%;color:white">Start Your Journey Now !</div></button></a>
 </body>
 
 

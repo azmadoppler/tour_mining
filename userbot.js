@@ -30,11 +30,11 @@ var userBotApp = setInterval(function(){
   console.log(userTestIDString);
   var userDummy = {
       // user_id: 728200423941627906,
-      screen_name: 'coharu105',
+      screen_name: 'LoveLiveRinRin5',
       // user_id: currentUserID[runner],
       count: 300,
       // since_id: 877934347197628420,
-      max_id: 877678811096248321
+      max_id: 886838140212039680
   };
 
   T.get('statuses/user_timeline', userDummy, geoMining);

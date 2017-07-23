@@ -1,4 +1,4 @@
-Hokkaidō
+﻿Hokkaidō
 Aomori
 Iwate
 Miyagi
@@ -37,7 +37,6 @@ Tokushima
 Kagawa
 Ehime
 Kōchi
-Kochi
 Fukuoka
 Saga
 Nagasaki

@@ -10,20 +10,21 @@ var bodyParser = require('body-parser');
 var cors=require('cors');
 var routes = require('./routes/index');
 var result = require('./routes/result')
-var connection = mysql.createConnection({
-  host     : 'localhost',
-  user     : 'root',
-  password : '',
-  database : 'tour_mining'
-});
-
-connection.connect();
-
-connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
-  if (error) throw error;
-  console.log('The solution is: ', results[0].solution);
-});
-
+var api = require('./routes/api')
+// var connection = mysql.createConnection({
+//   host     : 'localhost',
+//   user     : 'root',
+//   password : '',
+//   database : 'tour_mining'
+// });
+//
+// connection.connect();
+//
+// connection.query('SELECT 1 + 1 AS solution', function (error, results, fields) {
+//   if (error) throw error;
+//   console.log('The solution is: ', results[0].solution);
+// });
+//
 
 
 var bodyParser = require('body-parser')
@@ -43,6 +44,7 @@ app.use('/assets', express.static(path.join(__dirname, 'public')))
 
 app.use('/', routes);
 app.use('/result',result)
+app.use('/api' , api)
 app.use('/', function (req, res, next){
   console.log('Request URL : ' + req.url)
   next();

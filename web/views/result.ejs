@@ -1,0 +1,188 @@
+<html>
+
+<head>
+  <title>
+    Search
+  </title>
+  <!--  Style Sheet Import -->
+  <link rel="stylesheet" href="/assets/owl-carousel/assets/owl.carousel.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <link rel="stylesheet" href="/assets/owl-carousel/assets/owl.carousel.min.css" />
+
+  <!-- JS Import  -->
+  <!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="/assets/vue/vue.js"></script>
+  <script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  <!-- Important Owl stylesheet -->
+  <script src="/assets/owl-carousel/owl.carousel.min.js"></script>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+  <!-- <link rel="stylesheet" href="../style.css"> -->
+
+  <link href="/assets/css/result.css" type="text/css" rel="stylesheet" />
+</head>
+
+
+<body id="the_body">
+
+  <div id="app">
+    <div id="navbar">
+      <nav id="navbar" style="background-color: #A9FFD1" class="navbar navbar-default navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+          <div class="col-md-3 navbar-header">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                      <span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span>
+            </button>
+              <a class="navbar-brand" href="/">
+              <img style="height:250%; margin-top:-30%" src="/assets/img/icon.png" alt="">
+              <!-- Welcome to Tour Mining -->
+            </a>
+            </div>
+          </div>
+          <!-- Collect the nav linksformsand other content for toggling -->
+          <div class="nav navbar-nav collapse navbar-collapse pullRight col-md-9" id="bs-example-navbar-collapse-1">
+            <!-- <div class="col-md-12"> -->
+            <ul class="nav navbar-nav">
+              <li><a href="">Browse</a></li>
+              <li>
+                <section class="main">
+                  <form class="search navbar-form" autocomplete="off">
+
+                    <div class="form-group content">
+                      <input type="text" style="width:150%;" class="form-control searching" id="search" placeholder="Search..." name="search" autocomplete="off" />
+
+                    </div>
+                  </form>
+                </section>
+              </li>
+              <li style="margin-left:100px"><a href="">Search &ensp; <span class="glyphicon glyphicon-search"></span></a></li>
+              <li><a href="">Advance Search   <span class="glyphicon glyphicon-cog"></span></a></li>
+
+            </ul>
+          </div>
+          <div class="col-md-3 nav navbar-nav navbar-right navbar-collapse pullRight collapse" id="navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+
+              <li><a href="">Contract Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <br /><br /> <br /><br />
+    <div style="text-align:center; padding:0; margin:0 " class="col-md-12" id="carousel_main">
+      <!-- <h2 class="display-3">You Input Keyword : あの花</h1> -->
+      <h2 class="display-3">You Input Keyword : {{ title }}</h1>console.log() // outputs 'yay'
+
+  </div>
+  <div class="container">
+    <br />
+    <h4 style="text-align:center">The result came out with the total of 10 user records</h4>
+    <hr>
+    <div class="row">
+        <div class="panel panel-primary filterable">
+            <div class="panel-heading">
+                <h3 class="panel-title">Record Number : 1 - Username : SeitiTech</h3>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr class="filters">
+                        <th><input type="text" class="form-control" placeholder="User Number" disabled></th>
+                        <th><input type="text" class="form-control" placeholder="Record Number" disabled></th>
+                        <th><input type="text" class="form-control" placeholder="Travel From" disabled></th>
+                        <th><input type="text" class="form-control" placeholder="Travel To" disabled></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="record in records">
+                        <!-- <td><input type="text"  v-model="record.user_id" v-bind:value="record.user_id"></td> -->
+
+                        <td>{{record.user_id}}</td>
+                        <td>{{record.record_number}}</td>
+                        <td>{{record.prefecture_from}}</td>
+                        <td>{{record.prefecture_to}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <button @click="loadRecord()"> Test Button</button>
+
+  </div>
+
+
+</div>
+</body>
+
+
+
+</html>
+<script type="text/javascript">
+$('.owl-carousel').owlCarousel({
+  loop:true,
+  margin:0,
+  center:true,
+  autoplay:true,
+  // autowidth:true,
+
+  responsive:{
+      0:{
+          items:1
+      },
+      600:{
+          items:1
+      },
+      1000:{
+          items:1
+      }
+  }
+  })
+</script>
+
+<script>
+  var router = new VueRouter({
+       mode: 'history',
+       routes: []
+
+   });
+  console.log(" this is axious " + axios)
+  const API = 'http://localhost:3001/api/'
+  const RECORD_ENDPOINT = API +'search/';
+  new Vue({
+    router,
+    el: '#app',
+    data: {
+      title: 'Show All Tour Record',
+      // title: ,
+      records: []
+    },
+    methods: {
+      loadRecord(location){
+        axios.get(RECORD_ENDPOINT+location)
+      .then((response) => {
+        console.log(response.data)
+        this.records = response.data
+      }).catch((error) =>{
+        console.log("ERROR : " + error)
+
+      })
+      }
+
+    },
+    mounted(){
+      console.log("You Query String is "+ this.$route.query.search);
+      this.loadRecord(this.$route.query.search)
+    },
+  })
+
+</script>

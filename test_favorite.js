@@ -25,20 +25,16 @@ for(let i = 0 ; i < unique.length ; i++){
 var resultCollection = {};
 
 for(let i = 0 ; i < locations.length ; i++){
-  let text = location[i]
+  let text = locations[i]
   if(text in resultCollection) {
     let oldValue = resultCollection[text]
-    resultCollection[tester] = oldValue+1;
-    console.log(obj)
+    resultCollection[text] = oldValue+1;
+
   }
   else {
-    resultCollection[text] = 0
-    console.log(obj)
+    resultCollection[text] = 1
   }
 }
-console.log(resultCollection)
-
-
 
 function writeFileToTxt(){
   var toTxt = "";

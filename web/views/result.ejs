@@ -54,6 +54,7 @@
               <li><a href="">Browse</a></li>
               <li>
                 <section class="main">
+                  
                   <form class="search navbar-form" autocomplete="off">
 
                     <div class="form-group content">
@@ -81,7 +82,7 @@
     <br /><br /> <br /><br />
     <div style="text-align:center; padding:0; margin:0 " class="col-md-12" id="carousel_main">
       <!-- <h2 class="display-3">You Input Keyword : あの花</h1> -->
-      <h2 class="display-3">You Input Keyword : {{ title }}</h1>console.log() // outputs 'yay'
+      <h2 class="display-3">You Input Keyword : {{ title }}
 
   </div>
   <div class="container">
@@ -116,7 +117,6 @@
         </div>
     </div>
 
-    <button @click="loadRecord()"> Test Button</button>
 
   </div>
 
@@ -168,7 +168,13 @@ $('.owl-carousel').owlCarousel({
     },
     methods: {
       loadRecord(location){
-        axios.get(RECORD_ENDPOINT+location)
+        let queryText = "";
+        if(location){
+          queryText = RECORD_ENDPOINT + location;
+        } else{
+          queryText = RECORD_ENDPOINT;
+        }
+        axios.get(queryText)
       .then((response) => {
         console.log(response.data)
         this.records = response.data

@@ -18,10 +18,10 @@ function loopingTwitter() {
     // q: "常盤公園 -RT",
     count: 100,
     result_type: 'recent',
-    // max_id: currentID,
+    max_id: currentID,
     //YYYY-MM-DD
-    until: '2017-07-10',
-    geocode:'35.7022,139.7741,500km'
+    until: '2017-07-18',
+    geocode: '35.7022,139.7741,500km'
   };
   T.get('search/tweets', params, retrieveTweet);
 }
@@ -117,7 +117,7 @@ function writeToText() {
       toTxt += geoUser[i] + "\n";
     }
   }
-  var textName = "mining_bot_result_D14.txt";
+  var textName = "mining_bot_result_D25.txt";
   fs.appendFile(textName, toTxt, function(err) {
     if (err)
       throw err;

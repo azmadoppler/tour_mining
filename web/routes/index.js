@@ -44,6 +44,6 @@ router.post('/searching-keyword' , function(req , res){
     }
   }
 
-  return res.redirect('/result/noresult')
+  return res.redirect('/result/')
 })
 module.exports = router;

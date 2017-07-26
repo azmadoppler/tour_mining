@@ -7,12 +7,11 @@ var geoUser = [];
 
 var T = new Twit(config);
 
-var array = fs.readFileSync('raw_data_from_keyword.txt').toString().split("\n");
+var array = fs.readFileSync('mining_bot_dupe_D25.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
     return index == self.indexOf(elem);
 })
 unique.pop();
-
 //extraction variable
 var currentUserID = [] ;
 var arrayLat = [];
@@ -24,35 +23,34 @@ var twitterLocation = [];
 var runner = 0;
 var userGeo = [];
 
+// console.log(unique)
 for(let i = 0 ; i < unique.length ; i++){
-  let originalText = unique[i].replace(/ /g, '');
+  let originalText = unique[i].replace(/ /g, '').replace("UserID:", "").replace("Lattitute:", "").replace("Longitute:", "").replace('TweetNumber:',"").replace('TweetStatus:', "");
   let arrayData = originalText.split(",");
+  // console.log(arrayData)
   // [0] = userID , [1] = Lat , [2] = Lon // [3] = twitterID // [4] location
+  console.log(arrayData)
   currentUserID.push(arrayData[0]);
   arrayLat.push(arrayData[1]);
   arrayLon.push(arrayData[2]);
   currentTwitterID.push(arrayData[3]);
-  if(isBlank(arrayData[4]) || isEmpty(arrayData[4]))
-  {
-    twitterLocation.push("No Location")
-  }
-  else {
-    twitterLocation.push(arrayData[4]);
-  }
+  // if(isBlank(arrayData[4]) || isEmpty(arrayData[4]))
+  // {
+  //   twitterLocation.push("No Location")
+  // }
+  // else {
+  //   twitterLocation.push(arrayData[4]);
+  // }
 }
 
 
-
-
-unique.pop(); //unique is now all of the unique id
-
-
-//
 var userBotApp = setInterval(function(){
+  // console.log("Current ID " + idValue)
+  // console.log(currentUserID[runner])
   var userDummy = {
       user_id: currentUserID[runner],
       count: 900,
-      since_id: currentTwitterID[runner]
+      since_id: currentTwitterID[runner],
   };
 
   T.get('statuses/user_timeline', userDummy, geoMining);
@@ -69,12 +67,13 @@ function geoMining(err,data,response){
 
   else{
       let tweets = data;
+      // console.log(data)
       for(let i = 0 ; i < tweets.length ; i++)
       {
           if(tweets[i].coordinates!=null)
           {
             // console.log("Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " + tweets[i].coordinates.coordinates[0]);
-            let writtingText = "User ID : "+ tweets[i].user.id_str + ",Tweet ID : " + tweets[i].id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] + ", Tweet Status : " + tweets[i].text;
+            let writtingText = "User ID : "+ tweets[i].user.id_str + ",Tweet ID : " + tweets[i].id_str + " , Lattitute : " + tweets[i].coordinates.coordinates[1] + ", Longitute : " +  tweets[i].coordinates.coordinates[0] + ", Created : " + tweets[i].created_at;
             console.log(writtingText);
             userGeo.push(writtingText);
           }
@@ -84,7 +83,6 @@ function geoMining(err,data,response){
       }
       // console.log("Last Tweeted At "+ currentID + "\n");
       writeFileToTxt();
-      // runner++;
     }
 }
 function placeMining(err,data,response){
@@ -123,7 +121,7 @@ function writeFileToTxt(){
       toTxt += userGeo[i] + "\n";
     }
   }
-  var textName = "keyboard_test_"+runner+"_record.txt";
+  var textName = "z_user_bot_detail_"+runner+"_record.txt";
   runner++;
   fs.appendFile(textName, toTxt , function (err) {
     if (err) throw err;

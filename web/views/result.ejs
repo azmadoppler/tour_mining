@@ -54,7 +54,7 @@
               <li><a href="">Browse</a></li>
               <li>
                 <section class="main">
-                  
+
                   <form class="search navbar-form" autocomplete="off">
 
                     <div class="form-group content">
@@ -176,8 +176,15 @@ $('.owl-carousel').owlCarousel({
         }
         axios.get(queryText)
       .then((response) => {
-        console.log(response.data)
+        // console.log(response.data)
+        let allrecord = {};
+        for(let i in response.data){
+          // console.log(response.data[i].record_number)
+          allrecord[response.data[i].record_number] = 1;
+        }
+        console.log(allrecord)
         this.records = response.data
+
       }).catch((error) =>{
         console.log("ERROR : " + error)
 

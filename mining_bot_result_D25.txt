@@ -410,3 +410,405 @@ User ID : 111755088 , Lattitute : 34.85923664, Longitute : 136.81504231, Tweet N
 User ID : 128484823 , Lattitute : 36.34254225, Longitute : 138.63509059, Tweet Number : 886440934535290880, Tweet Status : I'm at 北陸新幹線 軽井沢駅 in Karuizawa Machi, 長野県 https://t.co/6W933WWj95
 User ID : 130541501 , Lattitute : 35.77283674, Longitute : 140.38727431, Tweet Number : 886440921100931072, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/LnLwIXCjE2
 User ID : 718552710996295680 , Lattitute : 38.13725698, Longitute : 140.92941999, Tweet Number : 886438683385188352, Tweet Status : I'm at 仙台空港駅 in 名取市, 宮城県 https://t.co/yHcoDZS9b6
+User ID : 2473841275 , Lattitute : 37.04341303, Longitute : 137.86162646, Tweet Number : 889632374786543618, Tweet Status : I'm at 北陸新幹線 糸魚川駅 in 糸魚川市, 新潟県 https://t.co/vC7ILHa4IA
+User ID : 144429457 , Lattitute : 36.32256813, Longitute : 139.01304066, Tweet Number : 889631016498987009, Tweet Status : I'm at 上越・北陸新幹線 高崎駅 in 高崎市, 群馬県 https://t.co/pfdf5iAhfr
+User ID : 136990775 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889630383721119744, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/C9AuFKFlWR
+User ID : 83051106 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889629915536125952, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/PPO80N1n6k
+User ID : 378044512 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889628895485538304, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/5O0YDi6A5n
+User ID : 4154012774 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889624561821659136, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/sojSl3zZbW
+User ID : 144429457 , Lattitute : 35.9059803, Longitute : 139.6231842, Tweet Number : 889624161802440713, Tweet Status : I'm at JR 大宮駅 新幹線ホーム in さいたま市, 埼玉県 https://t.co/sTppEu9j5G
+User ID : 3002373888 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889621793732014080, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/v6MltxSSJM
+User ID : 179082426 , Lattitute : 34.98468348, Longitute : 135.75932005, Tweet Number : 889620959484940290, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/yE6MHL3sHv
+User ID : 2311927812 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889618193974784000, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/a17qsomOXW
+User ID : 122808924 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 889616290868064256, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/VkTzuEbqZH
+User ID : 427456997 , Lattitute : 34.97164389, Longitute : 138.38933786, Tweet Number : 889611806456631298, Tweet Status : I'm at JR静岡駅 新幹線ホーム in Shizuoka https://t.co/BoT1zV0gZr
+User ID : 1376873455 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889607261420756993, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ANGY5DCGjW
+User ID : 2851523456 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889606592022413314, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/2Z28u78zGY
+User ID : 582710885 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889599174035070976, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/jKpGV7ITjS
+User ID : 232099914 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889597663796178944, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/Q7EoniOUMj
+User ID : 228019907 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889595513070333960, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/uux6I0tlVC https://t.co/TADawo6M3N
+User ID : 103097171 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889593616104116224, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/LQPzyp54ap
+User ID : 2473841275 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889591630642151428, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/kHcDWlM0xy
+User ID : 3301318280 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889586228902998018, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/lS6NUIVHx0
+User ID : 113624880 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889530383674597376, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/cJhCii005V
+User ID : 378044512 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889526710227664898, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/sIv9O7Mtc3
+User ID : 2205054823 , Lattitute : 34.43656114, Longitute : 135.242822, Tweet Number : 889507950250926081, Tweet Status : I'm at 松屋 関西空港店 in Izumisano-shi, 大阪府 https://t.co/kqasi7ZFqI
+User ID : 1388368310 , Lattitute : 37.909521, Longitute : 140.128314, Tweet Number : 889483229908140033, Tweet Status : I'm at 山形新幹線 米沢駅 https://t.co/qx5eAhyZOe
+User ID : 3353552299 , Lattitute : 34.43588535, Longitute : 135.24348021, Tweet Number : 889473152606187520, Tweet Status : I'm at 関西空港駅 in 泉佐野市, 大阪府 https://t.co/1hhW3XW3Gk
+User ID : 1570478323 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889472912817782784, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/Q4pcDSZ64l
+User ID : 81128999 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889471679830908928, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/6wQxetkmp0
+User ID : 1388368310 , Lattitute : 37.39832254, Longitute : 140.38840907, Tweet Number : 889470513650814976, Tweet Status : I'm at 郡山駅 新幹線ホーム in 郡山市, 福島県 https://t.co/Gys0sh4DDZ
+User ID : 185964940 , Lattitute : 35.77236971, Longitute : 140.38779616, Tweet Number : 889469614526255104, Tweet Status : I'm at 京成 空港第2ビル駅 - @keiseirailway in 成田市, 千葉県 https://t.co/REUbx02s3V
+User ID : 489820514 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889464863508049920, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/4mhucnZSE1 https://t.co/bNvNvyRjBI
+User ID : 43495675 , Lattitute : 35.50090997, Longitute : 133.24510651, Tweet Number : 889463694039633920, Tweet Status : I'm at 米子空港 到着ロビー in 境港市, 鳥取県 https://t.co/B3D0T5Um9D
+User ID : 1388368310 , Lattitute : 36.55810219, Longitute : 139.89777289, Tweet Number : 889462971054919680, Tweet Status : I'm at 宇都宮駅 新幹線ホーム in Utsunomiya, Tochigi https://t.co/YR59UXoGuG
+User ID : 3290475876 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889462377414086656, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/IamQGLrVM0
+User ID : 547598474 , Lattitute : 35.17063044, Longitute : 136.88086433, Tweet Number : 889453852134711296, Tweet Status : I'm at 名代きしめん住よし 新幹線下りホーム in 名古屋市, 愛知県 https://t.co/g7gMsxQDzy
+User ID : 59462066 , Lattitute : 35.9059803, Longitute : 139.6231842, Tweet Number : 889453391704883200, Tweet Status : I'm at JR 大宮駅 新幹線ホーム - @jreast_official in さいたま市, 埼玉県 https://t.co/meOzncb9Dh
+User ID : 1120650896 , Lattitute : 36.32256813, Longitute : 139.01304066, Tweet Number : 889452304348434433, Tweet Status : I'm at 上越・北陸新幹線 高崎駅 - @jreast_official in 高崎市, 群馬県 https://t.co/Eexc7REw4Q
+User ID : 3290475876 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889451364362924032, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/nYEd934976
+User ID : 63889999 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Number : 889448861772599297, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/xdEha4JoBo
+User ID : 36678668 , Lattitute : 36.32256813, Longitute : 139.01304066, Tweet Number : 889447554940841985, Tweet Status : I'm at 上越・北陸新幹線 高崎駅 - @jreast_official in 高崎市, 群馬県 https://t.co/UVXjNnXPw0
+User ID : 393601581 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889442700390432768, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/jOC7texlhb
+User ID : 162654393 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889441675822718976, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/XmvjEhldQU
+User ID : 144126152 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889439180308262913, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/IElHmd45sh
+User ID : 1244005952 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889437211002888192, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/PWm1FeqBK6
+User ID : 307752986 , Lattitute : 39.44803201, Longitute : 141.13755118, Tweet Number : 889427588766195712, Tweet Status : I'm at ビジネスホテル 空港 in 花巻市, 岩手県 https://t.co/PqRYFGoUbW
+User ID : 3290475876 , Lattitute : 38.1384697, Longitute : 140.92878475, Tweet Number : 889426400452759552, Tweet Status : I'm at 仙台空港 9番搭乗口 in 名取市, 宮城県 https://t.co/jlO1MhgNV2
+User ID : 861169201 , Lattitute : 35.41489189, Longitute : 132.88583789, Tweet Number : 889423569264021504, Tweet Status : I'm at 出雲縁結び空港 in 出雲市, 島根県 https://t.co/qRvunw3Ggo
+User ID : 582710885 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889423347729281025, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/WTIMR69EK6
+User ID : 85838124 , Lattitute : 35.25373234, Longitute : 136.91915721, Tweet Number : 889420149102706688, Tweet Status : I'm at 県営名古屋空港 / 小牧空港 in 豊山町, 愛知県 https://t.co/8qleXtHnKe
+User ID : 104771321 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889420104739508224, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/x40h1ALVtV
+User ID : 307752986 , Lattitute : 39.43752968, Longitute : 141.13105327, Tweet Number : 889418804379496448, Tweet Status : I'm at フレッシュたもり 空港店 in 花巻市, 岩手県 https://t.co/EnL8pt6NFQ
+User ID : 143468717 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889417990730592256, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/Bvjuf6FnYX
+User ID : 3624419180 , Lattitute : 36.219007, Longitute : 139.179521, Tweet Number : 889412631127363585, Tweet Status : I'm at 本庄早稲田駅 新幹線ホーム in 本庄市, 埼玉県 https://t.co/jLOUTU1vKX
+User ID : 59761489 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889412414067937280, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/9aRZEJPIq2
+User ID : 294571264 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889412373211209728, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/hRI7I9SWTj
+User ID : 59761489 , Lattitute : 35.9059803, Longitute : 139.6231842, Tweet Number : 889407425635385344, Tweet Status : I'm at JR 大宮駅 新幹線ホーム - @jreast_official in さいたま市, 埼玉県 https://t.co/rUDE6f28wm
+User ID : 103313495 , Lattitute : 34.21866022, Longitute : 134.0187943, Tweet Number : 889406999678660608, Tweet Status : I'm at 高松空港 in 高松市, 香川県 https://t.co/7HBPlFbcQ6
+User ID : 3290475876 , Lattitute : 38.13827334, Longitute : 140.92926131, Tweet Number : 889405885340147712, Tweet Status : I'm at 仙台空港 国内線出発ロビー in 名取市, 宮城県 https://t.co/XXrNrvCfOm
+User ID : 235500550 , Lattitute : 34.43588535, Longitute : 135.24348021, Tweet Number : 889405030582898688, Tweet Status : I'm at 関西空港駅 in 泉佐野市, 大阪府 https://t.co/u36JaUr410
+User ID : 80237488 , Lattitute : 35.5265858, Longitute : 134.16769445, Tweet Number : 889404861388918784, Tweet Status : I'm at 鳥取空港 / 鳥取砂丘コナン空港 in 鳥取市, 鳥取県 https://t.co/PU7KCg0Q4B
+User ID : 2878967694 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889402748806066176, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/3e7AGY4no6
+User ID : 16806416 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889402078296252419, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/JOfGlQZ2di
+User ID : 2878967694 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 889400946320695296, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/vqxQAfldBA
+User ID : 3290475876 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889399604554366977, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/BSolV7MmEl
+User ID : 3290475876 , Lattitute : 38.13725698, Longitute : 140.92941999, Tweet Number : 889398760551403520, Tweet Status : I'm at 仙台空港駅 in 名取市, 宮城県 https://t.co/qz9PomAOqd
+User ID : 19336991 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889395810403790848, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/JiNrQiLlXP
+User ID : 703948502125006848 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889394992774606848, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/CemyKGPYNx
+User ID : 59761489 , Lattitute : 36.93166239, Longitute : 140.02017148, Tweet Number : 889393031698427904, Tweet Status : I'm at 那須塩原駅 新幹線ホーム - @jreast_official in 那須塩原市, 栃木県 https://t.co/ZLCTvjI547
+User ID : 132966283 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 889392798516039682, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/1btlAybLoj
+User ID : 14152708 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889391085503623172, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/8FYu4lyGtI
+User ID : 1127324773 , Lattitute : 34.13477459, Longitute : 134.61796045, Tweet Number : 889388301173616640, Tweet Status : I'm at 徳島阿波おどり空港 in 松茂町, 徳島県 https://t.co/RnTkJQU20A
+User ID : 2748729734 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889387976341553152, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/7ugyDxUZCB
+User ID : 65103675 , Lattitute : 36.57799292, Longitute : 136.64870812, Tweet Number : 889386636227825664, Tweet Status : I'm at 北陸新幹線 金沢駅 in 金沢市, 石川県 https://t.co/px9RyXr6HM
+User ID : 85271772 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889376418651660288, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/mclEvBxyMv
+User ID : 2866667221 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889375939938930689, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/iX132PvuiQ
+User ID : 294571264 , Lattitute : 36.401695, Longitute : 136.41321, Tweet Number : 889371579012042752, Tweet Status : I'm at 小松空港 in 小松市, 石川県 https://t.co/3GfUQJiBjd
+User ID : 1127324773 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889369680854605824, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/wvTKVDPGF4
+User ID : 83077586 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889364809988415489, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/w4QWNEpLCP
+User ID : 370103075 , Lattitute : 36.401695, Longitute : 136.41321, Tweet Number : 889364149037408256, Tweet Status : I'm at 小松空港 in 小松市, 石川県 https://t.co/ieSSxn8FCO
+User ID : 716072612586065920 , Lattitute : 39.70138721, Longitute : 141.13694803, Tweet Number : 889362170080874497, Tweet Status : I'm at JR盛岡駅 新幹線ホーム - @jreast_official in 盛岡市, 岩手県 https://t.co/WZOh5qRWDq
+User ID : 240159914 , Lattitute : 34.98468348, Longitute : 135.75932005, Tweet Number : 889361533385535488, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/fbu1EpP3sY
+User ID : 1885869060 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889359558556217345, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/LYRJtNCVl4
+User ID : 267716354 , Lattitute : 35.78060402, Longitute : 140.38604736, Tweet Number : 889357553821417473, Tweet Status : I'm at 成田国際空港 第3ターミナル サテライト https://t.co/JyMvIVeO6c
+User ID : 267716354 , Lattitute : 35.77908961, Longitute : 140.38489896, Tweet Number : 889356920414457857, Tweet Status : I'm at 成田国際空港 第3ターミナル 保安検査場 in 成田市, 千葉県 https://t.co/lrg0NOQYra
+User ID : 267716354 , Lattitute : 35.77814359, Longitute : 140.38425345, Tweet Number : 889352916640968704, Tweet Status : I'm at ローソン 成田国際空港第3旅客ターミナルビル店 - @akiko_lawson in Narita, Chiba https://t.co/cPNngct06Q
+User ID : 240159914 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889352451207385089, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/eiATqVyisG
+User ID : 800471148 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889344413167734785, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/zG5D22DJfm
+User ID : 1667587580 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889342926085648384, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/MSScWEw0uu
+User ID : 1667587580 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889342739351035904, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/GSobA6aOWB
+User ID : 1897571418 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889342677547966464, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/ftohhrNTsl
+User ID : 384294103 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889340129327947776, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/zxRADipXLF
+User ID : 156301331 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889339573255499777, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/eD1M2ANmAv
+User ID : 267716354 , Lattitute : 35.77337751, Longitute : 140.3867952, Tweet Number : 889339480850747394, Tweet Status : I'm at 吉野家 成田国際空港第2ターミナル本館店 in 成田市, 千葉 https://t.co/Bh7lXd89xq https://t.co/dI64F7PSfk
+User ID : 2205054823 , Lattitute : 34.424442, Longitute : 135.2296, Tweet Number : 889334639697031168, Tweet Status : I'm at 関西空港国際貨物エプロン/ANACargo https://t.co/9m9bX4dI9Y
+User ID : 2205054823 , Lattitute : 34.424442, Longitute : 135.2296, Tweet Number : 889334639697031168, Tweet Status : I'm at 関西空港国際貨物エプロン/ANACargo https://t.co/9m9bX4dI9Y
+User ID : 3290475876 , Lattitute : 36.55810219, Longitute : 139.89777289, Tweet Number : 889331040317308929, Tweet Status : I'm at 宇都宮駅 新幹線ホーム in Utsunomiya, Tochigi https://t.co/e0xUMyu1Bd
+User ID : 56414443 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889329700023173120, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/ejcT6akwFc
+User ID : 823215625736581120 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889328585617616896, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/edFT5aJrpN
+User ID : 240159914 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889326821887676417, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/uO2sbc2ekg
+User ID : 1459238136 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889325945001259011, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/YnmLTEEjCp
+User ID : 108056241 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889324487820357632, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/TK2S50Evhz
+User ID : 108056241 , Lattitute : 35.17063044, Longitute : 136.88086433, Tweet Number : 889324443163557888, Tweet Status : I'm at 名代きしめん住よし 新幹線下りホーム in 名古屋市, 愛知県 https://t.co/I4yPNQPI99
+User ID : 415462637 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889321358127181824, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ntXMFnZf9p
+User ID : 2439463284 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889321078593605632, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/p7CfXs1x0c
+User ID : 2242422121 , Lattitute : 35.17069015, Longitute : 136.88130943, Tweet Number : 889319499446484993, Tweet Status : I'm at 名代きしめん住よし 新幹線上りホーム店 in 名古屋市, 愛知県 https://t.co/3cjWrUnOTK
+User ID : 107655719 , Lattitute : 38.81721394, Longitute : 139.78945331, Tweet Number : 889318769578975234, Tweet Status : I'm at 庄内空港緩衝緑地公園 in 酒田市, 山形県 https://t.co/0QeppPK4HW
+User ID : 572378315 , Lattitute : 34.13935623, Longitute : 134.59043268, Tweet Number : 889318175233499136, Tweet Status : I'm at 豚太郎 空港店 https://t.co/5HJzFKM2QQ
+User ID : 111607640 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889313398210605057, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/LW84gY3rTX
+User ID : 1582220683 , Lattitute : 34.4362216, Longitute : 135.24333, Tweet Number : 889312643869233152, Tweet Status : I'm at JR 関西空港駅 in いずみさのし, 大阪府 https://t.co/LhH2Iqx16M
+User ID : 59761489 , Lattitute : 35.9059803, Longitute : 139.6231842, Tweet Number : 889312507894083610, Tweet Status : I'm at JR 大宮駅 新幹線ホーム - @jreast_official in さいたま市, 埼玉県 https://t.co/j6idGaOl10
+User ID : 238397101 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 889311932779552769, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/jjvX7mkies
+User ID : 1916398525 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889311361309843458, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/MT5QhvlHcP
+User ID : 774119983 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889309362023530496, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/8x4adxR545
+User ID : 59761489 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889307837083656193, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/sKfstt6CcZ
+User ID : 702737735035949057 , Lattitute : 34.4362216, Longitute : 135.24333, Tweet Number : 889306644642975745, Tweet Status : I'm at JR 関西空港駅 in いずみさのし, 大阪府 https://t.co/LkqJ6Q2L5w
+User ID : 14333177 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889306373963558914, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/MPoUNk6wpJ
+User ID : 83077586 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889303608822464513, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/jvEMolOoeY
+User ID : 1923138967 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Number : 889303421806923779, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/i6zQh5wND9
+User ID : 396209573 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889294940274118657, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/jC4QPlqoZ5
+User ID : 264994154 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889293040581521410, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/1lFcypLqfE
+User ID : 19054290 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889290501513510912, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/vlZEOncTMA
+User ID : 895305722 , Lattitute : 35.77353396, Longitute : 140.38836211, Tweet Number : 889289351389212674, Tweet Status : I'm at 空港第2ビル駅 in 成田市, 千葉県 w/ @giroud_wugner https://t.co/9Bctd2o5Mj
+User ID : 505848156 , Lattitute : 35.77353396, Longitute : 140.38836211, Tweet Number : 889288354147250177, Tweet Status : I'm at 空港第2ビル駅 in 成田市, 千葉県 https://t.co/jaVeRsVE7p
+User ID : 150700348 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889287512790880259, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/Wp5P8zc1Qa
+User ID : 16989564 , Lattitute : 36.6429678, Longitute : 138.18926454, Tweet Number : 889286832642568192, Tweet Status : I'm at 北陸新幹線 長野駅 in 長野市, 長野県 https://t.co/sPolrct7wg
+User ID : 1010847536 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889284258824683520, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/RX7vQGZaKp
+User ID : 2387698274 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889282709746589698, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/p2F01PVhDC
+User ID : 68389813 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889276435759804416, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/gQndj2jeXm
+User ID : 144126152 , Lattitute : 34.75995563, Longitute : 133.85299891, Tweet Number : 889276236148690944, Tweet Status : I'm at 岡山空港 in 岡山市, 岡山県 https://t.co/rLFHvo5ohS
+User ID : 16364120 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889274880373534721, Tweet Status : I'm at 仙台国際空港 in 名取市, 宮城県 https://t.co/QFjzJ67L74
+User ID : 59462066 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889274144768090112, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/kN1uxslDQJ
+User ID : 812847125780234240 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 889272978076291072, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/Uti1DogVKS
+User ID : 505848156 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889272626815918080, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/HC6wfCFIhB
+User ID : 3290475876 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889271832188248065, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/BFfEYUUMvf
+User ID : 16412925 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889270819452592129, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/w5dbtK1CSj
+User ID : 128193025 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889270124695490566, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/IL6dBEwczA
+User ID : 164722031 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889269597014282241, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/euV35PVxuA
+User ID : 812847125780234240 , Lattitute : 38.57164254, Longitute : 140.96695682, Tweet Number : 889268727505711104, Tweet Status : I'm at 古川駅 新幹線ホーム in 大崎市, 宮城県 https://t.co/sZI6jcFhKj
+User ID : 2205054823 , Lattitute : 34.42410125, Longitute : 135.23007542, Tweet Number : 889265848136994816, Tweet Status : I'm at ANA関西空港株式会社 https://t.co/YNgFvXO4Zo
+User ID : 79918400 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 889265845104504833, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/RYxNPs4A53
+User ID : 1094250997 , Lattitute : 34.7953543, Longitute : 138.17957854, Tweet Number : 889265790524035072, Tweet Status : I'm at 富士山静岡空港 / 静岡空港 in 牧之原市, 静岡県 https://t.co/COZC7ZPmgr
+User ID : 313699454 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889264746536554497, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/vKa4VJNkRJ
+User ID : 68331875 , Lattitute : 35.56688948, Longitute : 139.7640574, Tweet Number : 889264103235223554, Tweet Status : I'm at 空港北トンネル in 大田区, 東京都 https://t.co/tE7ATed0p5
+User ID : 798882935646490624 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889260370082377729, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/5ElzWoBZSB
+User ID : 36678668 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889259136365584386, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/wTdNlcGU4z
+User ID : 104771321 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889258799860789248, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/f97MNU0LZJ
+User ID : 41441853 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889258490484727808, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/66iQMwvZRL
+User ID : 41441853 , Lattitute : 35.77353396, Longitute : 140.38836211, Tweet Number : 889257935301472257, Tweet Status : I'm at 空港第2ビル駅 in 成田市, 千葉県 https://t.co/gryNKEcRen
+User ID : 51044508 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889254692294975488, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/eEmImHHcuJ
+User ID : 2808820982 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889253954508517376, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/lhycchfoZJ
+User ID : 4831583926 , Lattitute : 35.77353396, Longitute : 140.38836211, Tweet Number : 889252010930966528, Tweet Status : I'm at 空港第2ビル駅 in 成田市, 千葉県 https://t.co/jEtc5gigOJ
+User ID : 4831583926 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889251719166791680, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/Z9H6kDtDSb
+User ID : 1603825117 , Lattitute : 34.78974379, Longitute : 135.44304729, Tweet Number : 889250956176756737, Tweet Status : I'm at 551蓬莱 大阪空港「飲茶CAFE」店 in 豊中市, 大阪府 https://t.co/qMaLlMq0D0
+User ID : 1603825117 , Lattitute : 34.7899112, Longitute : 135.442307, Tweet Number : 889250905660551168, Tweet Status : I'm at アンデルセン 大阪空港店 in 豊中市, 大阪府 https://t.co/30L1y2ZLwc
+User ID : 1603825117 , Lattitute : 34.79026234, Longitute : 135.44263673, Tweet Number : 889250880171769856, Tweet Status : I'm at at cafe 大阪空港店 in 豊中市, 大阪府 https://t.co/qfM0oklgWR
+User ID : 144126152 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889248695367213056, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/YaqIaTJzst
+User ID : 2162087696 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889248204117684226, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/38cKANw5iA
+User ID : 114066499 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889246278244327426, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/hjAuj9xjj2
+User ID : 839945719 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889242608521928704, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/T4qgiPX1wZ
+User ID : 2329902348 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889240685739728899, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/X5BBntk79K
+User ID : 2876664235 , Lattitute : 34.87793402, Longitute : 135.66805908, Tweet Number : 889237679828856836, Tweet Status : I'm at 阪急と新幹線の並走区間 in 大山崎町～島本町, 京都府～大阪府 https://t.co/Ol6MlqYP29
+User ID : 232624247 , Lattitute : 35.17069015, Longitute : 136.88130943, Tweet Number : 889236651628797954, Tweet Status : I'm at 名代きしめん住よし 新幹線上りホーム店 in 名古屋市, 愛知県 https://t.co/gVqLiGVjTa
+User ID : 232624247 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889236560167698432, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/dl3UtRtLRb
+User ID : 232624247 , Lattitute : 35.1692978, Longitute : 136.88162195, Tweet Number : 889236482657046529, Tweet Status : I'm at JR名古屋駅 新幹線ホーム喫煙ルーム in 名古屋市, 愛知県, 愛知県 https://t.co/5bqZrmeP1Y
+User ID : 232624247 , Lattitute : 35.17054587, Longitute : 136.88098758, Tweet Number : 889236278839005185, Tweet Status : I'm at JR名古屋駅 新幹線待合室 in Nagoya-shi, 愛知県 https://t.co/o0yrQRVFAp
+User ID : 232624247 , Lattitute : 35.16982509, Longitute : 136.88129996, Tweet Number : 889235910386225159, Tweet Status : I'm at Starbucks Coffee JR名古屋駅 新幹線南ラチ内店 - @starbucks_j in 名古屋市, 愛知県 https://t.co/M9nEsCTTcB
+User ID : 2205054823 , Lattitute : 34.43588895, Longitute : 135.24208503, Tweet Number : 889231980390486016, Tweet Status : I'm at 南海バス 空港駅 バス停 in 泉佐野市, 大阪府 https://t.co/V66yzgpx8C
+User ID : 79918400 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889230858225364993, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/OPfXXWj7wF
+User ID : 798882935646490624 , Lattitute : 34.43580571, Longitute : 135.24369478, Tweet Number : 889228899191848960, Tweet Status : I'm at 南海 関西空港駅 in 泉佐野市, 大阪府 https://t.co/UlX6Yq9WDh
+User ID : 2205054823 , Lattitute : 34.43647886, Longitute : 135.24309207, Tweet Number : 889228541082075136, Tweet Status : I'm at ホテル日航関西空港 in 泉佐野市, 大阪府 https://t.co/DWaGVUyUqj
+User ID : 2473653858 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889221130359361538, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/cpjoyfAN1L
+User ID : 243133199 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889210841136025600, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/TEDw82YIL1
+User ID : 873593797917130753 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889164043898019843, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/7qyQ2PzjWt
+User ID : 104131488 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889161030814896128, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/abvbw6HJn8
+User ID : 1603825117 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889152637379256320, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/2Ql8abFA1l
+User ID : 124098406 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889147967671869440, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/SpTx2m8wLX
+User ID : 2866654104 , Lattitute : 34.64802311, Longitute : 135.22962237, Tweet Number : 889142967579136001, Tweet Status : I'm at 神戸スカイブリッジ (神戸空港連絡橋) in 神戸市, 兵庫県 w/ @tuzumix @yyuurrsskk https://t.co/xIyXC7Qkds
+User ID : 2456252995 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889136075880398849, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/O7FL65E40g
+User ID : 2968709888 , Lattitute : 34.70357023, Longitute : 137.73474704, Tweet Number : 889129599610888192, Tweet Status : I'm at 浜松駅 新幹線ホーム in Hamamatsu, 静岡県 https://t.co/w8Zd2yqhCm
+User ID : 859452704 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889129241186639872, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/rRsBKV8wjx
+User ID : 218695862 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889126653192015873, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/m3q4YHK1rO
+User ID : 154131142 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889126643012435972, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/QclTH9jTRu
+User ID : 177510401 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889125715161034752, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/YMyfvVfPiA
+User ID : 469032027 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889122528064614400, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @orange24_ https://t.co/IXFlCRfayZ
+User ID : 498684769 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889120571241488384, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/YtY01T7Qu9
+User ID : 498684769 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889120571241488384, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/YtY01T7Qu9
+User ID : 86319848 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889120084999974913, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/3GbS6n2pUp
+User ID : 99741057 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889119781097549829, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @swd2010 @berra_notte https://t.co/tZOSJe0Q5y
+User ID : 102938660 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889119378800877569, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/XyKsajMGZv
+User ID : 2587624796 , Lattitute : 35.16996208, Longitute : 136.87833113, Tweet Number : 889118862343643137, Tweet Status : I'm at 風来坊 名駅新幹線口店 in 名古屋市, 愛知県 https://t.co/q9kmsdUWKm
+User ID : 263953505 , Lattitute : 36.57799292, Longitute : 136.64870812, Tweet Number : 889117240876052480, Tweet Status : I'm at 北陸新幹線 金沢駅 in 金沢市, 石川県 https://t.co/qv0OZgJvBA
+User ID : 100797761 , Lattitute : 35.16996208, Longitute : 136.87833113, Tweet Number : 889116453533888514, Tweet Status : I'm at 風来坊 名駅新幹線口店 in 名古屋市, 愛知県 w/ @azazgirls_kny https://t.co/rwKdQLbEbP
+User ID : 108499170 , Lattitute : 37.39832254, Longitute : 140.38840907, Tweet Number : 889114129126109186, Tweet Status : I'm at 郡山駅 新幹線ホーム in 郡山市, 福島県 https://t.co/VVwkfpXCk6
+User ID : 189583155 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889113115476074499, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/DO3oIRyVfL
+User ID : 872100877628301313 , Lattitute : 34.97164389, Longitute : 138.38933786, Tweet Number : 889112994537517057, Tweet Status : I'm at JR静岡駅 新幹線ホーム in Shizuoka https://t.co/ecvocNNNKN
+User ID : 35832521 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889112604827938818, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/vYKQltH8TT
+User ID : 2968709888 , Lattitute : 35.1268163, Longitute : 138.90956686, Tweet Number : 889111959211319296, Tweet Status : I'm at JR三島駅 新幹線ホーム in 三島市, 静岡県 https://t.co/cEQuFw4Rt5
+User ID : 215647322 , Lattitute : 35.16996208, Longitute : 136.87833113, Tweet Number : 889110087196868608, Tweet Status : I'm at 風来坊 名駅新幹線口店 in 名古屋市, 愛知県 https://t.co/dVCoIsXgvo
+User ID : 177141489 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889108817987989505, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @shevasy https://t.co/jfvuDbVrl9
+User ID : 1047707186 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889108703059824640, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/e9z3NoKQUu
+User ID : 321178065 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889108550613708800, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/dOkmVHCyRt
+User ID : 1015174051 , Lattitute : 34.85995813, Longitute : 136.81012448, Tweet Number : 889107755226861572, Tweet Status : I'm at 中部国際空港 滑走路 in 常滑市, 愛知県 https://t.co/lF9tLDJkxs
+User ID : 1047707186 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889107009223761920, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/zXAHZZ49lK
+User ID : 121005484 , Lattitute : 35.16996208, Longitute : 136.87833113, Tweet Number : 889106545908338688, Tweet Status : I'm at 風来坊 名駅新幹線口店 in 名古屋市, 愛知県 https://t.co/FApCLbxYz8
+User ID : 434960356 , Lattitute : 35.1268163, Longitute : 138.90956686, Tweet Number : 889105741092728834, Tweet Status : I'm at JR三島駅 新幹線ホーム in 三島市, 静岡県 https://t.co/vpGYUldA7m
+User ID : 169419556 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889105195753512962, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/zVatjO1mqS
+User ID : 2851523456 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889104933986979840, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/Nom7oTyGVI
+User ID : 164552146 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 889104724968058880, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/B3SWZZznDJ
+User ID : 3358286472 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889103622306398208, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/9bzymEn3WN
+User ID : 2476610726 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889103292076367872, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/mYULlKyFWM
+User ID : 1167608762 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889102611647004673, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/T0LLbCuV3Z
+User ID : 2456252995 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889101977791148032, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/LMdTEhrJRW
+User ID : 439793954 , Lattitute : 34.97164389, Longitute : 138.38933786, Tweet Number : 889101596088512513, Tweet Status : I'm at JR静岡駅 新幹線ホーム in Shizuoka https://t.co/x8aWEaxfxx
+User ID : 140260344 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889101507081187328, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/aMtZizVvwD
+User ID : 3560286685 , Lattitute : 35.16991274, Longitute : 136.94396546, Tweet Number : 889101013147426817, Tweet Status : I'm at 名古屋駅 新幹線のりば 南口 in Nagoya-shi, Aichi https://t.co/lD7foaWxsD
+User ID : 737181947336626176 , Lattitute : 35.16921657, Longitute : 136.88137099, Tweet Number : 889099972347645953, Tweet Status : I'm at スパゲティハウス チャオ JR名古屋駅新幹線口店 in Nagoya-shi, 愛知県 https://t.co/B8tinXbPzr
+User ID : 2991390323 , Lattitute : 34.48926319, Longitute : 133.36147498, Tweet Number : 889099459845656577, Tweet Status : I'm at 福山駅新幹線ホーム in 福山市, Hiroshima https://t.co/Q0NoLbNG9b
+User ID : 118682557 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889098996530204673, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/JkKbigrU7p
+User ID : 833669509340811264 , Lattitute : 36.40162254, Longitute : 136.41373812, Tweet Number : 889098375039246336, Tweet Status : I'm at 小松空港1番ゲート in 小松市, 石川県 https://t.co/Ta9Bt7P7mU
+User ID : 859452704 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889098143614337027, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 w/ @yu_ki_48_mk2 https://t.co/HwPmKHxlu9
+User ID : 107880424 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889097790651068416, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 w/ @satomi124 https://t.co/oyN2sgBW1j
+User ID : 425713553 , Lattitute : 34.98468348, Longitute : 135.75932005, Tweet Number : 889097126554238976, Tweet Status : I'm at 京都駅 新幹線ホーム in 京都市, 京都府 https://t.co/E8fYVjSs8R
+User ID : 94051153 , Lattitute : 34.4362216, Longitute : 135.24333, Tweet Number : 889096875948875777, Tweet Status : I'm at JR 関西空港駅 in いずみさのし, 大阪府 https://t.co/xFtsc72Zlf
+User ID : 829209234 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889096548453371904, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/9mUaOAoSNb
+User ID : 139993203 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889094533908246528, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/GqWnRH2jma
+User ID : 431595731 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889094462164652033, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ZjP24sV2rY
+User ID : 102938660 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889093900580859905, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/gBf3xfa1f9
+User ID : 1326372230 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889092921856753666, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/NAT1dxBKOo
+User ID : 569170636 , Lattitute : 35.77337751, Longitute : 140.3867952, Tweet Number : 889092302249086976, Tweet Status : I'm at 吉野家 成田国際空港第2ターミナル本館店 in 成田市, 千葉 https://t.co/TknETqYQj0
+User ID : 1103462534 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 889092007137824768, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/Nkrt31CBH6
+User ID : 133579401 , Lattitute : 35.31454791, Longitute : 136.28954392, Tweet Number : 889091045006479360, Tweet Status : I'm at 新幹線 米原駅 11番線ホーム in 米原市, 滋賀県 https://t.co/03TMIEUhrq
+User ID : 5773442 , Lattitute : 37.95203185, Longitute : 139.11313534, Tweet Number : 889090717141913600, Tweet Status : I'm at 新潟空港 - @niigata_airport in 新潟市, 新潟県 https://t.co/DRyEYa8xtK
+User ID : 2857684584 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889090457103478784, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/gQxBLvFddj
+User ID : 591711309 , Lattitute : 35.31454791, Longitute : 136.28954392, Tweet Number : 889090166211694593, Tweet Status : I'm at 新幹線 米原駅 11番線ホーム in 米原市, 滋賀県 https://t.co/YnpOZKszoR
+User ID : 3252229292 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889087758836301828, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/yPvWN02BDs
+User ID : 308919708 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889087577474650112, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/OS1bSEQPP6
+User ID : 130038064 , Lattitute : 35.16929849, Longitute : 136.87864363, Tweet Number : 889084538743345152, Tweet Status : I'm at やきとり居酒屋しんちゃん 新幹線口店 in 名古屋市, 愛知県, 愛知県 https://t.co/FIEaieQnPn
+User ID : 43530370 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889083406713270272, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/xaZBSJL65L
+User ID : 130528023 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889083069289910272, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/tgPTfHdYHd
+User ID : 3221802571 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889082541763899393, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/BBWuxcmlRW
+User ID : 605985353 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 889082273567567873, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/Wm2PYGIpQd
+User ID : 139708236 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889081950929080321, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/AwuNVtOelG
+User ID : 354189768 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889081173837787138, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @aaakane8 https://t.co/xXTwmy1266
+User ID : 164552146 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889079693672144896, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/P2SyYdWuLL
+User ID : 108954208 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889079118410772480, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/KgvaQjFbfk
+User ID : 1683568585 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889078980040679424, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/58hjsrT3O6
+User ID : 362444539 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889077068998356992, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/fB2IynrEYl
+User ID : 737181947336626176 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889076530709659648, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/79Bvd99FG3
+User ID : 4519740206 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889075329276444672, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/hQye6KHsJM
+User ID : 153663216 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889075165807747074, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/R1WQonYq4K
+User ID : 1967917952 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889074116132818944, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/9u6dRGkiz5
+User ID : 267735607 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889073336583684096, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/ar8OQkRMS8
+User ID : 263953505 , Lattitute : 35.6812933, Longitute : 139.76730204, Tweet Number : 889072551892328448, Tweet Status : I'm at 北陸新幹線 東京駅 in 千代田区, 東京都 https://t.co/WkETenfFzt
+User ID : 98089655 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889072244227485696, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/XFKWK2vgkw
+User ID : 177141489 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889071780404629504, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/T1yKTcAa2W
+User ID : 97269374 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889069708057735168, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/WrX8aLIRJI
+User ID : 2251387002 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 889068502543458304, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/Z0gIXBVma0 https://t.co/Yyj2dXcl6J
+User ID : 72038958 , Lattitute : 39.70138721, Longitute : 141.13694803, Tweet Number : 889068460973711360, Tweet Status : I'm at JR盛岡駅 新幹線ホーム - @jreast_official in 盛岡市, 岩手県 https://t.co/zHnnLyXTfO
+User ID : 940458668 , Lattitute : 34.75995563, Longitute : 133.85299891, Tweet Number : 889068065639587840, Tweet Status : I'm at 岡山空港 in 岡山市, 岡山県 https://t.co/ro1ohED9s3
+User ID : 16387824 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889067618547752961, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/EYR8AM4W9i
+User ID : 206796647 , Lattitute : 35.16996208, Longitute : 136.87833113, Tweet Number : 889065936694726656, Tweet Status : I'm at 風来坊 名駅新幹線口店 in 名古屋市, 愛知県 https://t.co/uJNTIz6RsX
+User ID : 180002983 , Lattitute : 34.7953543, Longitute : 138.17957854, Tweet Number : 889065341900509184, Tweet Status : I'm at 富士山静岡空港 / 静岡空港 in 牧之原市, 静岡県 https://t.co/0gzb1zpIwq
+User ID : 833669509340811264 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889064840043663361, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/w3I4NceviO
+User ID : 736178184 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889064478519812096, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/unQEiqaUYL
+User ID : 5532582 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889064348848705542, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/S0ikn0ZKZA
+User ID : 859351836 , Lattitute : 34.22040031, Longitute : 134.01556079, Tweet Number : 889064198428393473, Tweet Status : I'm at さぬき空港公園 in 高松市, 香川県 https://t.co/lMyvnPZSlI
+User ID : 108954208 , Lattitute : 34.8600223, Longitute : 136.81606376, Tweet Number : 889063530581962754, Tweet Status : I'm at 中部国際空港駅 in Tokoname, Aichi https://t.co/nHGLmoPgIR
+User ID : 2886774786 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 889063491654569984, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/T8LARD2uCK
+User ID : 1592724876 , Lattitute : 38.13458189, Longitute : 140.90784431, Tweet Number : 889062318679752704, Tweet Status : I'm at セブンイレブン 仙台空港店 - @711sej in 岩沼市, 宮城県 https://t.co/yzSKMVgeBA
+User ID : 356136222 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889061762255003652, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/PdnVGoP6YT
+User ID : 3571830252 , Lattitute : 34.73346222, Longitute : 135.49974047, Tweet Number : 889060963558862849, Tweet Status : I'm at JR新大阪駅 新幹線中央口 in 大阪市, 大阪府 https://t.co/xIx4SZ0LeE
+User ID : 77214274 , Lattitute : 35.77353396, Longitute : 140.38836211, Tweet Number : 889060920437207042, Tweet Status : I'm at 空港第2ビル駅 in 成田市, 千葉県 https://t.co/zCFYACVhLO
+User ID : 1249348933 , Lattitute : 36.401695, Longitute : 136.41321, Tweet Number : 889059492675104768, Tweet Status : I'm at 小松空港 in 小松市, 石川県 https://t.co/6lccUaqQfD
+User ID : 1249348933 , Lattitute : 36.401695, Longitute : 136.41321, Tweet Number : 889059492675104768, Tweet Status : I'm at 小松空港 in 小松市, 石川県 https://t.co/6lccUaqQfD
+User ID : 155507452 , Lattitute : 35.9059803, Longitute : 139.6231842, Tweet Number : 889058153131900928, Tweet Status : I'm at JR 大宮駅 新幹線ホーム - @jreast_official in さいたま市, 埼玉県 https://t.co/HPGlZz7kvb
+User ID : 421749234 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Number : 889058051143208960, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/QKTQaCisih
+User ID : 3104211626 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889057896914456576, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/veWiuRRBVA
+User ID : 293035159 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889057825015595008, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/deXFfSJd27
+User ID : 235165170 , Lattitute : 35.16929849, Longitute : 136.87864363, Tweet Number : 889055307334332416, Tweet Status : I'm at やきとり居酒屋しんちゃん 新幹線口店 in 名古屋市, 愛知県, 愛知県 w/ @nori_hane @sabato422 https://t.co/GAieHTt6Gy
+User ID : 845540780 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889055053750964224, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/9Yn1mtxRbY
+User ID : 237631231 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889054536958185473, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/1OprDJzykf
+User ID : 117703469 , Lattitute : 36.1779722, Longitute : 140.40765766, Tweet Number : 889054242673233920, Tweet Status : I'm at 茨城空港 国内線搭乗口(搭乗口1/2) in 小美玉市, 茨城県 https://t.co/WRTgPBxozf
+User ID : 105287662 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889053728116011008, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/CkYrc1Cfkg
+User ID : 206511053 , Lattitute : 34.43605145, Longitute : 135.24335299, Tweet Number : 889053053822828544, Tweet Status : I'm at 関西空港駅 1-2番のりば in 泉南郡/泉佐野市, 大阪府 https://t.co/JuX6vbVBwG
+User ID : 117703469 , Lattitute : 36.177994, Longitute : 140.40762, Tweet Number : 889051939891183619, Tweet Status : I'm at 茨城空港 保安検査場 in 小美玉市, 茨城県 https://t.co/hBqIwfAiwL
+User ID : 136674041 , Lattitute : 35.6812933, Longitute : 139.76730204, Tweet Number : 889050510996721665, Tweet Status : I'm at 北陸新幹線 東京駅 in 千代田区, 東京都 https://t.co/J0putTc7UF
+User ID : 117703469 , Lattitute : 36.17791507, Longitute : 140.40732974, Tweet Number : 889050502733934592, Tweet Status : I'm at 茨城空港 in 小美玉市, 茨城県 https://t.co/fwFOg53MlF
+User ID : 1257069805 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889049648337432576, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/b2MIeoq7yT
+User ID : 123828465 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 889049146761646080, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/4laBOoHzjm
+User ID : 2421255805 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Number : 889048765658783745, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/7IzKGRzVXB
+User ID : 176415654 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889048395515658244, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/feMJICzSRD
+User ID : 277484273 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889047301750231040, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/ZvKcb8nQI3
+User ID : 146495822 , Lattitute : 35.027287, Longitute : 135.98862, Tweet Number : 889046926087397377, Tweet Status : I'm at 新幹線南びわこ駅予定地 in 栗東市, 滋賀県 https://t.co/Zbv9O2fLDG
+User ID : 156566047 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889045011093913600, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/tnZUF2PwGH
+User ID : 609098157 , Lattitute : 35.68139543, Longitute : 139.76735695, Tweet Number : 889041410699259904, Tweet Status : I'm at JR東京駅 新幹線中央のりかえ口 - @jreast_official in 千代田区, 東京都 https://t.co/e1k7ZA0iTI
+User ID : 3024837908 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889041289454473216, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/dBIjWbeFA1
+User ID : 766817888 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889041144432209920, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/5p9eKTOj9e
+User ID : 992985391 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889040996985708544, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 w/ @senkouhanadi https://t.co/cmm5HU2ASM
+User ID : 610367732 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889039382338035712, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/DkGWUw2m99
+User ID : 610367732 , Lattitute : 38.13725698, Longitute : 140.92941999, Tweet Number : 889039198484910080, Tweet Status : I'm at 仙台空港駅 in 名取市, 宮城県 https://t.co/EVbHGMWpX1
+User ID : 63985314 , Lattitute : 35.71268785, Longitute : 139.77634801, Tweet Number : 889036392432644096, Tweet Status : I'm at JR上野駅 新幹線ホーム in 台東区, 東京都 https://t.co/HDj65Vx5F3
+User ID : 404758103 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889035482918780928, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/rjKPe9sqfP
+User ID : 380535413 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889035282590441472, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/CLWtiSETS0
+User ID : 89032474 , Lattitute : 34.43588535, Longitute : 135.24348021, Tweet Number : 889034616614604801, Tweet Status : I'm at 関西空港駅 in 泉佐野市, 大阪府 https://t.co/pf1lqvtP1H
+User ID : 255094817 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889033826286133248, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/Y7oesBGtxR
+User ID : 1412251056 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889033818107203584, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/5WwNqewC3K
+User ID : 62471038 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889033179872604160, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/gHGKd1vrxL
+User ID : 1885869060 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889029964733050880, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/VsQq2QGo3D
+User ID : 487333020 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889029401580634112, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 w/ @_y_belle https://t.co/YGtcmX0ldV
+User ID : 1467606836 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889027785670488064, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 w/ @_y_belle @shunnnnnn_ https://t.co/5hrWnyCL8P
+User ID : 75321638 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889027590777974785, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/TWaNfJnd1k
+User ID : 66092742 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889027170269581312, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/4ZyyyVBUdl
+User ID : 2192002194 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889026913737605120, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/Apl08Vt0uz
+User ID : 770265753656266753 , Lattitute : 34.97164389, Longitute : 138.38933786, Tweet Number : 889023366870577153, Tweet Status : I'm at JR静岡駅 新幹線ホーム in Shizuoka https://t.co/DxISf9GLay
+User ID : 1428957385 , Lattitute : 34.42692821, Longitute : 135.24336219, Tweet Number : 889021568000634880, Tweet Status : I'm at 関西空港A滑走路(RWY06R/22L) in 泉佐野市, Ōsaka https://t.co/M1FdyaGvR0
+User ID : 140360334 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889021275116580865, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/Quwaeg5Rgf
+User ID : 2278316137 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889021154404569088, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/EofD1veo9U
+User ID : 3571830252 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 889020803026759681, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/vLHoYJ1Ukg
+User ID : 737749621 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889020088971653120, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/lsej3GUVd8
+User ID : 115408096 , Lattitute : 35.77236971, Longitute : 140.38779616, Tweet Number : 889019098700668928, Tweet Status : I'm at 京成 空港第2ビル駅 - @keiseirailway in 成田市, 千葉県 https://t.co/T93Dogpe54
+User ID : 70120550 , Lattitute : 35.77236971, Longitute : 140.38779616, Tweet Number : 889017757194493952, Tweet Status : I'm at 京成 空港第2ビル駅 - @keiseirailway in 成田市, 千葉県 https://t.co/8Xk4UzRhJl
+User ID : 156566047 , Lattitute : 34.79141347, Longitute : 135.4419744, Tweet Number : 889017065587318784, Tweet Status : I'm at 大阪空港駅 in 豊中市, 大阪府 https://t.co/fGSYLKPIEM
+User ID : 190535485 , Lattitute : 38.13813458, Longitute : 140.92993498, Tweet Number : 889016488622993408, Tweet Status : I'm at 仙台国際空港 - @sendai_a_s in 名取市, 宮城県 https://t.co/En1mPg1q8K
+User ID : 115408096 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889014144741126144, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/XGGSizmpwS
+User ID : 3161315420 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889013060693786624, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/LtZ0bbMQXl
+User ID : 2835280968 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889011973203120128, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/8TXZ3aWK6Z
+User ID : 215569085 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 889011964789354496, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/MM51JgqdGy
+User ID : 232624247 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889011245063577601, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/MrJdE3yDMt
+User ID : 232624247 , Lattitute : 35.17054587, Longitute : 136.88098758, Tweet Number : 889011196229300224, Tweet Status : I'm at JR名古屋駅 新幹線待合室 in Nagoya-shi, 愛知県 https://t.co/XrnDOmClFC
+User ID : 232624247 , Lattitute : 35.1692978, Longitute : 136.88162195, Tweet Number : 889011165346582529, Tweet Status : I'm at JR名古屋駅 新幹線ホーム喫煙ルーム in 名古屋市, 愛知県, 愛知県 https://t.co/FQDvCtSBoN
+User ID : 232624247 , Lattitute : 35.16982509, Longitute : 136.88129996, Tweet Number : 889011104042635265, Tweet Status : I'm at Starbucks Coffee JR名古屋駅 新幹線南ラチ内店 - @starbucks_j in 名古屋市, 愛知県 https://t.co/qnqiZuV6Jn
+User ID : 53110116 , Lattitute : 34.88820633, Longitute : 136.82588685, Tweet Number : 889010812798554112, Tweet Status : I'm at コストコ 中部空港倉庫店 in 常滑市, 愛知県 https://t.co/mCXe5oyZFb
+User ID : 633077608 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 889009975317712897, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/5xGDw7QaPn
+User ID : 324202050 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889007740210880512, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/EUvQKYvK9r
+User ID : 2332723700 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 889006679098097665, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/EgwcAj8RLL
+User ID : 526127933 , Lattitute : 35.24583929, Longitute : 136.92563538, Tweet Number : 889005913096507392, Tweet Status : I'm at ミッドランドシネマ 名古屋空港 in Toyoyama, 愛知県 https://t.co/uNSVezTWfC
+User ID : 104186243 , Lattitute : 33.54746854, Longitute : 133.67422968, Tweet Number : 889004822917263360, Tweet Status : I'm at 高知龍馬空港 in 南国市, 高知県 https://t.co/Ox5DyyKmtC https://t.co/SspwBFvrTp
+User ID : 222985456 , Lattitute : 35.1268163, Longitute : 138.90956686, Tweet Number : 889002716034420736, Tweet Status : I'm at JR三島駅 新幹線ホーム in 三島市, 静岡県 https://t.co/yFh2O84qTU
+User ID : 1105728361 , Lattitute : 34.63677065, Longitute : 135.22864308, Tweet Number : 888997843717017600, Tweet Status : I'm at 神戸空港 in Kobe, 兵庫県 https://t.co/pm0BLhx7jj
+User ID : 220260419 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888996621253566464, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/mgR0asWWFY
+User ID : 4444431 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888996363735900160, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/ybGzGI2tae
+User ID : 12069562 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 888994342576238592, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/oZ7h7hUeO5
+User ID : 2465983892 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888993145312116736, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/mwqgTAXGsD
+User ID : 144727925 , Lattitute : 35.62930311, Longitute : 139.74002768, Tweet Number : 888988987398004736, Tweet Status : I'm at JR 品川駅 新幹線待合室 in 港区, 東京都 https://t.co/yP6QX8G9h8
+User ID : 102844465 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888988403362127872, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/y5BjezA9yM
+User ID : 232624247 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888983917210021891, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/WrlrW9Fgxx
+User ID : 232624247 , Lattitute : 35.68089941, Longitute : 139.767766, Tweet Number : 888983817473667072, Tweet Status : I'm at 新幹線起点 in 千代田区, 東京都 https://t.co/xlLsbFU5oR
+User ID : 2534449381 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888983143092498432, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/lkcLHyIzso
+User ID : 88353265 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888982691496042497, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/PvphUwKvqT
+User ID : 105449207 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888982533437874176, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/kI3QqBECOu
+User ID : 1428957385 , Lattitute : 34.4340625, Longitute : 135.24350166, Tweet Number : 888982054578397184, Tweet Status : I'm at 泉佐野郵便局 関西空港分室 in 泉南郡田尻町, 大阪府 https://t.co/eVTtwaka1Q
+User ID : 324202050 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888980798883364864, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/yBfjQKTSTP
+User ID : 115408096 , Lattitute : 34.4362216, Longitute : 135.24333, Tweet Number : 888971553580478464, Tweet Status : I'm at JR 関西空港駅 in いずみさのし, 大阪府 https://t.co/IjehIHWgWc
+User ID : 541617939 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888962838823395328, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/VgE93PUudD
+User ID : 228019907 , Lattitute : 36.23239107, Longitute : 140.42159849, Tweet Number : 888962624171511808, Tweet Status : I'm at 茨城空港北IC in 茨城町, 茨城県 https://t.co/hsedWbUrCA
+User ID : 2974758109 , Lattitute : 39.70138721, Longitute : 141.13694803, Tweet Number : 888953520841424896, Tweet Status : I'm at JR盛岡駅 新幹線ホーム - @jreast_official in 盛岡市, 岩手県 https://t.co/V1PHbvG3YC
+User ID : 461680847 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888946291476135936, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/gcCRNyEidV
+User ID : 154052669 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888945756115259393, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/fbBdpQ2MmA
+User ID : 129669820 , Lattitute : 36.17791507, Longitute : 140.40732974, Tweet Number : 888944629005025281, Tweet Status : I'm at 茨城空港 in 小美玉市, 茨城県 https://t.co/o58m12FQN7
+User ID : 130142530 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888943883803119621, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/jB1PhX4RSP
+User ID : 1233420234 , Lattitute : 34.85929081, Longitute : 136.8153686, Tweet Number : 888943838034890753, Tweet Status : I'm at 中部国際空港 セントレア - @centrairairport in 常滑市, 愛知県 https://t.co/tT7T1ik5IV
+User ID : 102865665 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888943629154365441, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/xBwEWq6D5l
+User ID : 263152101 , Lattitute : 34.97164389, Longitute : 138.38933786, Tweet Number : 888939650605342720, Tweet Status : I'm at JR静岡駅 新幹線ホーム in Shizuoka https://t.co/PDIu6PZAXn
+User ID : 15197616 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888939192260145152, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/xi50H6f5Ly
+User ID : 15197616 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888939192260145152, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/xi50H6f5Ly
+User ID : 159212067 , Lattitute : 35.65461997, Longitute : 139.79569316, Tweet Number : 888938498220322816, Tweet Status : I'm at 豊洲駅 空港行リムジンバス乗り場 in 江東区, 東京都 https://t.co/0gkE2g1o87
+User ID : 3252229292 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888937642397769728, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/4hRfyrnjYB
+User ID : 837782521 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888937602463793152, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/VvsPHUgZm2
+User ID : 235050808 , Lattitute : 35.68113055, Longitute : 139.76775131, Tweet Number : 888934586872365056, Tweet Status : I'm at 東京駅 新幹線ホーム in 千代田区, 東京都 https://t.co/L0P5VHRmLX
+User ID : 146314111 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888934085820895233, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/Todc3IeOGi
+User ID : 247305885 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888933068622508033, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 https://t.co/yZJAEtew9s
+User ID : 404758103 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 888932219426918402, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/suAjE9AOBP
+User ID : 37165003 , Lattitute : 34.63730831, Longitute : 135.22911966, Tweet Number : 888929725976018945, Tweet Status : I'm at 神戸空港駅 in 神戸市, 兵庫県 https://t.co/ap48rkLZpm
+User ID : 112670269 , Lattitute : 34.88820633, Longitute : 136.82588685, Tweet Number : 888922036827021312, Tweet Status : I'm at コストコ 中部空港倉庫店 in 常滑市, 愛知県 https://t.co/IBFgt2Tqo5
+User ID : 110721999 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888921112704421888, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/iQLlGpa8s7
+User ID : 214471326 , Lattitute : 34.88820633, Longitute : 136.82588685, Tweet Number : 888917715062226944, Tweet Status : I'm at コストコ 中部空港倉庫店 in 常滑市, 愛知県 https://t.co/aqXm1B0bcH
+User ID : 232513672 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888915849943404544, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/LzMfhHCdMu
+User ID : 865770770 , Lattitute : 34.7953543, Longitute : 138.17957854, Tweet Number : 888913664161591296, Tweet Status : I'm at 富士山静岡空港 / 静岡空港 in 牧之原市, 静岡県 https://t.co/UnHz10mTje
+User ID : 986764788 , Lattitute : 35.6287103, Longitute : 139.74017736, Tweet Number : 888911445492195328, Tweet Status : I'm at JR 品川駅 新幹線ホーム in 港区, 東京都 https://t.co/GkqvE0OONP
+User ID : 2851523456 , Lattitute : 35.17010457, Longitute : 136.88130943, Tweet Number : 888911113731141632, Tweet Status : I'm at 名古屋駅 新幹線ホーム in 名古屋市, 愛知県 w/ @0429eins https://t.co/fxMYaKAhCP
+User ID : 232513672 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888910742929514496, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/smkxMCjqlF
+User ID : 702142957969780736 , Lattitute : 35.54843152, Longitute : 139.78040725, Tweet Number : 888907966216273921, Tweet Status : I'm at 東京国際空港 / 羽田空港 in 大田区, 東京都 https://t.co/kzKwBeAVw7
+User ID : 147974879 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 888907818870460418, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/EP92hCUAsJ
+User ID : 104457223 , Lattitute : 35.77426293, Longitute : 140.38685572, Tweet Number : 888906929539604480, Tweet Status : I'm at 成田国際空港 in 成田市, 千葉県 https://t.co/22YGw8hA0f
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9
+User ID : 95898435 , Lattitute : 38.25988806, Longitute : 140.8818566, Tweet Number : 888906830755352577, Tweet Status : I'm at JR仙台駅 新幹線ホーム in 仙台市, 宮城県 https://t.co/f3Tr8QPoj9

@@ -7,7 +7,7 @@ var geoUser = [];
 
 var T = new Twit(config);
 
-var array = fs.readFileSync('mining_bot_dupe_D25.txt').toString().split("\n");
+var array = fs.readFileSync('mining_bot_dupe_D2_M8.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
     return index == self.indexOf(elem);
 })
@@ -121,7 +121,7 @@ function writeFileToTxt(){
       toTxt += userGeo[i] + "\n";
     }
   }
-  var textName = "z_user_bot_detail_"+runner+"_record.txt";
+  var textName = "z_user_bot_detail_D2_record.txt";
   runner++;
   fs.appendFile(textName, toTxt , function (err) {
     if (err) throw err;

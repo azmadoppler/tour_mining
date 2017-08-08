@@ -4,7 +4,7 @@ var fs = require('fs');
 var googleMapsClient = require('@google/maps').createClient({key: 'AIzaSyDZA6lUixjsRpfgzaeBpVJHODCvOfriIGo'});
 var cleaner = require('./data_cleaning_for_google_map.js')
 //Reach Data from txt and remove dupplicate
-var array = fs.readFileSync('user_bot_combine_record.txt').toString().split("\n");
+var array = fs.readFileSync('z_user_bot_detail_D2_record.txt').toString().split("\n");
 var unique = array.filter(function(elem, index, self) {
   return index == self.indexOf(elem);
 })
@@ -83,7 +83,7 @@ function mapAPIApp(lat, lon) {
 function writeFileToTxt(rec_data) {
   var toTxt = "";
   toTxt += "User ID : " + writtingID + ", Location : " + rec_data +  ", Created At : " + writtingDate +  "\n";
-  var textName = "Keyword_Mapped_v3.txt";
+  var textName = "Keyword_Mapped_v4.txt";
   fs.appendFile(textName, toTxt, function(err) {
     if (err)
       throw err;

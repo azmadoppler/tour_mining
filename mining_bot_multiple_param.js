@@ -20,7 +20,7 @@ function loopingTwitter() {
     result_type: 'recent',
     max_id: currentID,
     //YYYY-MM-DD
-    until: '2017-08-1',
+    until: '2017-08-10',
     geocode: '35.7022,139.7741,500km'
   };
   T.get('search/tweets', params, retrieveTweet);
@@ -117,7 +117,7 @@ function writeToText() {
       toTxt += geoUser[i] + "\n";
     }
   }
-  var textName = "mining_bot_result_D2_M8.txt";
+  var textName = "mining_bot_result_D10_M8.txt";
   fs.appendFile(textName, toTxt, function(err) {
     if (err)
       throw err;

@@ -92,7 +92,7 @@
     <div class="row">
         <div class="panel panel-primary filterable"  v-for="(record , index) in all_tour_record">
             <div class="panel-heading">
-                <h3 class="panel-title">Record Number : {{index+1}} - Username : {{record.user_id}}</h3>
+                <h3 class="panel-title">Record Number : {{index+1}} - Username : {{record.user}}</h3>
             </div>
             <table class="table">
                 <thead>
@@ -219,6 +219,7 @@ $('.owl-carousel').owlCarousel({
 
         this.all_tour_record = all_record;
         this.records = response.data
+        this.title = location;
 
       }).catch((error) =>{
         console.log("ERROR : " + error)
